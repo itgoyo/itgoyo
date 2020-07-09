@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+名字：浮生甲第
+Github：itgoyo
+微博、知乎、B站：浮生甲第ITGOYO
+斗鱼房间:201001
+Don't be a programmer, Be a problem solver.
+公众号：Fullstacker
+
+- 📫 How to reach me:
+    - :octocat:[Github@itgoyo](https://github.com/itgoyo)
+    - :email:[mail@itgoyo](mailto:itgoyo@gmail.com)
+    - :tv:[Bilibili@itgoyo](https://space.bilibili.com/12767066)
+    - :tv:[Youtube@itgoyo](https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ?view_as=subscriber)
