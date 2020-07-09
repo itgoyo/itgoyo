@@ -29,7 +29,7 @@ Don't be a programmer, Be a problem solver.
 
 - 📫 How to reach me:
     - :octocat:[Github@itgoyo](https://github.com/itgoyo)
-    - :email:[mail@itgoyo](mailto:itgoyo@gmail.com)
+    - :email:[Mail@itgoyo](mailto:itgoyo@gmail.com)
     - :tv:[Bilibili@itgoyo](https://space.bilibili.com/12767066)
     - :tv:[Youtube@itgoyo](https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ?view_as=subscriber)
     - :camera:[Instagram@itgoyo](https://www.instagram.com/itgoyo1991/)
@@ -39,3 +39,16 @@ Don't be a programmer, Be a problem solver.
     - MacBookPro2015
     - i7-6700k 32G 256SSD+4T RX590 MacOS Catalina 10.15.6
     - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.6
+
+- :pencil2: My Blog
+
+    - [Blog](https://itgoyo.github.io/)
+
+- :video_game:
+    - [Games](https://itgoyo.github.io/games/)
+
+- :book:
+    - [Books](https://itgoyo.github.io/books/)
+
+- :clapper:
+    - [Movie](https://itgoyo.github.io/movies/)
