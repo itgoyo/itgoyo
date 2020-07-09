@@ -40,15 +40,7 @@ Don't be a programmer, Be a problem solver.
     - i7-6700k 32G 256SSD+4T RX590 MacOS Catalina 10.15.6
     - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.6
 
-- :pencil2: My Blog
 
-    - [Blog](https://itgoyo.github.io/)
-
-- :video_game:
-    - [Games](https://itgoyo.github.io/games/)
-
-- :book:
-    - [Books](https://itgoyo.github.io/books/)
-
-- :clapper:
-    - [Movie](https://itgoyo.github.io/movies/)
+| :pencil2: | :video_game: | :book: |:clapper:  |
+| --- | --- | --- | --- |
+| [Blogs](https://itgoyo.github.io/) |[Games](https://itgoyo.github.io/games/)  | [Books](https://itgoyo.github.io/books/) | [Movies](https://itgoyo.github.io/movies/) |
