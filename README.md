@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&show_icons=true)
+
 名字：浮生甲第
 
 Github：itgoyo
