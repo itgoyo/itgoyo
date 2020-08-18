@@ -17,13 +17,15 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&show_icons=true)
 
+### :dart: Weekly Fuck The Code
+
 <!--START_SECTION:waka-->
 ```text
-Markdown   33 mins         ███████▓░░░░░░░░░░░░░░░░░   30.98 % 
-HTML       27 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.46 % 
-Text       21 mins         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-VimL       11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-JSON       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Markdown   33 mins         ███████▓░░░░░░░░░░░░░░░░░   30.98 %
+HTML       27 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.46 %
+Text       21 mins         █████░░░░░░░░░░░░░░░░░░░░   19.68 %
+VimL       11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+JSON       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
 ```
 <!--END_SECTION:waka-->
 
