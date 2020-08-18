@@ -17,22 +17,9 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&show_icons=true)
 
-name: WakaTime Readme
+<!--START_SECTION:waka-->
 
-on:
-  push:
-    branches:
-      - master
-  schedule:
-    - cron: '0 19 * * *'
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+<!--END_SECTION:waka-->
 
 名字：浮生甲第
 
