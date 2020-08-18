@@ -17,6 +17,23 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&show_icons=true)
 
+name: WakaTime Readme
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 19 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
 名字：浮生甲第
 
 Github：itgoyo
@@ -46,3 +63,6 @@ Don't be a programmer, Be a problem solver.
 | :pencil2: | :video_game: | :book: |:clapper:  |
 | --- | --- | --- | --- |
 | [Blogs](https://itgoyo.github.io/) |[Games](https://itgoyo.github.io/games/)  | [Books](https://itgoyo.github.io/books/) | [Movies](https://itgoyo.github.io/movies/) |
+
+
+[https://github.com/itgoyo/itgoyo](https://github.com/itgoyo/itgoyo)
