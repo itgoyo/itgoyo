@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&show_icons=true)
 
-### Spotify Playing 🎧
+### 🎧 Spotify Playing
+
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="itgoyo Spotify Playing" width="350" />](https://open.spotify.com/user/g9mmploi6sdrg6sk0xosqex2u)
 
 ### :dart: Weekly Fuck The Code
