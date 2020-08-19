@@ -21,13 +21,18 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java       4 hrs 2 mins    ███████████████▒░░░░░░░░░   61.53 % 
-Markdown   54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-XML        53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-VimL       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-YAML       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Java       4 hrs 2 mins    ███████████████▒░░░░░░░░░   61.53 %
+Markdown   54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+XML        53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
+VimL       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+YAML       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 <!--END_SECTION:waka-->
+
+### :sparkles: My Followers
+
+<!--START_SECTION:top-followers-->
+<!--END_SECTION:top-followers-->
 
 名字：浮生甲第
 
