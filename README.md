@@ -37,7 +37,6 @@ YAML       9 mins          ▓░░░░░░░░░░░░░░░░�
 ### :sparkles: My Followers
 
 <!--START_SECTION:top-followers-->
-
 <table>
   <tr>
     <td align="center">
