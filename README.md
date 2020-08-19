@@ -1,3 +1,7 @@
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
+</p>
 ### Hi there 👋 Welcome to my GitHub!
 
 <!--
@@ -32,7 +36,7 @@ YAML       9 mins          ▓░░░░░░░░░░░░░░░░�
 ### :sparkles: My Followers
 
 <!--START_SECTION:top-followers-->
-<!--END_SECTION:top-followers-->
+
 
 名字：浮生甲第
 
