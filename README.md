@@ -188,6 +188,9 @@ Don't be a programmer, Be a problem solver.
 
 ### Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 Only the latest **5** articles are displayed here.
 
 <!--START_SECTION:posts-->
