@@ -1,0 +1,14 @@
+name: Update blog posts to README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://itgoyo.github.io/atom.xml
+          readme-section: posts
