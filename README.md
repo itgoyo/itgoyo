@@ -186,5 +186,13 @@ Don't be a programmer, Be a problem solver.
 | [Blogs](https://itgoyo.github.io/) |[Games](https://itgoyo.github.io/games/)  | [Books](https://itgoyo.github.io/books/) | [Movies](https://itgoyo.github.io/movies/) |
 
 
+### Blog Posts
+
+Only the latest **5** articles are displayed here.
+
+<!--START_SECTION:posts-->
+
+<!--END_SECTION:posts-->
+
 [https://github.com/itgoyo/itgoyo](https://github.com/itgoyo/itgoyo)
 
