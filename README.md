@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java       4 hrs 2 mins    ███████████████▒░░░░░░░░░   61.53 % 
-Markdown   54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-XML        53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-VimL       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-YAML       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Java       4 hrs 2 mins    ███████████████▒░░░░░░░░░   61.53 %
+Markdown   54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+XML        53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
+VimL       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+YAML       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 <!--END_SECTION:waka-->
 
@@ -186,16 +186,8 @@ Don't be a programmer, Be a problem solver.
 | [Blogs](https://itgoyo.github.io/) |[Games](https://itgoyo.github.io/games/)  | [Books](https://itgoyo.github.io/books/) | [Movies](https://itgoyo.github.io/movies/) |
 
 
-### Blog Posts
+### :zap: Recent Activity
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-Only the latest **5** articles are displayed here.
-
-<!--START_SECTION:posts-->
-
-<!--END_SECTION:posts-->
-
-[https://github.com/itgoyo/itgoyo](https://github.com/itgoyo/itgoyo)
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
