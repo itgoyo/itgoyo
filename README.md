@@ -200,4 +200,6 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#2](https://github.com//itgoyo/DeliberatePracticeVimIn30Days/issues/2) in [itgoyo/DeliberatePracticeVimIn30Days](https://github.com//itgoyo/DeliberatePracticeVimIn30Days)
+2. ❗️ Opened issue [#1](https://github.com//itgoyo/DeliberatePracticeVimIn30Days/issues/1) in [itgoyo/DeliberatePracticeVimIn30Days](https://github.com//itgoyo/DeliberatePracticeVimIn30Days)
 <!--END_SECTION:activity-->
