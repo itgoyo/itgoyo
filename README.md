@@ -200,3 +200,7 @@ Don't be a programmer, Be a problem solver.
 1. 💪 Opened PR [#263](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/263) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
 2. ❗️ Opened issue [#2](https://github.com//itgoyo/DeliberatePracticeVimIn30Days/issues/2) in [itgoyo/DeliberatePracticeVimIn30Days](https://github.com//itgoyo/DeliberatePracticeVimIn30Days)
 <!--END_SECTION:activity-->
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
