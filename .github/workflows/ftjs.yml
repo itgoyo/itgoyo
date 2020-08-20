@@ -1,14 +1,15 @@
 name: JavaScript Demo
 on:
-  workflow_dispatch:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
+  workflow_dispatch:
+
 
 jobs:
-  try-js:
-    name: JavaScript Demo With FT
+  build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v2
       - uses: itgoyo/javascript-action@master
