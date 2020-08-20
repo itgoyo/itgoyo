@@ -1,0 +1,17 @@
+name: JavaScript Demo
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+
+jobs:
+  try-js:
+    name: JavaScript Demo With FT
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: itgoyo/javascript-action@master
+        env:
+         ftkey: ${{ secrets.FT_API_KEY }}
+
