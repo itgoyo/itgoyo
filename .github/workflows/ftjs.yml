@@ -5,7 +5,7 @@ on:
     - cron: '0 * * * *'
 
 jobs:
-  try js:
+  try-js:
     name: JavaScript Demo With FT
     runs-on: ubuntu-latest
     steps:
