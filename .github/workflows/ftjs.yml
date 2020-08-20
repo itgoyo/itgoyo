@@ -12,6 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: itgoyo/javascript-action@master
       - uses: ./
+      - uses: npm try-js
         env:
          ftkey: ${{ secrets.FT_API_KEY }}
 
