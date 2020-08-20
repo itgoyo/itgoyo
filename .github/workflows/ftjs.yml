@@ -11,6 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: itgoyo/javascript-action@master
-        with:
-         ftkey: ${{ secrets.FT_API_KEY }} 
-         
+        env:
+         ftkey: ${{ secrets.FT_API_KEY }}
+
