@@ -116,18 +116,18 @@ JavaScript   43 mins         ▓░░░░░░░░░░░░░░░░
       <a href="https://github.com/zhuwenxing">zhuwenxing</a>
     </td>
     <td align="center">
-      <a href="https://github.com/MagicMashRoom">
-        <img src="https://avatars2.githubusercontent.com/u/19260780" width="100px;" alt="MagicMashRoom"/>
-      </a>
-      <br />
-      <a href="https://github.com/MagicMashRoom">MagicMashRoom</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Neustradamus">
         <img src="https://avatars2.githubusercontent.com/u/104737" width="100px;" alt="Neustradamus"/>
       </a>
       <br />
       <a href="https://github.com/Neustradamus">Neustradamus</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MagicMashRoom">
+        <img src="https://avatars2.githubusercontent.com/u/19260780" width="100px;" alt="MagicMashRoom"/>
+      </a>
+      <br />
+      <a href="https://github.com/MagicMashRoom">MagicMashRoom</a>
     </td>
     <td align="center">
       <a href="https://github.com/guanhui07">
