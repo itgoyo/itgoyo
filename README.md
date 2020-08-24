@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java         14 hrs 41 mins  ███████████████▒░░░░░░░░░   61.89 % 
-Markdown     3 hrs 41 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-XML          2 hrs 52 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-YAML         1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-JavaScript   43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Java         14 hrs 39 mins  ███████████████▓░░░░░░░░░   62.63 % 
+Markdown     3 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+XML          2 hrs 52 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+YAML         1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+JavaScript   43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 ```
 <!--END_SECTION:waka-->
 
