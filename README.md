@@ -197,8 +197,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#229](https://github.com//itgoyo/500Days-Of-Github/issues/229) in [itgoyo/500Days-Of-Github](https://github.com//itgoyo/500Days-Of-Github)
-2. 💪 Opened PR [#263](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/263) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+1. ❗️ Opened issue [#2](https://github.com//itgoyo/FullStackDeveloper/issues/2) in [itgoyo/FullStackDeveloper](https://github.com//itgoyo/FullStackDeveloper)
+2. ❗️ Opened issue [#229](https://github.com//itgoyo/500Days-Of-Github/issues/229) in [itgoyo/500Days-Of-Github](https://github.com//itgoyo/500Days-Of-Github)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
