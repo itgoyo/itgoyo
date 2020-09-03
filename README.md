@@ -86,11 +86,11 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
       <a href="https://github.com/cnsuhao">cnsuhao</a>
     </td>
     <td align="center">
-      <a href="https://github.com/KodiMadhavarao">
-        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="KodiMadhavarao"/>
+      <a href="https://github.com/MadhavDev-prog">
+        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
       </a>
       <br />
-      <a href="https://github.com/KodiMadhavarao">suffixdev</a>
+      <a href="https://github.com/MadhavDev-prog">suffixdev</a>
     </td>
     <td align="center">
       <a href="https://github.com/ziaochina">
