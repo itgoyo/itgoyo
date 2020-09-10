@@ -197,8 +197,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#122](https://github.com//itgoyo/AndroidSummary/issues/122) in [itgoyo/AndroidSummary](https://github.com//itgoyo/AndroidSummary)
-2. ❗️ Opened issue [#3](https://github.com//itgoyo/FullStackDeveloper/issues/3) in [itgoyo/FullStackDeveloper](https://github.com//itgoyo/FullStackDeveloper)
+1. ❗️ Opened issue [#230](https://github.com//itgoyo/500Days-Of-Github/issues/230) in [itgoyo/500Days-Of-Github](https://github.com//itgoyo/500Days-Of-Github)
+2. ❗️ Opened issue [#122](https://github.com//itgoyo/AndroidSummary/issues/122) in [itgoyo/AndroidSummary](https://github.com//itgoyo/AndroidSummary)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
