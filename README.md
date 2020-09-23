@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java     20 hrs 6 mins   ████████████████▒░░░░░░░░   65.51 % 
-Groovy   5 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.34 % 
-XML      4 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Bash     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Prolog   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Java     13 hrs 5 mins   ██████████████░░░░░░░░░░░   56.25 % 
+Groovy   5 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.47 % 
+XML      4 hrs 13 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Bash     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Prolog   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 <!--END_SECTION:waka-->
 
