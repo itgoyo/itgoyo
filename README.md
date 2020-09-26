@@ -197,8 +197,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#232](https://github.com//itgoyo/500Days-Of-Github/issues/232) in [itgoyo/500Days-Of-Github](https://github.com//itgoyo/500Days-Of-Github)
-2. 🎉 Merged PR [#1](https://github.com//itgoyo/hackernews-daily/pull/1) in [itgoyo/hackernews-daily](https://github.com//itgoyo/hackernews-daily)
+1. ❗️ Opened issue [#232](https://github.com/itgoyo/500Days-Of-Github/issues/232) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+2. 🎉 Merged PR [#1](https://github.com/itgoyo/hackernews-daily/pull/1) in [itgoyo/hackernews-daily](https://github.com/itgoyo/hackernews-daily)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
