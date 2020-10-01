@@ -104,7 +104,7 @@ Kotlin     14 mins         ▒░░░░░░░░░░░░░░░░�
         <img src="https://avatars2.githubusercontent.com/u/5681447" width="100px;" alt="imknown"/>
       </a>
       <br />
-      <a href="https://github.com/imknown">imknown</a>
+      <a href="https://github.com/imknown">imknown J. Kimu</a>
     </td>
   </tr>
   <tr>
