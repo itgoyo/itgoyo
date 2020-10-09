@@ -44,8 +44,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Bash    7 mins          ███████████████████░░░░░░   76.41 % 
-Other   2 mins          ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
