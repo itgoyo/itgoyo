@@ -44,7 +44,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java   4 hrs 45 mins   ███████████████▒░░░░░░░░░   60.72 % 
+XML    3 hrs 4 mins    █████████▓░░░░░░░░░░░░░░░   39.28 % 
 ```
 <!--END_SECTION:waka-->
 
