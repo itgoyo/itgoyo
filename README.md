@@ -203,9 +203,9 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【Spotify/音乐/歌词】最好用的网络音乐播放器Spotify，配合歌词软件简直不要太爽](https://www.youtube.com/watch?v=CfUshG3jO7E)
 - [【Github/GtihubProfile】Github？建议改成Gayhub！！！](https://www.youtube.com/watch?v=I682-mKdgLw)
 - [【粉丝勋章/粉丝牌/DIY】这就是自制粉丝牌勋章么？i了i了](https://www.youtube.com/watch?v=35HDx4klcDw)
 - [【Github/Git/开源项目】这才是Github正确的打开方式，CV工程师总于有救了](https://www.youtube.com/watch?v=0lQrxIs82QA)
 - [【Mac/生产力/输入法】Mac一键切换输入法，再也不会出现中英文错乱的情况了『Mac生产工具篇第01篇』](https://www.youtube.com/watch?v=F7PfLidhwLQ)
-- [【降噪/直播/机架/Studio One/Sam】保姆级教学一键降噪包教包会，让你的声音更加清晰](https://www.youtube.com/watch?v=mHxwlO61_t4)
 <!-- YOUTUBE:END -->
