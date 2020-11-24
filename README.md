@@ -65,13 +65,6 @@ JSON       9 mins          ░░░░░░░░░░░░░░░░░�
       <a href="https://github.com/snowdream">snowdream</a>
     </td>
     <td align="center">
-      <a href="https://github.com/edglaz">
-        <img src="https://avatars2.githubusercontent.com/u/48146403" width="100px;" alt="edglaz"/>
-      </a>
-      <br />
-      <a href="https://github.com/edglaz">edglaz</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/bitmote">
         <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
       </a>
@@ -106,8 +99,6 @@ JSON       9 mins          ░░░░░░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/zhuwenxing">zhuwenxing</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ziaochina">
         <img src="https://avatars2.githubusercontent.com/u/4494312" width="100px;" alt="ziaochina"/>
@@ -115,6 +106,8 @@ JSON       9 mins          ░░░░░░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/ziaochina">liujian zhang</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/imknown">
         <img src="https://avatars2.githubusercontent.com/u/5681447" width="100px;" alt="imknown"/>
@@ -156,6 +149,13 @@ JSON       9 mins          ░░░░░░░░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/myd7349">myd7349</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ning1022">
+        <img src="https://avatars2.githubusercontent.com/u/5090092" width="100px;" alt="ning1022"/>
+      </a>
+      <br />
+      <a href="https://github.com/ning1022">ning1022</a>
     </td>
   </tr>
 </table>
