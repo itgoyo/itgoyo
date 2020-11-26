@@ -116,6 +116,13 @@ JSON     5 mins          ░░░░░░░░░░░░░░░░░░�
       <a href="https://github.com/imknown">imknown J. Kimu</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Neustradamus">
+        <img src="https://avatars2.githubusercontent.com/u/104737" width="100px;" alt="Neustradamus"/>
+      </a>
+      <br />
+      <a href="https://github.com/Neustradamus">Neustradamus</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/MagicMashRoom">
         <img src="https://avatars2.githubusercontent.com/u/19260780" width="100px;" alt="MagicMashRoom"/>
       </a>
@@ -149,13 +156,6 @@ JSON     5 mins          ░░░░░░░░░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/myd7349">myd7349</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ning1022">
-        <img src="https://avatars2.githubusercontent.com/u/5090092" width="100px;" alt="ning1022"/>
-      </a>
-      <br />
-      <a href="https://github.com/ning1022">ning1022</a>
     </td>
   </tr>
 </table>
