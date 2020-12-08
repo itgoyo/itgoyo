@@ -197,8 +197,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/itgoyo/Video-Recording/issues/15) in [itgoyo/Video-Recording](https://github.com/itgoyo/Video-Recording)
-2. ❗️ Opened issue [#233](https://github.com/itgoyo/500Days-Of-Github/issues/233) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. ❗️ Opened issue [#234](https://github.com/itgoyo/500Days-Of-Github/issues/234) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+2. 🗣 Commented on [#15](https://github.com/itgoyo/Video-Recording/issues/15) in [itgoyo/Video-Recording](https://github.com/itgoyo/Video-Recording)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
