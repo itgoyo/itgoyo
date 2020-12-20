@@ -151,11 +151,11 @@ JSON         7 mins          ▒░░░░░░░░░░░░░░░░
       <a href="https://github.com/ifeegoo">ifeegoo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/myd7349">
-        <img src="https://avatars2.githubusercontent.com/u/5435649" width="100px;" alt="myd7349"/>
+      <a href="https://github.com/Tim2906">
+        <img src="https://avatars2.githubusercontent.com/u/69757707" width="100px;" alt="Tim2906"/>
       </a>
       <br />
-      <a href="https://github.com/myd7349">myd7349</a>
+      <a href="https://github.com/Tim2906">Tim</a>
     </td>
   </tr>
 </table>
