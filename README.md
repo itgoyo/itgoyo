@@ -196,12 +196,10 @@ Don't be a programmer, Be a problem solver.
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 More on <a href="https://itgoyo.github.io" target="blank">itgoyo.github.io</a>
 
 **✨ 豆瓣动态**
 
 <!-- DOUBAN-ACTIVITIES:START -->
-
 <!-- DOUBAN-ACTIVITIES:END -->
