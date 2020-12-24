@@ -185,8 +185,8 @@ Don't be a programmer, Be a problem solver.
 - :computer: PC/Mac:
 
     - MacBookPro2015
-    - i7-6700k 32G 256SSD+4T RX590 MacOS Catalina 10.15.6
-    - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.6
+    - i7-6700k 32G 256SSD+4T RX590 MacOS Big Sur 11.1
+    - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.7
 
 
 | :pencil2: | :video_game: | :book: |:clapper:  |
