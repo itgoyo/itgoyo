@@ -192,14 +192,3 @@ Don't be a programmer, Be a problem solver.
 - [【粉丝勋章/粉丝牌/DIY】这就是自制粉丝牌勋章么？i了i了](https://www.youtube.com/watch?v=35HDx4klcDw)
 - [【Github/Git/开源项目】这才是Github正确的打开方式，CV工程师总于有救了](https://www.youtube.com/watch?v=0lQrxIs82QA)
 <!-- YOUTUBE:END -->
-
-**📝 Blog posts:**
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-More on <a href="https://itgoyo.github.io" target="blank">itgoyo.github.io</a>
-
-**✨ 豆瓣动态**
-
-<!-- DOUBAN-ACTIVITIES:START -->
-<!-- DOUBAN-ACTIVITIES:END -->
