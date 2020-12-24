@@ -12,4 +12,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "update blog list"
           feed_list: "https://itgoyo.github.io/atom.xml"
