@@ -2,7 +2,7 @@ name: Latest blog post workflow on Hexo
 on:
   schedule:
     # Runs every 2 hour
-    - cron: "0 */2 * * *"
+    - cron: "*/2 * * * *"
 
 jobs:
   update-readme-with-blog:
