@@ -186,9 +186,9 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【HHKB/静电容键盘/机械键盘】为什么就算是吃土我也要买两把HHKB键盘？HHKB真的有那么好用吗？确定不是被吹的吗？](https://www.youtube.com/watch?v=p4Y0JWF5WpE)
 - [【Mac/声音/麦克风】Mac下面如何同时捕获系统声音和麦克风的声音 SoundFlower&Loopback&IshowU&BlackHole](https://www.youtube.com/watch?v=CxZ6r33uMJc)
 - [【Spotify/音乐/歌词】最好用的网络音乐播放器Spotify，配合歌词软件简直不要太爽](https://www.youtube.com/watch?v=CfUshG3jO7E)
 - [【Github/GtihubProfile】Github？建议改成Gayhub！！！](https://www.youtube.com/watch?v=I682-mKdgLw)
 - [【粉丝勋章/粉丝牌/DIY】这就是自制粉丝牌勋章么？i了i了](https://www.youtube.com/watch?v=35HDx4klcDw)
-- [【Github/Git/开源项目】这才是Github正确的打开方式，CV工程师总于有救了](https://www.youtube.com/watch?v=0lQrxIs82QA)
 <!-- YOUTUBE:END -->
