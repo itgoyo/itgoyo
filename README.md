@@ -180,8 +180,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/itgoyo/i3/issues/10) in [itgoyo/i3](https://github.com/itgoyo/i3)
-2. ❗️ Opened issue [#240](https://github.com/itgoyo/500Days-Of-Github/issues/240) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. ❗️ Opened issue [#241](https://github.com/itgoyo/500Days-Of-Github/issues/241) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+2. ❗️ Opened issue [#10](https://github.com/itgoyo/i3/issues/10) in [itgoyo/i3](https://github.com/itgoyo/i3)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
