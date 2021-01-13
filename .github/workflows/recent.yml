@@ -15,3 +15,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+        with:
+                  COMMIT_MSG: 'update issue message'
+                  MAX_LINES: 10
