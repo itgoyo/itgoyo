@@ -27,11 +27,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java   10 hrs 39 mins  ██████████████▒░░░░░░░░░░   57.93 % 
-XML    3 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Go     2 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-VimL   45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Bash   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Java   8 hrs 51 mins   ██████████████░░░░░░░░░░░   55.78 % 
+Go     2 hrs 54 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.33 % 
+XML    1 hr 58 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+VimL   45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Bash   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -92,18 +92,18 @@ Bash   32 mins         ▓░░░░░░░░░░░░░░░░░░
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/ziaochina">
-        <img src="https://avatars2.githubusercontent.com/u/4494312" width="100px;" alt="ziaochina"/>
-      </a>
-      <br />
-      <a href="https://github.com/ziaochina">liujian zhang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/imknown">
         <img src="https://avatars2.githubusercontent.com/u/5681447" width="100px;" alt="imknown"/>
       </a>
       <br />
       <a href="https://github.com/imknown">imknown J. Kimu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ziaochina">
+        <img src="https://avatars2.githubusercontent.com/u/4494312" width="100px;" alt="ziaochina"/>
+      </a>
+      <br />
+      <a href="https://github.com/ziaochina">liujian zhang</a>
     </td>
     <td align="center">
       <a href="https://github.com/MagicMashRoom">
@@ -180,8 +180,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/itgoyo/DeliberatePracticeVimIn30Days/issues/4) in [itgoyo/DeliberatePracticeVimIn30Days](https://github.com/itgoyo/DeliberatePracticeVimIn30Days)
-2. ❗️ Opened issue [#242](https://github.com/itgoyo/500Days-Of-Github/issues/242) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. ❗️ Opened issue [#244](https://github.com/itgoyo/500Days-Of-Github/issues/244) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+2. ❗️ Opened issue [#243](https://github.com/itgoyo/500Days-Of-Github/issues/243) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
