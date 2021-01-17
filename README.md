@@ -122,18 +122,18 @@ Markdown   39 mins         █▒░░░░░░░░░░░░░░░�
       <a href="https://github.com/gee1k">Svend</a>
     </td>
     <td align="center">
-      <a href="https://github.com/guanhui07">
-        <img src="https://avatars2.githubusercontent.com/u/5820457" width="100px;" alt="guanhui07"/>
-      </a>
-      <br />
-      <a href="https://github.com/guanhui07">royee</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Tim2906">
         <img src="https://avatars2.githubusercontent.com/u/69757707" width="100px;" alt="Tim2906"/>
       </a>
       <br />
       <a href="https://github.com/Tim2906">Tim</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/guanhui07">
+        <img src="https://avatars2.githubusercontent.com/u/5820457" width="100px;" alt="guanhui07"/>
+      </a>
+      <br />
+      <a href="https://github.com/guanhui07">royee</a>
     </td>
     <td align="center">
       <a href="https://github.com/ifeegoo">
