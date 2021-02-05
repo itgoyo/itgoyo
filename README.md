@@ -108,6 +108,13 @@ Groovy   51 mins         ██▒░░░░░░░░░░░░░░░�
       <a href="https://github.com/imknown">imknown J. Kimu</a>
     </td>
     <td align="center">
+      <a href="https://github.com/donmartz">
+        <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
+      </a>
+      <br />
+      <a href="https://github.com/donmartz">donmartz</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/gee1k">
         <img src="https://avatars2.githubusercontent.com/u/12059800" width="100px;" alt="gee1k"/>
       </a>
@@ -134,13 +141,6 @@ Groovy   51 mins         ██▒░░░░░░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/guanhui07">royee</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ifeegoo">
-        <img src="https://avatars2.githubusercontent.com/u/5191094" width="100px;" alt="ifeegoo"/>
-      </a>
-      <br />
-      <a href="https://github.com/ifeegoo">ifeegoo</a>
     </td>
   </tr>
 </table>
