@@ -94,6 +94,13 @@ Groovy   52 mins         ██░░░░░░░░░░░░░░░░�
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/donmartz">
+        <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
+      </a>
+      <br />
+      <a href="https://github.com/donmartz">donmartz</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ziaochina">
         <img src="https://avatars2.githubusercontent.com/u/4494312" width="100px;" alt="ziaochina"/>
       </a>
@@ -108,13 +115,6 @@ Groovy   52 mins         ██░░░░░░░░░░░░░░░░�
       <a href="https://github.com/imknown">imknown J. Kimu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/donmartz">
-        <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
-      </a>
-      <br />
-      <a href="https://github.com/donmartz">donmartz</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/gee1k">
         <img src="https://avatars2.githubusercontent.com/u/12059800" width="100px;" alt="gee1k"/>
       </a>
@@ -122,18 +122,18 @@ Groovy   52 mins         ██░░░░░░░░░░░░░░░░�
       <a href="https://github.com/gee1k">Svend</a>
     </td>
     <td align="center">
-      <a href="https://github.com/MagicMashRoom">
-        <img src="https://avatars2.githubusercontent.com/u/19260780" width="100px;" alt="MagicMashRoom"/>
-      </a>
-      <br />
-      <a href="https://github.com/MagicMashRoom">MagicMashRoom</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Tim2906">
         <img src="https://avatars2.githubusercontent.com/u/69757707" width="100px;" alt="Tim2906"/>
       </a>
       <br />
       <a href="https://github.com/Tim2906">Tim</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MagicMashRoom">
+        <img src="https://avatars2.githubusercontent.com/u/19260780" width="100px;" alt="MagicMashRoom"/>
+      </a>
+      <br />
+      <a href="https://github.com/MagicMashRoom">MagicMashRoom</a>
     </td>
     <td align="center">
       <a href="https://github.com/guanhui07">
