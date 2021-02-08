@@ -50,6 +50,13 @@ Groovy   52 mins         ██░░░░░░░░░░░░░░░░�
       <a href="https://github.com/snowdream">snowdream</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Magicianred">
+        <img src="https://avatars2.githubusercontent.com/u/4624113" width="100px;" alt="Magicianred"/>
+      </a>
+      <br />
+      <a href="https://github.com/Magicianred">Simone Paolucci</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/bitmote">
         <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
       </a>
@@ -84,6 +91,8 @@ Groovy   52 mins         ██░░░░░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/Neustradamus">Neustradamus</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/zhuwenxing">
         <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
@@ -91,8 +100,6 @@ Groovy   52 mins         ██░░░░░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/zhuwenxing">zhuwenxing</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/donmartz">
         <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
@@ -134,13 +141,6 @@ Groovy   52 mins         ██░░░░░░░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/MagicMashRoom">MagicMashRoom</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/guanhui07">
-        <img src="https://avatars2.githubusercontent.com/u/5820457" width="100px;" alt="guanhui07"/>
-      </a>
-      <br />
-      <a href="https://github.com/guanhui07">royee</a>
     </td>
   </tr>
 </table>
