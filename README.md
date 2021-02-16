@@ -29,9 +29,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java     1 hr 34 mins    ████████████▒░░░░░░░░░░░░   49.17 % 
-XML      1 hr 25 mins    ███████████░░░░░░░░░░░░░░   44.18 % 
-Groovy   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
