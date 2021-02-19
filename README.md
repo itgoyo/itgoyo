@@ -118,18 +118,18 @@ No Activity tracked this Week
       <a href="https://github.com/imknown">imknown J. Kimu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gee1k">
-        <img src="https://avatars2.githubusercontent.com/u/12059800" width="100px;" alt="gee1k"/>
-      </a>
-      <br />
-      <a href="https://github.com/gee1k">Svend</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Tim2906">
         <img src="https://avatars2.githubusercontent.com/u/69757707" width="100px;" alt="Tim2906"/>
       </a>
       <br />
       <a href="https://github.com/Tim2906">Tim</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gee1k">
+        <img src="https://avatars2.githubusercontent.com/u/12059800" width="100px;" alt="gee1k"/>
+      </a>
+      <br />
+      <a href="https://github.com/gee1k">Svend</a>
     </td>
     <td align="center">
       <a href="https://github.com/MagicMashRoom">
