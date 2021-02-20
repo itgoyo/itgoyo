@@ -29,7 +29,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java     1 hr 5 mins     █████████████████▓░░░░░░░   70.11 % 
+Groovy   23 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.04 % 
+Prolog   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 ```
 <!--END_SECTION:waka-->
 
