@@ -42,18 +42,18 @@ Prolog   3 mins          ▒░░░░░░░░░░░░░░░░░�
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/snowdream">
-        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
-      </a>
-      <br />
-      <a href="https://github.com/snowdream">snowdream</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Magicianred">
         <img src="https://avatars2.githubusercontent.com/u/4624113" width="100px;" alt="Magicianred"/>
       </a>
       <br />
       <a href="https://github.com/Magicianred">Simone Paolucci</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/snowdream">
+        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
+      </a>
+      <br />
+      <a href="https://github.com/snowdream">snowdream</a>
     </td>
     <td align="center">
       <a href="https://github.com/bitmote">
