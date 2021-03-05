@@ -22,7 +22,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="itgoyo Spotify Playing" width="350" />](https://open.spotify.com/user/g9mmploi6sdrg6sk0xosqex2u)
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true)(https://open.spotify.com/user/g9mmploi6sdrg6sk0xosqex2u)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true)
 
 
 ### :dart: Weekly Fuck The Code
