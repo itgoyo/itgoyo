@@ -180,8 +180,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/KeJunMao/bilibili-box/issues/3) in [KeJunMao/bilibili-box](https://github.com/KeJunMao/bilibili-box)
-2. ❗️ Opened issue [#246](https://github.com/itgoyo/500Days-Of-Github/issues/246) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. ❗️ Closed issue [#3](https://github.com/KeJunMao/bilibili-box/issues/3) in [KeJunMao/bilibili-box](https://github.com/KeJunMao/bilibili-box)
+2. 🗣 Commented on [#3](https://github.com/KeJunMao/bilibili-box/issues/3) in [KeJunMao/bilibili-box](https://github.com/KeJunMao/bilibili-box)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
