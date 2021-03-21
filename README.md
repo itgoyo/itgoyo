@@ -186,10 +186,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【斐讯N1/智能电视/软路由】无广告完美电视盒子，可以刷软路由，可以刷Linux，甚至可以当下载机，当NAS，N1盒子永远的神？](https://www.youtube.com/watch?v=j0BuZz0gHps)
 - [【RTMP】10秒钟搭建一个本地流媒体服务器](https://www.youtube.com/watch?v=KKObFXoDtOM)
 - [【HHKB/静电容键盘/机械键盘】为什么就算是吃土我也要买两把HHKB键盘？HHKB真的有那么好用吗？确定不是被吹的吗？](https://www.youtube.com/watch?v=p4Y0JWF5WpE)
 - [【Mac/声音/麦克风】Mac下面如何同时捕获系统声音和麦克风的声音 SoundFlower&Loopback&IshowU&BlackHole](https://www.youtube.com/watch?v=CxZ6r33uMJc)
 - [【Spotify/音乐/歌词】最好用的网络音乐播放器Spotify，配合歌词软件简直不要太爽](https://www.youtube.com/watch?v=CfUshG3jO7E)
-- [【Github/GtihubProfile】Github？建议改成Gayhub！！！](https://www.youtube.com/watch?v=I682-mKdgLw)
 <!-- YOUTUBE:END -->
 
