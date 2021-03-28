@@ -180,8 +180,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#768](https://github.com/yuliskov/SmartYouTubeTV/issues/768) in [yuliskov/SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV)
-2. ❗️ Closed issue [#3](https://github.com/KeJunMao/bilibili-box/issues/3) in [KeJunMao/bilibili-box](https://github.com/KeJunMao/bilibili-box)
+1. 🗣 Commented on [#224](https://github.com/itgoyo/500Days-Of-Github/issues/224) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+2. 🗣 Commented on [#768](https://github.com/yuliskov/SmartYouTubeTV/issues/768) in [yuliskov/SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
