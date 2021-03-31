@@ -18,8 +18,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&show_icons=true)
 
-![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
 
 
 
