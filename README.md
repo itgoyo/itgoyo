@@ -18,6 +18,11 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&show_icons=true)
 
+![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/languages.svg)
+
+
+
 ### 🎧 Spotify Playing
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="itgoyo Spotify Playing" width="350" />](https://open.spotify.com/user/g9mmploi6sdrg6sk0xosqex2u)
