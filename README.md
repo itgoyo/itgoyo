@@ -196,8 +196,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#224](https://github.com/itgoyo/500Days-Of-Github/issues/224) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
-2. ❗️ Opened issue [#247](https://github.com/itgoyo/500Days-Of-Github/issues/247) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. 💪 Opened PR [#3](https://github.com/itgoyo/write-github-script/pull/3) in [itgoyo/write-github-script](https://github.com/itgoyo/write-github-script)
+2. 💪 Opened PR [#2](https://github.com/itgoyo/write-github-script/pull/2) in [itgoyo/write-github-script](https://github.com/itgoyo/write-github-script)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
