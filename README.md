@@ -57,13 +57,6 @@ Other    27 mins         ▓░░░░░░░░░░░░░░░░░�
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Magicianred">
-        <img src="https://avatars2.githubusercontent.com/u/4624113" width="100px;" alt="Magicianred"/>
-      </a>
-      <br />
-      <a href="https://github.com/Magicianred">Simone Paolucci</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/snowdream">
         <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
       </a>
@@ -105,8 +98,6 @@ Other    27 mins         ▓░░░░░░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/Neustradamus">Neustradamus</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/MadhavDev-prog">
         <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
@@ -114,6 +105,8 @@ Other    27 mins         ▓░░░░░░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/MadhavDev-prog">suffixdev</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/zhuwenxing">
         <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
@@ -155,6 +148,13 @@ Other    27 mins         ▓░░░░░░░░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/MagicMashRoom">MagicMashRoom</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lowlighter">
+        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
+      </a>
+      <br />
+      <a href="https://github.com/lowlighter">Simon Lecoq</a>
     </td>
   </tr>
 </table>
