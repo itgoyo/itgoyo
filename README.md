@@ -78,18 +78,18 @@ Kotlin   9 mins          ░░░░░░░░░░░░░░░░░░�
       <a href="https://github.com/donmartz">donmartz</a>
     </td>
     <td align="center">
-      <a href="https://github.com/cnsuhao">
-        <img src="https://avatars2.githubusercontent.com/u/23429527" width="100px;" alt="cnsuhao"/>
-      </a>
-      <br />
-      <a href="https://github.com/cnsuhao">cnsuhao</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Neustradamus">
         <img src="https://avatars2.githubusercontent.com/u/104737" width="100px;" alt="Neustradamus"/>
       </a>
       <br />
       <a href="https://github.com/Neustradamus">Neustradamus</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cnsuhao">
+        <img src="https://avatars2.githubusercontent.com/u/23429527" width="100px;" alt="cnsuhao"/>
+      </a>
+      <br />
+      <a href="https://github.com/cnsuhao">cnsuhao</a>
     </td>
     <td align="center">
       <a href="https://github.com/swhgoon">
@@ -136,18 +136,18 @@ Kotlin   9 mins          ░░░░░░░░░░░░░░░░░░�
       <a href="https://github.com/Tim2906">Tim</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gee1k">
-        <img src="https://avatars2.githubusercontent.com/u/12059800" width="100px;" alt="gee1k"/>
-      </a>
-      <br />
-      <a href="https://github.com/gee1k">Svend</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lowlighter">
         <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
       </a>
       <br />
       <a href="https://github.com/lowlighter">Simon Lecoq</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gee1k">
+        <img src="https://avatars2.githubusercontent.com/u/12059800" width="100px;" alt="gee1k"/>
+      </a>
+      <br />
+      <a href="https://github.com/gee1k">Svend</a>
     </td>
     <td align="center">
       <a href="https://github.com/MagicMashRoom">
