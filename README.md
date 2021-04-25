@@ -196,8 +196,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#72](https://github.com/3Shain/Comen/issues/72) in [3Shain/Comen](https://github.com/3Shain/Comen)
-2. ❗️ Opened issue [#1](https://github.com/itgoyo/24h-Study-Challenge/issues/1) in [itgoyo/24h-Study-Challenge](https://github.com/itgoyo/24h-Study-Challenge)
+1. ❗️ Closed issue [#72](https://github.com/3Shain/Comen/issues/72) in [3Shain/Comen](https://github.com/3Shain/Comen)
+2. 🗣 Commented on [#72](https://github.com/3Shain/Comen/issues/72) in [3Shain/Comen](https://github.com/3Shain/Comen)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
