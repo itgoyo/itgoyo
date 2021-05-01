@@ -202,10 +202,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【油管/终端/ytfzf】一款不用浏览器，直接在终端看youtube视频而且带字幕的黑科技软件](https://www.youtube.com/watch?v=nZZEaPjlTfE)
 - [解放你的双手，AI自动给视频上字幕，重点还是免费的](https://www.youtube.com/watch?v=eeTxC7Ktyxw)
 - [【Mac/Alfred/效率神器】为什么Alfred是每一个Mac用户必装的一款效率神器，速度太快了，眼睛都跟不上](https://www.youtube.com/watch?v=oE6bZDFMdnY)
 - [【变声器/伪声/机架/sam】网恋的小姐姐居然是个抠脚大汉，猛男落泪，iD14 MKII+SE DM1+SM7B，设备升级](https://www.youtube.com/watch?v=SkflfNNKvxM)
 - [【终端/Terminal/黑客】终端8款必装的软件，有了它们开发效率提高800%](https://www.youtube.com/watch?v=gp-l0rsJ9rk)
-- [【玩转GitHub/PicGo/图床】一分钟搭建一个属于自己的免费图床，支持CDN加速，支持截图上传，支持多家云平台，重点是开源好用](https://www.youtube.com/watch?v=-iAzhl8VvGw)
 <!-- YOUTUBE:END -->
 
