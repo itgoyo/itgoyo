@@ -43,10 +43,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Bash       45 mins         █████████████▒░░░░░░░░░░░   53.52 % 
-Text       24 mins         ███████▒░░░░░░░░░░░░░░░░░   28.90 % 
-Other      12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
