@@ -118,6 +118,13 @@
       <a href="https://github.com/Tim2906">Tim</a>
     </td>
     <td align="center">
+      <a href="https://github.com/lowlighter">
+        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
+      </a>
+      <br />
+      <a href="https://github.com/lowlighter">Simon Lecoq</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/imknown">
         <img src="https://avatars2.githubusercontent.com/u/5681447" width="100px;" alt="imknown"/>
       </a>
@@ -130,13 +137,6 @@
       </a>
       <br />
       <a href="https://github.com/ziaochina">liujian zhang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lowlighter">
-        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
-      </a>
-      <br />
-      <a href="https://github.com/lowlighter">Simon Lecoq</a>
     </td>
     <td align="center">
       <a href="https://github.com/gee1k">
