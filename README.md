@@ -62,18 +62,18 @@ Other                      3 mins          ██░░░░░░░░░░�
       <a href="https://github.com/snowdream">snowdream</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bitmote">
-        <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
-      </a>
-      <br />
-      <a href="https://github.com/bitmote">ZhengXiaolei</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/donmartz">
         <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
       </a>
       <br />
       <a href="https://github.com/donmartz">donmartz</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bitmote">
+        <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
+      </a>
+      <br />
+      <a href="https://github.com/bitmote">ZhengXiaolei</a>
     </td>
     <td align="center">
       <a href="https://github.com/Neustradamus">
