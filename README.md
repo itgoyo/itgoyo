@@ -22,7 +22,7 @@
 ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
 
 
-<details open> 
+<details open>
  <summary> 😇 <b>Medium Published articles</b>: </summary>
 <br>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0" alt="Recent Article 0"></a>
@@ -43,9 +43,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-JSON                       32 mins         ███████████████▓░░░░░░░░░   62.81 % 
-Nginx configuration file   15 mins         ███████▒░░░░░░░░░░░░░░░░░   29.57 % 
-Other                      3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+JSON                       32 mins         ███████████████▓░░░░░░░░░   62.81 %
+Nginx configuration file   15 mins         ███████▒░░░░░░░░░░░░░░░░░   29.57 %
+Other                      3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
 ```
 <!--END_SECTION:waka-->
 
@@ -181,6 +181,7 @@ Don't be a programmer, Be a problem solver.
 
 - :computer: PC/Mac:
 
+    - NUC8i7HVK 64G 2TSSD Big Sur 11.2 + Win10
     - MacBookPro2015
     - i7-6700k 32G 256SSD+4T RX590 MacOS Big Sur 11.1
     - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.7
