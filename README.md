@@ -43,10 +43,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-JSON                       34 mins         ███████████████▒░░░░░░░░░   61.95 % 
-Nginx configuration file   15 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.05 % 
-Other                      3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Markdown                   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+JSON       2 mins          █████████████▒░░░░░░░░░░░   52.77 % 
+Markdown   2 mins          ███████████▓░░░░░░░░░░░░░   47.23 % 
 ```
 <!--END_SECTION:waka-->
 
