@@ -43,8 +43,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-JSON       2 mins          █████████████▒░░░░░░░░░░░   52.77 % 
-Markdown   2 mins          ███████████▓░░░░░░░░░░░░░   47.23 % 
+JSON         2 mins          ████████████░░░░░░░░░░░░░   47.74 % 
+Markdown     2 mins          ██████████▓░░░░░░░░░░░░░░   42.72 % 
 ```
 <!--END_SECTION:waka-->
 
