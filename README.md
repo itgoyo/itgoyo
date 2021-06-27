@@ -199,10 +199,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【终端/命令/Terminal】windows常用的10个终端命令，学会了让你在学校机房做最靓的仔](https://www.youtube.com/watch?v=F-231AQ2Rr4)
 - [【vscode/网易云】作为程序员的我是怎么使用vscode来听网易云音乐的](https://www.youtube.com/watch?v=_fIUEjYajjo)
 - [【AHA Music/听歌识曲/BMG】我愿称之为地表最强听歌识曲软件，妈妈再也不用担心我找不到热门的BGM了](https://www.youtube.com/watch?v=NKCDdKok2mE)
 - [【油管/终端/ytfzf】一款不用浏览器，直接在终端看youtube视频而且带字幕的黑科技软件](https://www.youtube.com/watch?v=nZZEaPjlTfE)
 - [解放你的双手，AI自动给视频上字幕，重点还是免费的](https://www.youtube.com/watch?v=eeTxC7Ktyxw)
-- [【变声器/伪声/机架/sam】网恋的小姐姐居然是个抠脚大汉，猛男落泪，iD14 MKII+SE DM1+SM7B，设备升级](https://www.youtube.com/watch?v=SkflfNNKvxM)
 <!-- YOUTUBE:END -->
 
