@@ -34,6 +34,10 @@
 
 </details>
 
+### Latest Tweets
+
+<p><a href="https://www.twitter.com/itgoyo"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=itgoyo&amp;layout=wide" alt="github-readme-twitter"></a></p>
+
 ### 🎧 Spotify Playing
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="itgoyo Spotify Playing" width="350" />](https://open.spotify.com/user/g9mmploi6sdrg6sk0xosqex2u)
