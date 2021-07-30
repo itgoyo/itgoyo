@@ -102,20 +102,20 @@ Other      3 mins          ▒░░░░░░░░░░░░░░░░�
       <a href="https://github.com/swhgoon">SwhGo_oN</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zhuwenxing">
-        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
-      </a>
-      <br />
-      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/lowlighter">
         <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
       </a>
       <br />
       <a href="https://github.com/lowlighter">Simon Lecoq</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/zhuwenxing">
+        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
+      </a>
+      <br />
+      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
     </td>
     <td align="center">
       <a href="https://github.com/MadhavDev-prog">
