@@ -197,8 +197,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/itgoyo/Bilibili-Github/issues/2) in [itgoyo/Bilibili-Github](https://github.com/itgoyo/Bilibili-Github)
-2. ❗️ Opened issue [#2](https://github.com/itgoyo/Bilibili-Github/issues/2) in [itgoyo/Bilibili-Github](https://github.com/itgoyo/Bilibili-Github)
+1. ❗️ Opened issue [#256](https://github.com/itgoyo/500Days-Of-Github/issues/256) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+2. 🗣 Commented on [#2](https://github.com/itgoyo/Bilibili-Github/issues/2) in [itgoyo/Bilibili-Github](https://github.com/itgoyo/Bilibili-Github)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
