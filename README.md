@@ -201,8 +201,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/itgoyo/CourseShare/issues/1) in [itgoyo/CourseShare](https://github.com/itgoyo/CourseShare)
-2. ❗️ Opened issue [#256](https://github.com/itgoyo/500Days-Of-Github/issues/256) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. ❗️ Opened issue [#257](https://github.com/itgoyo/500Days-Of-Github/issues/257) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+2. ❗️ Opened issue [#1](https://github.com/itgoyo/CourseShare/issues/1) in [itgoyo/CourseShare](https://github.com/itgoyo/CourseShare)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
