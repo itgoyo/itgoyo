@@ -47,8 +47,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js                     2 hrs 24 mins   ████████████████████████░   95.63 % 
-Nginx configuration file   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Nginx configuration file   5 mins          ████████████████████████▓   98.84 % 
 ```
 <!--END_SECTION:waka-->
 
