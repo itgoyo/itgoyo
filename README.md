@@ -47,7 +47,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Nginx configuration file   5 mins          ████████████████████████▓   98.84 % 
+Nginx configuration file   5 mins          ████████████████░░░░░░░░░   63.88 % 
+Bash                       2 mins          █████████░░░░░░░░░░░░░░░░   36.11 % 
 ```
 <!--END_SECTION:waka-->
 
