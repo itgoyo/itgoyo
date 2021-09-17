@@ -47,8 +47,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   20 mins         ██████████████████████▒░░   88.96 % 
-Bash       1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Markdown   20 mins         ███████████████████████▓░   94.45 % 
 ```
 <!--END_SECTION:waka-->
 
