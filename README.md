@@ -150,11 +150,11 @@ Markdown   3 mins          █████████████████�
       <a href="https://github.com/gee1k">Svend</a>
     </td>
     <td align="center">
-      <a href="https://github.com/MagicMashRoom">
-        <img src="https://avatars2.githubusercontent.com/u/19260780" width="100px;" alt="MagicMashRoom"/>
+      <a href="https://github.com/AlphaTechnolog">
+        <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
       </a>
       <br />
-      <a href="https://github.com/MagicMashRoom">MagicMashRoom</a>
+      <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
     </td>
   </tr>
 </table>
