@@ -143,18 +143,18 @@
       <a href="https://github.com/ziaochina">liujian zhang</a>
     </td>
     <td align="center">
+      <a href="https://github.com/jhonataT">
+        <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
+      </a>
+      <br />
+      <a href="https://github.com/jhonataT">Jhonata Tenório</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/gee1k">
         <img src="https://avatars2.githubusercontent.com/u/12059800" width="100px;" alt="gee1k"/>
       </a>
       <br />
       <a href="https://github.com/gee1k">Svend</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AlphaTechnolog">
-        <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
-      </a>
-      <br />
-      <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
     </td>
   </tr>
 </table>
