@@ -136,18 +136,18 @@
       <a href="https://github.com/imknown">imknown J. Kimu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ziaochina">
-        <img src="https://avatars2.githubusercontent.com/u/4494312" width="100px;" alt="ziaochina"/>
-      </a>
-      <br />
-      <a href="https://github.com/ziaochina">liujian zhang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/jhonataT">
         <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
       </a>
       <br />
       <a href="https://github.com/jhonataT">Jhonata Tenório</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ziaochina">
+        <img src="https://avatars2.githubusercontent.com/u/4494312" width="100px;" alt="ziaochina"/>
+      </a>
+      <br />
+      <a href="https://github.com/ziaochina">liujian zhang</a>
     </td>
     <td align="center">
       <a href="https://github.com/gee1k">
