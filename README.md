@@ -47,7 +47,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+Kotlin   12 mins         ███████████████████████▓░   95.07 % 
 ```
 <!--END_SECTION:waka-->
 
