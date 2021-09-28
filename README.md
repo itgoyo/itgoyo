@@ -129,18 +129,18 @@ Kotlin   12 mins         ██████████████████�
       <a href="https://github.com/MadhavDev-prog">suffixdev</a>
     </td>
     <td align="center">
-      <a href="https://github.com/imknown">
-        <img src="https://avatars2.githubusercontent.com/u/5681447" width="100px;" alt="imknown"/>
-      </a>
-      <br />
-      <a href="https://github.com/imknown">imknown J. Kimu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/jhonataT">
         <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
       </a>
       <br />
       <a href="https://github.com/jhonataT">Jhonata Tenório</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/imknown">
+        <img src="https://avatars2.githubusercontent.com/u/5681447" width="100px;" alt="imknown"/>
+      </a>
+      <br />
+      <a href="https://github.com/imknown">imknown J. Kimu</a>
     </td>
     <td align="center">
       <a href="https://github.com/ziaochina">
