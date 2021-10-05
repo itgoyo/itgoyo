@@ -200,8 +200,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#781](https://github.com/timqian/chinese-independent-blogs/pull/781) in [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
-2. 🗣 Commented on [#224](https://github.com/itgoyo/500Days-Of-Github/issues/224) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. 💪 Opened PR [#783](https://github.com/timqian/chinese-independent-blogs/pull/783) in [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
+2. ❌ Closed PR [#781](https://github.com/timqian/chinese-independent-blogs/pull/781) in [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
