@@ -118,13 +118,6 @@ Markdown   5 mins          ███░░░░░░░░░░░░░░�
       <a href="https://github.com/swhgoon">SwhGo_oN</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Tim2906">
-        <img src="https://avatars2.githubusercontent.com/u/69757707" width="100px;" alt="Tim2906"/>
-      </a>
-      <br />
-      <a href="https://github.com/Tim2906">Tim</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/MadhavDev-prog">
         <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
       </a>
@@ -151,6 +144,13 @@ Markdown   5 mins          ███░░░░░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/ziaochina">liujian zhang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gee1k">
+        <img src="https://avatars2.githubusercontent.com/u/12059800" width="100px;" alt="gee1k"/>
+      </a>
+      <br />
+      <a href="https://github.com/gee1k">Svend</a>
     </td>
     <td align="center">
       <a href="https://github.com/AlphaTechnolog">
