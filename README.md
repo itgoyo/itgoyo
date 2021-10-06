@@ -145,18 +145,18 @@ Markdown   5 mins          ████▒░░░░░░░░░░░░�
       <a href="https://github.com/ziaochina">liujian zhang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gee1k">
-        <img src="https://avatars2.githubusercontent.com/u/12059800" width="100px;" alt="gee1k"/>
-      </a>
-      <br />
-      <a href="https://github.com/gee1k">Svend</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AlphaTechnolog">
         <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
       </a>
       <br />
       <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gee1k">
+        <img src="https://avatars2.githubusercontent.com/u/12059800" width="100px;" alt="gee1k"/>
+      </a>
+      <br />
+      <a href="https://github.com/gee1k">Svend</a>
     </td>
   </tr>
 </table>
