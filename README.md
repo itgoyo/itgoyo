@@ -117,18 +117,18 @@ Markdown   5 mins          ████▓░░░░░░░░░░░░�
       <a href="https://github.com/swhgoon">SwhGo_oN</a>
     </td>
     <td align="center">
-      <a href="https://github.com/MadhavDev-prog">
-        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
-      </a>
-      <br />
-      <a href="https://github.com/MadhavDev-prog">suffixdev</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/jhonataT">
         <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
       </a>
       <br />
       <a href="https://github.com/jhonataT">Jhonata Tenório</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MadhavDev-prog">
+        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
+      </a>
+      <br />
+      <a href="https://github.com/MadhavDev-prog">suffixdev</a>
     </td>
     <td align="center">
       <a href="https://github.com/imknown">
