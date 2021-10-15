@@ -130,18 +130,18 @@ Other        1 min           █▓░░░░░░░░░░░░░░░
       <a href="https://github.com/MadhavDev-prog">suffixdev</a>
     </td>
     <td align="center">
-      <a href="https://github.com/imknown">
-        <img src="https://avatars2.githubusercontent.com/u/5681447" width="100px;" alt="imknown"/>
-      </a>
-      <br />
-      <a href="https://github.com/imknown">imknown J. Kimu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AlphaTechnolog">
         <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
       </a>
       <br />
       <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/imknown">
+        <img src="https://avatars2.githubusercontent.com/u/5681447" width="100px;" alt="imknown"/>
+      </a>
+      <br />
+      <a href="https://github.com/imknown">imknown J. Kimu</a>
     </td>
     <td align="center">
       <a href="https://github.com/ziaochina">
