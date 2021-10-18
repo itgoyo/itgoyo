@@ -198,8 +198,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/itgoyo/Bilibili-Github/issues/3) in [itgoyo/Bilibili-Github](https://github.com/itgoyo/Bilibili-Github)
-2. ❗️ Opened issue [#262](https://github.com/itgoyo/500Days-Of-Github/issues/262) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. ❗️ Opened issue [#128](https://github.com/itgoyo/AndroidSummary/issues/128) in [itgoyo/AndroidSummary](https://github.com/itgoyo/AndroidSummary)
+2. ❗️ Opened issue [#3](https://github.com/itgoyo/Bilibili-Github/issues/3) in [itgoyo/Bilibili-Github](https://github.com/itgoyo/Bilibili-Github)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
