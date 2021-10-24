@@ -203,10 +203,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【自学编程|编程|CODE】自学编程避坑指南，你们将来要踩的坑，我已经帮你们踩过了，你们尽量避免，免得到时候后悔都来不及](https://www.youtube.com/watch?v=qkN6dVN4j5M)
 - [【Notion】Notion Avatar|Notion头像 | Notion风格 | Notion头像生成器 | Notion头像在线制作 | 头像定制 | Notion DIY](https://www.youtube.com/watch?v=C9RtYVD_ZQM)
 - [11款Mac神级软件推荐|效率神器|必备软件|宝藏软件|新手必装软件|超级实用软件|苹果软件|macOS](https://www.youtube.com/watch?v=hUg4ghfJrK4)
 - [我花3000块钱买了巴掌大小的主机冥王峡谷NUCi7HKV，安装黑苹果已经成为我开发的主力机器](https://www.youtube.com/watch?v=80mrqUSjGiY)
 - [【终端/命令/Terminal】windows常用的10个终端命令，学会了让你在学校机房做最靓的仔](https://www.youtube.com/watch?v=F-231AQ2Rr4)
-- [【vscode/网易云】作为程序员的我是怎么使用vscode来听网易云音乐的](https://www.youtube.com/watch?v=_fIUEjYajjo)
 <!-- YOUTUBE:END -->
 
