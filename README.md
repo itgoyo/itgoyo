@@ -78,18 +78,18 @@ Markdown   25 mins         █████████████████�
       <a href="https://github.com/bitmote">ZhengXiaolei</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Neustradamus">
-        <img src="https://avatars2.githubusercontent.com/u/104737" width="100px;" alt="Neustradamus"/>
-      </a>
-      <br />
-      <a href="https://github.com/Neustradamus">Neustradamus</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lowlighter">
         <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
       </a>
       <br />
       <a href="https://github.com/lowlighter">Simon Lecoq</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jhonataT">
+        <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
+      </a>
+      <br />
+      <a href="https://github.com/jhonataT">Jhonata Tenório</a>
     </td>
     <td align="center">
       <a href="https://github.com/cnsuhao">
@@ -99,21 +99,14 @@ Markdown   25 mins         █████████████████�
       <a href="https://github.com/cnsuhao">cnsuhao</a>
     </td>
     <td align="center">
-      <a href="https://github.com/jhonataT">
-        <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
-      </a>
-      <br />
-      <a href="https://github.com/jhonataT">Jhonata Tenório</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/zhuwenxing">
         <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
       </a>
       <br />
       <a href="https://github.com/zhuwenxing">zhuwenxing</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/swhgoon">
         <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
@@ -148,6 +141,13 @@ Markdown   25 mins         █████████████████�
       </a>
       <br />
       <a href="https://github.com/ziaochina">liujian zhang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/carlosaugustoveras">
+        <img src="https://avatars2.githubusercontent.com/u/59514129" width="100px;" alt="carlosaugustoveras"/>
+      </a>
+      <br />
+      <a href="https://github.com/carlosaugustoveras">Carlos Augusto Veras</a>
     </td>
     <td align="center">
       <a href="https://github.com/gee1k">
