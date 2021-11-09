@@ -136,18 +136,18 @@ Bash         5 mins          █████████████████
       <a href="https://github.com/imknown">imknown J. Kimu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ziaochina">
-        <img src="https://avatars2.githubusercontent.com/u/4494312" width="100px;" alt="ziaochina"/>
-      </a>
-      <br />
-      <a href="https://github.com/ziaochina">liujian zhang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/carlosaugustoveras">
         <img src="https://avatars2.githubusercontent.com/u/59514129" width="100px;" alt="carlosaugustoveras"/>
       </a>
       <br />
       <a href="https://github.com/carlosaugustoveras">Carlos Augusto Veras</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ziaochina">
+        <img src="https://avatars2.githubusercontent.com/u/4494312" width="100px;" alt="ziaochina"/>
+      </a>
+      <br />
+      <a href="https://github.com/ziaochina">liujian zhang</a>
     </td>
     <td align="center">
       <a href="https://github.com/gee1k">
