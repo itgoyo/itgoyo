@@ -130,18 +130,18 @@ Text         2 mins          ████████░░░░░░░░░
       <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
     </td>
     <td align="center">
-      <a href="https://github.com/imknown">
-        <img src="https://avatars2.githubusercontent.com/u/5681447" width="100px;" alt="imknown"/>
-      </a>
-      <br />
-      <a href="https://github.com/imknown">imknown J. Kimu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/carlosaugustoveras">
         <img src="https://avatars2.githubusercontent.com/u/59514129" width="100px;" alt="carlosaugustoveras"/>
       </a>
       <br />
       <a href="https://github.com/carlosaugustoveras">Carlos Augusto Veras</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/imknown">
+        <img src="https://avatars2.githubusercontent.com/u/5681447" width="100px;" alt="imknown"/>
+      </a>
+      <br />
+      <a href="https://github.com/imknown">imknown J. Kimu</a>
     </td>
     <td align="center">
       <a href="https://github.com/ziaochina">
