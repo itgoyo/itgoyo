@@ -197,8 +197,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#123](https://github.com/ZhangMingZhao1/StreamerHelper/issues/123) in [ZhangMingZhao1/StreamerHelper](https://github.com/ZhangMingZhao1/StreamerHelper)
-2. 🗣 Commented on [#123](https://github.com/ZhangMingZhao1/StreamerHelper/issues/123) in [ZhangMingZhao1/StreamerHelper](https://github.com/ZhangMingZhao1/StreamerHelper)
+1. ❗️ Opened issue [#124](https://github.com/ZhangMingZhao1/StreamerHelper/issues/124) in [ZhangMingZhao1/StreamerHelper](https://github.com/ZhangMingZhao1/StreamerHelper)
+2. ❗️ Closed issue [#123](https://github.com/ZhangMingZhao1/StreamerHelper/issues/123) in [ZhangMingZhao1/StreamerHelper](https://github.com/ZhangMingZhao1/StreamerHelper)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
