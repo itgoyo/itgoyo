@@ -96,12 +96,21 @@ JavaScript   7 mins          █░░░░░░░░░░░░░░░░
       <a href="https://github.com/jhonataT">Jhonata Tenório</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Matrixbirds">
+        <img src="https://avatars2.githubusercontent.com/u/9990676" width="100px;" alt="Matrixbirds"/>
+      </a>
+      <br />
+      <a href="https://github.com/Matrixbirds">matrixbirds</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/cnsuhao">
         <img src="https://avatars2.githubusercontent.com/u/23429527" width="100px;" alt="cnsuhao"/>
       </a>
       <br />
       <a href="https://github.com/cnsuhao">cnsuhao</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/zhuwenxing">
         <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
@@ -109,8 +118,6 @@ JavaScript   7 mins          █░░░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/zhuwenxing">zhuwenxing</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/swhgoon">
         <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
@@ -152,13 +159,6 @@ JavaScript   7 mins          █░░░░░░░░░░░░░░░░
       </a>
       <br />
       <a href="https://github.com/ziaochina">liujian zhang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gee1k">
-        <img src="https://avatars2.githubusercontent.com/u/12059800" width="100px;" alt="gee1k"/>
-      </a>
-      <br />
-      <a href="https://github.com/gee1k">Svend</a>
     </td>
   </tr>
 </table>
