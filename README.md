@@ -201,8 +201,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#124](https://github.com/ZhangMingZhao1/StreamerHelper/issues/124) in [ZhangMingZhao1/StreamerHelper](https://github.com/ZhangMingZhao1/StreamerHelper)
-2. ❗️ Reopened issue [#124](https://github.com/ZhangMingZhao1/StreamerHelper/issues/124) in [ZhangMingZhao1/StreamerHelper](https://github.com/ZhangMingZhao1/StreamerHelper)
+1. ❗️ Opened issue [#264](https://github.com/itgoyo/500Days-Of-Github/issues/264) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+2. ❗️ Closed issue [#124](https://github.com/ZhangMingZhao1/StreamerHelper/issues/124) in [ZhangMingZhao1/StreamerHelper](https://github.com/ZhangMingZhao1/StreamerHelper)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
