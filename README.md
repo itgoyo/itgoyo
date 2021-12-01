@@ -123,18 +123,18 @@ JavaScript   11 mins         █████████▓░░░░░░░
       <a href="https://github.com/swhgoon">SwhGo_oN</a>
     </td>
     <td align="center">
-      <a href="https://github.com/MadhavDev-prog">
-        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
-      </a>
-      <br />
-      <a href="https://github.com/MadhavDev-prog">suffixdev</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/carlosaugustoveras">
         <img src="https://avatars2.githubusercontent.com/u/59514129" width="100px;" alt="carlosaugustoveras"/>
       </a>
       <br />
       <a href="https://github.com/carlosaugustoveras">Carlos Augusto Veras</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MadhavDev-prog">
+        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
+      </a>
+      <br />
+      <a href="https://github.com/MadhavDev-prog">suffixdev</a>
     </td>
     <td align="center">
       <a href="https://github.com/AlphaTechnolog">
