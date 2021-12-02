@@ -167,7 +167,9 @@ Github：itgoyo
 
 微博、知乎、B站：浮生甲第ITGOYO
 
-斗鱼房间:201001
+斗鱼房间:https://www.douyu.com/201001
+
+B站房间:https://live.bilibili.com/3519206
 
 Don't be a programmer, Be a problem solver.
 
