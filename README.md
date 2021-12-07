@@ -189,7 +189,7 @@ Don't be a programmer, Be a problem solver.
     - MacBookPro2015
     - i7-6700k 32G 256SSD+4T RX590 MacOS Big Sur 11.1
     - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.7
-
+    - i5-10400  16G 512SSD Ubuntu20.04 + Win10
 
 | :pencil2: | :video_game: | :book: |:clapper:  |
 | --- | --- | --- | --- |
