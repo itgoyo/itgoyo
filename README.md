@@ -199,7 +199,7 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/MvsCode/frps-onekey/issues/45) in [MvsCode/frps-onekey](https://github.com/MvsCode/frps-onekey)
+1. 🗣 Commented on [#266](https://github.com/itgoyo/500Days-Of-Github/issues/266) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
 2. 🗣 Commented on [#45](https://github.com/MvsCode/frps-onekey/issues/45) in [MvsCode/frps-onekey](https://github.com/MvsCode/frps-onekey)
 <!--END_SECTION:activity-->
 
