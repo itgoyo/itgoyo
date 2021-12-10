@@ -199,8 +199,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#989](https://github.com/whyour/qinglong/issues/989) in [whyour/qinglong](https://github.com/whyour/qinglong)
-2. 🗣 Commented on [#266](https://github.com/itgoyo/500Days-Of-Github/issues/266) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. 🗣 Commented on [#24](https://github.com/NolanHzy/nvjdcdocker/issues/24) in [NolanHzy/nvjdcdocker](https://github.com/NolanHzy/nvjdcdocker)
+2. 🗣 Commented on [#989](https://github.com/whyour/qinglong/issues/989) in [whyour/qinglong](https://github.com/whyour/qinglong)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
