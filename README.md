@@ -124,11 +124,11 @@ Markdown     1 min           ██████░░░░░░░░░░░
       <a href="https://github.com/swhgoon">SwhGo_oN</a>
     </td>
     <td align="center">
-      <a href="https://github.com/carlosaugustoveras">
-        <img src="https://avatars2.githubusercontent.com/u/59514129" width="100px;" alt="carlosaugustoveras"/>
+      <a href="https://github.com/MadhavDev-prog">
+        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
       </a>
       <br />
-      <a href="https://github.com/carlosaugustoveras">Carlos Augusto Veras</a>
+      <a href="https://github.com/MadhavDev-prog">suffixdev</a>
     </td>
     <td align="center">
       <a href="https://github.com/AlphaTechnolog">
@@ -136,13 +136,6 @@ Markdown     1 min           ██████░░░░░░░░░░░
       </a>
       <br />
       <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MadhavDev-prog">
-        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
-      </a>
-      <br />
-      <a href="https://github.com/MadhavDev-prog">suffixdev</a>
     </td>
     <td align="center">
       <a href="https://github.com/imknown">
@@ -157,6 +150,13 @@ Markdown     1 min           ██████░░░░░░░░░░░
       </a>
       <br />
       <a href="https://github.com/ziaochina">liujian zhang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gee1k">
+        <img src="https://avatars2.githubusercontent.com/u/12059800" width="100px;" alt="gee1k"/>
+      </a>
+      <br />
+      <a href="https://github.com/gee1k">Svend</a>
     </td>
   </tr>
 </table>
