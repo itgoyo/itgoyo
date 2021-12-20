@@ -202,7 +202,7 @@ Don't be a programmer, Be a problem solver.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#36](https://github.com/NolanHzy/nvjdcdocker/issues/36) in [NolanHzy/nvjdcdocker](https://github.com/NolanHzy/nvjdcdocker)
-2. 🗣 Commented on [#24](https://github.com/NolanHzy/nvjdcdocker/issues/24) in [NolanHzy/nvjdcdocker](https://github.com/NolanHzy/nvjdcdocker)
+2. 🗣 Commented on [#36](https://github.com/NolanHzy/nvjdcdocker/issues/36) in [NolanHzy/nvjdcdocker](https://github.com/NolanHzy/nvjdcdocker)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
