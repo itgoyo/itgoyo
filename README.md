@@ -203,8 +203,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/NolanHzy/nvjdcdocker/issues/36) in [NolanHzy/nvjdcdocker](https://github.com/NolanHzy/nvjdcdocker)
-2. 🗣 Commented on [#36](https://github.com/NolanHzy/nvjdcdocker/issues/36) in [NolanHzy/nvjdcdocker](https://github.com/NolanHzy/nvjdcdocker)
+1. ❗️ Opened issue [#130](https://github.com/itgoyo/AndroidSummary/issues/130) in [itgoyo/AndroidSummary](https://github.com/itgoyo/AndroidSummary)
+2. ❗️ Opened issue [#129](https://github.com/itgoyo/AndroidSummary/issues/129) in [itgoyo/AndroidSummary](https://github.com/itgoyo/AndroidSummary)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
