@@ -47,7 +47,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-INI    15 mins         ████████████████████████░   95.84 % 
+
 ```
 <!--END_SECTION:waka-->
 
