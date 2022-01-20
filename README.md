@@ -218,8 +218,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#268](https://github.com/itgoyo/500Days-Of-Github/issues/268) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
-2. 🗣 Commented on [#264](https://github.com/itgoyo/500Days-Of-Github/issues/264) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. 🗣 Commented on [#250](https://github.com/daliansky/daliansky.github.io/issues/250) in [daliansky/daliansky.github.io](https://github.com/daliansky/daliansky.github.io)
+2. ❗️ Opened issue [#268](https://github.com/itgoyo/500Days-Of-Github/issues/268) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
