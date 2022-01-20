@@ -90,18 +90,18 @@
       <a href="https://github.com/donmartz">donmartz</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bitmote">
-        <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
-      </a>
-      <br />
-      <a href="https://github.com/bitmote">ZhengXiaolei</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lowlighter">
         <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
       </a>
       <br />
       <a href="https://github.com/lowlighter">Simon Lecoq</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bitmote">
+        <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
+      </a>
+      <br />
+      <a href="https://github.com/bitmote">ZhengXiaolei</a>
     </td>
     <td align="center">
       <a href="https://github.com/jhonataT">
@@ -141,18 +141,18 @@
       <a href="https://github.com/swhgoon">SwhGo_oN</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AlphaTechnolog">
-        <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
-      </a>
-      <br />
-      <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/MadhavDev-prog">
         <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
       </a>
       <br />
       <a href="https://github.com/MadhavDev-prog">suffixdev</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AlphaTechnolog">
+        <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
+      </a>
+      <br />
+      <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
     </td>
     <td align="center">
       <a href="https://github.com/imknown">
