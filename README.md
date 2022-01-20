@@ -3,6 +3,21 @@
   <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
 </p> -->
 
+<p align="center">
+    <a href="https://github.com/itgoyo">
+        <img alt="github"
+            src="https://img.shields.io/github/stars/itgoyo?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
+    </a>
+    <a href="https://www.zhihu.com/people/mkosto">
+        <img
+            src="https://img.shields.io/badge/dynamic/json?label=%E7%9F%A5%E4%B9%8E%E5%85%B3%E6%B3%A8&labelColor=0084ff&color=282c34&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dmkosto&longCache=true" />
+    </a>
+    <a href="https://juejin.cn/user/2348212565837165">
+        <img alt="juejin"
+            src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-2022%E5%B9%B4%E5%BA%A6%E6%91%B8%E9%B1%BC%E4%BD%9C%E8%80%851%E5%90%8D-%23007fff" />
+    </a>
+</p>
+
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a>
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
@@ -48,10 +63,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Kconfig      1 hr 16 mins    █████████████████▒░░░░░░░   68.70 % 
-Markdown     23 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.46 % 
-JavaScript   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Python       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+
 ```
 <!--END_SECTION:waka-->
 
@@ -75,18 +87,18 @@ Python       1 min           ▒░░░░░░░░░░░░░░░░
       <a href="https://github.com/donmartz">donmartz</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lowlighter">
-        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
-      </a>
-      <br />
-      <a href="https://github.com/lowlighter">Simon Lecoq</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/bitmote">
         <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
       </a>
       <br />
       <a href="https://github.com/bitmote">ZhengXiaolei</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lowlighter">
+        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
+      </a>
+      <br />
+      <a href="https://github.com/lowlighter">Simon Lecoq</a>
     </td>
     <td align="center">
       <a href="https://github.com/jhonataT">
@@ -126,18 +138,18 @@ Python       1 min           ▒░░░░░░░░░░░░░░░░
       <a href="https://github.com/swhgoon">SwhGo_oN</a>
     </td>
     <td align="center">
-      <a href="https://github.com/MadhavDev-prog">
-        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
-      </a>
-      <br />
-      <a href="https://github.com/MadhavDev-prog">suffixdev</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AlphaTechnolog">
         <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
       </a>
       <br />
       <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MadhavDev-prog">
+        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
+      </a>
+      <br />
+      <a href="https://github.com/MadhavDev-prog">suffixdev</a>
     </td>
     <td align="center">
       <a href="https://github.com/imknown">
@@ -209,10 +221,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [一秒钟摆脱 GitHub 转圈圈，加速访问 GitHub | 加速 Github 合集 | GitHub 加速 | dev-sidecar | FastGithub](https://www.youtube.com/watch?v=V5xX_oe6opM)
 - [3分钟快速入门GitHub 看完可玩转Git 真保姆级教学 项目演示 基础入门 新手最容易犯的错误](https://www.youtube.com/watch?v=g4OGQlyem6c)
 - [拥有一台云服务器是什么感觉？游戏服务器，挂脚本挣钱，推流机器，录制机器，远程访问，搭建个人网站全都不在话下](https://www.youtube.com/watch?v=JPg_1F89X80)
 - [全网免费资源网站，能让你永久告别资源付费，这些网站全都值得你收藏！](https://www.youtube.com/watch?v=41Fy8EGcXuM)
 - [【网易云/NeteaseMusic】3行代码解锁网易云灰色歌曲 | 网易云VIP | 破解无版权音乐 | 网易云音乐](https://www.youtube.com/watch?v=1iACzcCAbdA)
+- [【自学编程|编程|CODE】自学编程避坑指南，你们将来要踩的坑，我已经帮你们踩过了，你们尽量避免，免得到时候后悔都来不及](https://www.youtube.com/watch?v=qkN6dVN4j5M)
 <!-- YOUTUBE:END -->
 
