@@ -135,6 +135,13 @@ Bash       3 mins          ████████▒░░░░░░░░�
       <a href="https://github.com/cnsuhao">cnsuhao</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Leticia-maria">
+        <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/Leticia-maria">Letícia Maria Pequeno Madureira</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/swhgoon">
         <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
       </a>
@@ -168,13 +175,6 @@ Bash       3 mins          ████████▒░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/ziaochina">liujian zhang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gee1k">
-        <img src="https://avatars2.githubusercontent.com/u/12059800" width="100px;" alt="gee1k"/>
-      </a>
-      <br />
-      <a href="https://github.com/gee1k">Svend</a>
     </td>
   </tr>
 </table>
