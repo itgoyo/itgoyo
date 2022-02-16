@@ -66,6 +66,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Total: 8 mins
+
 Python   8 mins          █████████████████████▓░░░   86.14 % 
 Other    1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 % 
 ```
