@@ -191,7 +191,7 @@ B站房间:https://live.bilibili.com/3519206
 
 Don't be a programmer, Be a problem solver.
 
-公众号：Fullstacker
+公众号：v2code
 
 - 📫 How to reach me:
     - :octocat: [Github@itgoyo](https://github.com/itgoyo)
