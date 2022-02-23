@@ -66,7 +66,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Groovy       5 mins          ███████████████████████▓░   94.75 % 
 ```
 <!--END_SECTION:waka-->
 
