@@ -228,10 +228,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [AI语音-室友听到这个机器合成的语音人直接傻了 | 文字转语音 | 自媒体神器 | 微软 | 科大讯飞](https://www.youtube.com/watch?v=1CwKB2iWzAM)
 - [𝒗𝒊𝒎我愿称之为最强编辑器](https://www.youtube.com/watch?v=W05hVd9X6lg)
 - [一秒钟摆脱 GitHub 转圈圈，加速访问 GitHub | 加速 Github 合集 | GitHub 加速 | dev-sidecar | FastGithub](https://www.youtube.com/watch?v=V5xX_oe6opM)
 - [3分钟快速入门GitHub 看完可玩转Git 真保姆级教学 项目演示 基础入门 新手最容易犯的错误](https://www.youtube.com/watch?v=g4OGQlyem6c)
 - [拥有一台云服务器是什么感觉？游戏服务器，挂脚本挣钱，推流机器，录制机器，远程访问，搭建个人网站全都不在话下](https://www.youtube.com/watch?v=JPg_1F89X80)
-- [全网免费资源网站，能让你永久告别资源付费，这些网站全都值得你收藏！](https://www.youtube.com/watch?v=41Fy8EGcXuM)
 <!-- YOUTUBE:END -->
 
