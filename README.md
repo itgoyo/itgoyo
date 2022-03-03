@@ -108,18 +108,18 @@ Markdown     0 secs          ▒░░░░░░░░░░░░░░░░
       <a href="https://github.com/donmartz">donmartz</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bitmote">
-        <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
-      </a>
-      <br />
-      <a href="https://github.com/bitmote">ZhengXiaolei</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Leticia-maria">
         <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
       </a>
       <br />
       <a href="https://github.com/Leticia-maria">Letícia Maria Pequeno Madureira</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bitmote">
+        <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
+      </a>
+      <br />
+      <a href="https://github.com/bitmote">ZhengXiaolei</a>
     </td>
     <td align="center">
       <a href="https://github.com/jhonataT">
