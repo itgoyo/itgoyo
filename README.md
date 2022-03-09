@@ -71,7 +71,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 mins          █████████████████████████   100.00 %
+JavaScript   8 mins          ███████████████████▒░░░░░   77.38 %
+INI          1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+Python       1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
 ```
 
 <!--END_SECTION:waka-->
