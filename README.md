@@ -217,7 +217,18 @@ Don't be a programmer, Be a problem solver.
     - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.7
     - i5-10400  16G 512SSD Ubuntu20.04 + Win10
     - i5-10400  16G 512SSD+256SSD Win10 + Big Sur 11.1
+    - TencentCloud 4Core-4G-80G-1200G/3Year Ubuntu20.04
+    - 蜗牛星际 J1900+4G +3T DSM918+
 
+- :phone: phone/iPhone:
+    - iPhone12
+
+- :camera: Camera:
+    - Sony A6000
+
+- :mic: Mic:
+    - SM7B + ID14MKII
+    - MAONO PM320T + E2
 
 | :pencil2: | :video_game: | :book: |:clapper:  |
 | --- | --- | --- | --- |
