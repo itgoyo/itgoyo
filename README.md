@@ -220,13 +220,13 @@ Don't be a programmer, Be a problem solver.
     - TencentCloud 4Core-4G-80G-1200G/3Year Ubuntu20.04
     - 蜗牛星际 J1900+4G +3T DSM918+
 
-- :phone: phone/iPhone:
+- :iphone: phone/iPhone:
     - iPhone12
 
 - :camera: Camera:
     - Sony A6000
 
-- :mic: Mic:
+- :microphone: Mic:
     - SM7B + ID14MKII
     - MAONO PM320T + E2
 
