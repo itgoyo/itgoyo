@@ -82,6 +82,13 @@ No activity tracked
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/formidablae">
+        <img src="https://avatars2.githubusercontent.com/u/81068781" width="100px;" alt="formidablae"/>
+      </a>
+      <br />
+      <a href="https://github.com/formidablae">formidablae</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/snowdream">
         <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
       </a>
@@ -123,6 +130,8 @@ No activity tracked
       <br />
       <a href="https://github.com/jhonataT">Jhonata Tenório</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/zhuwenxing">
         <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
@@ -130,8 +139,6 @@ No activity tracked
       <br />
       <a href="https://github.com/zhuwenxing">zhuwenxing</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/cnsuhao">
         <img src="https://avatars2.githubusercontent.com/u/23429527" width="100px;" alt="cnsuhao"/>
@@ -173,13 +180,6 @@ No activity tracked
       </a>
       <br />
       <a href="https://github.com/imknown">imknown J. Kimu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ziaochina">
-        <img src="https://avatars2.githubusercontent.com/u/4494312" width="100px;" alt="ziaochina"/>
-      </a>
-      <br />
-      <a href="https://github.com/ziaochina">liujian zhang</a>
     </td>
   </tr>
 </table>
