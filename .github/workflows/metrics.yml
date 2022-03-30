@@ -1,0 +1,67 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+  # Allows you to run this workflow manually from the # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org  (for organization related metrics)
+          #  - read:user (for user related data)
+          #  - repo      (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: itgoyo
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
