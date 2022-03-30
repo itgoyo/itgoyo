@@ -78,6 +78,8 @@ No activity tracked
 
 ### :sparkles: My Followers
 
+![Metrics](https://metrics.lecoq.io/itgoyo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FShanghai)
+
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
