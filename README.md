@@ -214,7 +214,8 @@ Don't be a programmer, Be a problem solver.
 - :computer: PC/Mac:
 
     - NUC8i7HVK 64G 2TSSD Big Sur 11.2 + Win10
-    - MacBookPro2015
+    - MacBookPro2015 16G 256SSD
+    - Mac Mini m1 8G 256SSD
     - i7-6700k 32G 256SSD+4T RX590 MacOS Big Sur 11.1
     - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.7
     - i5-10400  16G 512SSD Ubuntu20.04 + Win10
