@@ -71,7 +71,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   2 mins          █████████████████████████   100.00 %
+Dart       1 hr 18 mins    ████████████████████████▒   96.93 %
+Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 ```
 
 <!--END_SECTION:waka-->
