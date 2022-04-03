@@ -228,6 +228,7 @@ Don't be a programmer, Be a problem solver.
 
 - :camera: Camera:
     - Sony A6000
+    - Sony A6400
 
 - :microphone: Mic:
     - SM7B + ID14MKII
