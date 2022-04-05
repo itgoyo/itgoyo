@@ -248,10 +248,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [不装了，我摊牌了！公开多年用 NAS 赚钱技巧丨NAS丨威联通丨群晖 黑群晖丨云服务器丨搞钱丨dsm丨Synology丨QNAP](https://www.youtube.com/watch?v=0dZhsvNt7O4)
 - [398买的蜗牛星际NAS用了3个月挣了1500](https://www.youtube.com/watch?v=XItXHvvItnU)
 - [就离谱！这玩意让你电脑温度降一半，保证有效](https://www.youtube.com/watch?v=8QBYhX5_Tyw)
 - [全平台支持无需 PS 一键抠图，学不会你来打我](https://www.youtube.com/watch?v=Qu78QBD0i_Y)
 - [AI语音-室友听到这个机器合成的语音人直接傻了 | 文字转语音 | 自媒体神器 | 微软 | 科大讯飞](https://www.youtube.com/watch?v=1CwKB2iWzAM)
-- [𝒗𝒊𝒎我愿称之为最强编辑器](https://www.youtube.com/watch?v=W05hVd9X6lg)
 <!-- YOUTUBE:END -->
 
