@@ -149,18 +149,18 @@ Dart   1 hr 18 mins    ███████████████████
       <a href="https://github.com/Matrixbirds">matrixbirds</a>
     </td>
     <td align="center">
-      <a href="https://github.com/swhgoon">
-        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
-      </a>
-      <br />
-      <a href="https://github.com/swhgoon">SwhGo_oN</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AlphaTechnolog">
         <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
       </a>
       <br />
       <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/swhgoon">
+        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
+      </a>
+      <br />
+      <a href="https://github.com/swhgoon">SwhGo_oN</a>
     </td>
     <td align="center">
       <a href="https://github.com/MadhavDev-prog">
