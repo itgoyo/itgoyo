@@ -221,6 +221,7 @@ Don't be a programmer, Be a problem solver.
     - i5-10400  16G 512SSD+256SSD Win10 + Big Sur 11.1
     - TencentCloud 4Core-4G-80G-1200G/3Year Ubuntu20.04
     - 蜗牛星际 J1900+4G +3T DSM918+
+    - 威联通QNAP TS462C 500G
 
 - :iphone: phone/iPhone:
     - iPhone12
