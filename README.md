@@ -121,18 +121,18 @@ Other   0 secs          ██▒░░░░░░░░░░░░░░░�
       <a href="https://github.com/bitmote">ZhengXiaolei</a>
     </td>
     <td align="center">
-      <a href="https://github.com/jhonataT">
-        <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
-      </a>
-      <br />
-      <a href="https://github.com/jhonataT">Jhonata Tenório</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/zhuwenxing">
         <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
       </a>
       <br />
       <a href="https://github.com/zhuwenxing">zhuwenxing</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jhonataT">
+        <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
+      </a>
+      <br />
+      <a href="https://github.com/jhonataT">Jhonata Tenório</a>
     </td>
   </tr>
   <tr>
