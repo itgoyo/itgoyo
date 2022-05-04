@@ -248,10 +248,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [steam 体验提升 1400%，神秘代码，游戏脚本一键入库，让你游戏多到玩不完](https://www.youtube.com/watch?v=NW-vLI6IAjM)
 - [这 10 个软件，让你电脑舒适度提升 1400%](https://www.youtube.com/watch?v=Lm607_wGY10)
 - [我把蜗牛星际 NAS 换成了威联通 TS-462C，人生第一台成品 NAS，只为搞钱](https://www.youtube.com/watch?v=uda04rjj2QY)
 - [4 款手机必装 App，白嫖党们的最爱，少装一个都不行](https://www.youtube.com/watch?v=9b1TmLwsyZ8)
 - [不装了，我摊牌了！公开多年用 NAS 赚钱技巧丨NAS丨威联通丨群晖 黑群晖丨云服务器丨搞钱丨dsm丨Synology丨QNAP](https://www.youtube.com/watch?v=0dZhsvNt7O4)
-- [398买的蜗牛星际NAS用了3个月挣了1500](https://www.youtube.com/watch?v=XItXHvvItnU)
 <!-- YOUTUBE:END -->
 
