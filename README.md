@@ -250,10 +250,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [X86架构4盘位双网口NAS铁威马F4-423，资料同步，家庭影音，家庭服务器，推流直播，一物多用，性价比的选择。](https://www.youtube.com/watch?v=kDDvw91wT4Q)
 - [你绝对不可能全知道的6种用云服务器实现【睡后收入】](https://www.youtube.com/watch?v=FCxYLF76Kl8)
 - [steam 体验提升 1400%，神秘代码，游戏脚本一键入库，让你游戏多到玩不完](https://www.youtube.com/watch?v=NW-vLI6IAjM)
 - [这 10 个软件，让你电脑舒适度提升 1400%](https://www.youtube.com/watch?v=Lm607_wGY10)
 - [我把蜗牛星际 NAS 换成了威联通 TS-462C，人生第一台成品 NAS，只为搞钱](https://www.youtube.com/watch?v=uda04rjj2QY)
-- [4 款手机必装 App，白嫖党们的最爱，少装一个都不行](https://www.youtube.com/watch?v=9b1TmLwsyZ8)
 <!-- YOUTUBE:END -->
 
