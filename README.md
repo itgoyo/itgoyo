@@ -71,8 +71,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   31 mins         ██████████████████▒░░░░░░   73.53 %
-JSON       11 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
+Markdown                   31 mins         ██████████████████▒░░░░░░   73.53 %
+JSON                       11 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
+Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
