@@ -244,8 +244,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#181](https://github.com/jxxghp/nas-tools/issues/181) in [jxxghp/nas-tools](https://github.com/jxxghp/nas-tools)
-2. 🗣 Commented on [#269](https://github.com/itgoyo/500Days-Of-Github/issues/269) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. ❗️ Opened issue [#1](https://github.com/itgoyo/Bilibili-CloudServer/issues/1) in [itgoyo/Bilibili-CloudServer](https://github.com/itgoyo/Bilibili-CloudServer)
+2. ❗️ Opened issue [#282](https://github.com/itgoyo/500Days-Of-Github/issues/282) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
