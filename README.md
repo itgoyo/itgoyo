@@ -243,8 +243,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/itgoyo/Bilibili-CloudServer/issues/2) in [itgoyo/Bilibili-CloudServer](https://github.com/itgoyo/Bilibili-CloudServer)
-2. ❗️ Opened issue [#1](https://github.com/itgoyo/Bilibili-CloudServer/issues/1) in [itgoyo/Bilibili-CloudServer](https://github.com/itgoyo/Bilibili-CloudServer)
+1. ❗️ Opened issue [#10](https://github.com/easychen/checkchan-dist/issues/10) in [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist)
+2. ❗️ Opened issue [#2](https://github.com/itgoyo/Bilibili-CloudServer/issues/2) in [itgoyo/Bilibili-CloudServer](https://github.com/itgoyo/Bilibili-CloudServer)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
