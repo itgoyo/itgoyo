@@ -179,11 +179,11 @@ YAML   0 secs          ░░░░░░░░░░░░░░░░░░░
       <a href="https://github.com/imknown">imknown J. Kimu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/deepkolos">
-        <img src="https://avatars2.githubusercontent.com/u/12824616" width="100px;" alt="deepkolos"/>
+      <a href="https://github.com/victoryang00">
+        <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="victoryang00"/>
       </a>
       <br />
-      <a href="https://github.com/deepkolos">DeepKolos</a>
+      <a href="https://github.com/victoryang00">victoryang00</a>
     </td>
   </tr>
 </table>
