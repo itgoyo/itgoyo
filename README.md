@@ -243,8 +243,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#283](https://github.com/itgoyo/500Days-Of-Github/issues/283) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
-2. 🗣 Commented on [#10](https://github.com/easychen/checkchan-dist/issues/10) in [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist)
+1. ❗️ Opened issue [#284](https://github.com/itgoyo/500Days-Of-Github/issues/284) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+2. ❗️ Opened issue [#283](https://github.com/itgoyo/500Days-Of-Github/issues/283) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
