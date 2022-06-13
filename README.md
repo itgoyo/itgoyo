@@ -171,18 +171,18 @@ Other                      21 mins         ████████▒░░░�
       <a href="https://github.com/MadhavDev-prog">suffixdev</a>
     </td>
     <td align="center">
-      <a href="https://github.com/imknown">
-        <img src="https://avatars2.githubusercontent.com/u/5681447" width="100px;" alt="imknown"/>
-      </a>
-      <br />
-      <a href="https://github.com/imknown">imknown J. Kimu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/victoryang00">
         <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="victoryang00"/>
       </a>
       <br />
       <a href="https://github.com/victoryang00">victoryang00</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/imknown">
+        <img src="https://avatars2.githubusercontent.com/u/5681447" width="100px;" alt="imknown"/>
+      </a>
+      <br />
+      <a href="https://github.com/imknown">imknown J. Kimu</a>
     </td>
   </tr>
 </table>
