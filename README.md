@@ -188,11 +188,11 @@ Other                      21 mins         ███████▒░░░░�
 </table>
 <!--END_SECTION:top-followers-->
 
-名字：浮生甲第
+名字：李狗蛋LGD
 
 Github：itgoyo
 
-微博、知乎、B站：浮生甲第ITGOYO
+微博、知乎、B站：李狗蛋LGD
 
 斗鱼房间:https://www.douyu.com/201001
 
