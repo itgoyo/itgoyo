@@ -244,8 +244,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2287](https://github.com/521xueweihan/HelloGitHub/issues/2287) in [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
-2. ❗️ Opened issue [#286](https://github.com/itgoyo/500Days-Of-Github/issues/286) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. 🗣 Commented on [#280](https://github.com/itgoyo/500Days-Of-Github/issues/280) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+2. ❗️ Opened issue [#2287](https://github.com/521xueweihan/HelloGitHub/issues/2287) in [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
