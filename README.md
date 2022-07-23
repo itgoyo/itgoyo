@@ -128,20 +128,20 @@ Other        16 mins         ██░░░░░░░░░░░░░░░
       <a href="https://github.com/bitmote">ZhengXiaolei</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zhuwenxing">
-        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
-      </a>
-      <br />
-      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/AlphaTechnolog">
         <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
       </a>
       <br />
       <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/zhuwenxing">
+        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
+      </a>
+      <br />
+      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
     </td>
     <td align="center">
       <a href="https://github.com/cnsuhao">
