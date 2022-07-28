@@ -245,8 +245,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#26](https://github.com/easychen/checkchan-dist/issues/26) in [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist)
-2. ❗️ Opened issue [#289](https://github.com/itgoyo/500Days-Of-Github/issues/289) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. 🗣 Commented on [#26](https://github.com/easychen/checkchan-dist/issues/26) in [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist)
+2. ❗️ Opened issue [#26](https://github.com/easychen/checkchan-dist/issues/26) in [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
