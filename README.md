@@ -243,8 +243,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/easychen/checkchan-dist/issues/26) in [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist)
-2. ❗️ Opened issue [#26](https://github.com/easychen/checkchan-dist/issues/26) in [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist)
+1. 🗣 Commented on [#27](https://github.com/easychen/checkchan-dist/issues/27) in [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist)
+2. ❗️ Opened issue [#27](https://github.com/easychen/checkchan-dist/issues/27) in [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
