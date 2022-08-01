@@ -245,8 +245,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/peng-zhihui/HelloWord-Keyboard/pull/6) in [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard)
-2. ❗️ Closed issue [#28](https://github.com/easychen/checkchan-dist/issues/28) in [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist)
+1. ❗️ Opened issue [#32](https://github.com/easychen/checkchan-dist/issues/32) in [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist)
+2. 💪 Opened PR [#6](https://github.com/peng-zhihui/HelloWord-Keyboard/pull/6) in [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
