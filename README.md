@@ -224,6 +224,7 @@ Don't be a programmer, Be a problem solver.
     - TencentCloud 4Core-4G-80G-1200G/3Year Ubuntu20.04
     - 蜗牛星际 J1900+4G +3T DSM918+
     - 威联通QNAP TS462C 500G
+    - 威联通QNAP TVS-675 8h8c
 
 - :iphone: phone/iPhone:
     - iPhone12
