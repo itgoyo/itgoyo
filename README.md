@@ -252,10 +252,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [打造一台用10年都不过时的顶配NAS，威联通TVS-675+西数红盘Plus+西数SSD SN700，最强拓展NAS出战挂机每月稳定挣500](https://www.youtube.com/watch?v=3NfbLe-FbMo)
 - [3款海外神级App，用了根本停不下来【Spotify、Vivacut、Telegram】](https://www.youtube.com/watch?v=Es8Gz9dUMi0)
 - [【云服务器/录播/直播】进来免费白嫖一台云服务器，我们真的需要一台云服务器吗？有一台云服务器究竟有多香？](https://www.youtube.com/watch?v=QQK7LbqWrAA)
 - [什么？你们还不知道云服务器可以用来跑自动录制脚本？用了StreamerHelper再也不用的担心错过主播的精彩集锦了，还能挣点零花钱](https://www.youtube.com/watch?v=JNsPqboq3E4)
 - [【玩客云/赚钱宝/网心云】家里闲置宽带能赚钱？数码区UP亲身体验，没用之前以为是智商税，没想到真香](https://www.youtube.com/watch?v=NnaXrI7sQuY)
-- [X86架构4盘位双网口NAS铁威马F4-423，资料同步，家庭影音，家庭服务器，推流直播，一物多用，性价比的选择。](https://www.youtube.com/watch?v=kDDvw91wT4Q)
 <!-- YOUTUBE:END -->
 
