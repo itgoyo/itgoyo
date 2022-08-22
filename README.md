@@ -226,6 +226,7 @@ Don't be a programmer, Be a problem solver.
     - 蜗牛星际 J1900+4G +3T DSM918+
     - 威联通QNAP TS462C 500G
     - 威联通QNAP TVS-675 8h8c
+    - ZimaBoard
 
 - :iphone: phone/iPhone:
     - iPhone12
