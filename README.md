@@ -166,18 +166,18 @@ Other        0 secs          ▒░░░░░░░░░░░░░░░░
       <a href="https://github.com/swhgoon">SwhGo_oN</a>
     </td>
     <td align="center">
-      <a href="https://github.com/MadhavDev-prog">
-        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
-      </a>
-      <br />
-      <a href="https://github.com/MadhavDev-prog">suffixdev</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/victoryang00">
         <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="victoryang00"/>
       </a>
       <br />
       <a href="https://github.com/victoryang00">victoryang00</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MadhavDev-prog">
+        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
+      </a>
+      <br />
+      <a href="https://github.com/MadhavDev-prog">suffixdev</a>
     </td>
     <td align="center">
       <a href="https://github.com/1834924958">
