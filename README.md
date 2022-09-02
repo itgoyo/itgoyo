@@ -251,10 +251,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [这个巴掌大的x86服务器，治好了我的精神内耗 | 功耗减半 | 收益翻倍 | Zimaboard | CasaOS | Home Assistant | 软路由](https://www.youtube.com/watch?v=DoAElwc11iE)
 - [不会代码的我，用0行代码实现几千个自动化脚本，成为小伙伴们眼中的大神，生产效率提升10000% | 脚本 | 自动化 | 集简云 |](https://www.youtube.com/watch?v=6C9GbagwFUE)
 - [打造一台用10年都不过时的顶配NAS，威联通TVS-675+西数红盘Plus+西数SSD SN700，最强拓展NAS出战挂机每月稳定挣500](https://www.youtube.com/watch?v=3NfbLe-FbMo)
 - [3款海外神级App，用了根本停不下来【Spotify、Vivacut、Telegram】](https://www.youtube.com/watch?v=Es8Gz9dUMi0)
 - [【云服务器/录播/直播】进来免费白嫖一台云服务器，我们真的需要一台云服务器吗？有一台云服务器究竟有多香？](https://www.youtube.com/watch?v=QQK7LbqWrAA)
-- [什么？你们还不知道云服务器可以用来跑自动录制脚本？用了StreamerHelper再也不用的担心错过主播的精彩集锦了，还能挣点零花钱](https://www.youtube.com/watch?v=JNsPqboq3E4)
 <!-- YOUTUBE:END -->
 
