@@ -213,7 +213,7 @@ Don't be a programmer, Be a problem solver.
 
 
 - :computer: PC/Mac:
-
+    - M1 Pro 16寸 16G+512G
     - NUC8i7HVK 64G 2TSSD Big Sur 11.2 + Win10
     - MacBookPro2015 16G 256SSD
     - Mac Mini m1 16G 512SSD
