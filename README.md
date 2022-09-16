@@ -98,6 +98,13 @@ TOML   15 mins         ███████████████████
       <a href="https://github.com/lowlighter">Simon Lecoq</a>
     </td>
     <td align="center">
+      <a href="https://github.com/sbilly">
+        <img src="https://avatars2.githubusercontent.com/u/123563" width="100px;" alt="sbilly"/>
+      </a>
+      <br />
+      <a href="https://github.com/sbilly">sbilly</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Leticia-maria">
         <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
       </a>
@@ -125,6 +132,8 @@ TOML   15 mins         ███████████████████
       <br />
       <a href="https://github.com/bitmote">ZhengXiaolei</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/AlphaTechnolog">
         <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
@@ -132,8 +141,6 @@ TOML   15 mins         ███████████████████
       <br />
       <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/zhuwenxing">
         <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
@@ -175,13 +182,6 @@ TOML   15 mins         ███████████████████
       </a>
       <br />
       <a href="https://github.com/swhgoon">SwhGo_oN</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MadhavDev-prog">
-        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
-      </a>
-      <br />
-      <a href="https://github.com/MadhavDev-prog">suffixdev</a>
     </td>
   </tr>
 </table>
