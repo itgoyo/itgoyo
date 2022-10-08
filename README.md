@@ -84,6 +84,13 @@ No activity tracked
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/Kwynto">
+        <img src="https://avatars2.githubusercontent.com/u/31433211" width="100px;" alt="Kwynto"/>
+      </a>
+      <br />
+      <a href="https://github.com/Kwynto">Constantine Zavezeon</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/snowdream">
         <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
       </a>
@@ -125,6 +132,8 @@ No activity tracked
       <br />
       <a href="https://github.com/donmartz">donmartz</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/bitmote">
         <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
@@ -132,8 +141,6 @@ No activity tracked
       <br />
       <a href="https://github.com/bitmote">ZhengXiaolei</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/AlphaTechnolog">
         <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
@@ -142,18 +149,18 @@ No activity tracked
       <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zhuwenxing">
-        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
-      </a>
-      <br />
-      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/pinhe91">
         <img src="https://avatars2.githubusercontent.com/u/79625284" width="100px;" alt="pinhe91"/>
       </a>
       <br />
       <a href="https://github.com/pinhe91">寒梅</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zhuwenxing">
+        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
+      </a>
+      <br />
+      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
     </td>
     <td align="center">
       <a href="https://github.com/victoryang00">
@@ -175,13 +182,6 @@ No activity tracked
       </a>
       <br />
       <a href="https://github.com/Matrixbirds">matrixbirds</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/swhgoon">
-        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
-      </a>
-      <br />
-      <a href="https://github.com/swhgoon">SwhGo_oN</a>
     </td>
   </tr>
 </table>
