@@ -244,8 +244,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#300](https://github.com/itgoyo/500Days-Of-Github/issues/300) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
-2. ❗️ Opened issue [#188](https://github.com/cppla/ServerStatus/issues/188) in [cppla/ServerStatus](https://github.com/cppla/ServerStatus)
+1. ❗️ Opened issue [#4](https://github.com/v03413/ServerStatus-Client/issues/4) in [v03413/ServerStatus-Client](https://github.com/v03413/ServerStatus-Client)
+2. ❗️ Opened issue [#300](https://github.com/itgoyo/500Days-Of-Github/issues/300) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
