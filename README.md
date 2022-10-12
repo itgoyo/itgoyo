@@ -244,8 +244,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#189](https://github.com/cppla/ServerStatus/pull/189) in [cppla/ServerStatus](https://github.com/cppla/ServerStatus)
-2. 💪 Opened PR [#189](https://github.com/cppla/ServerStatus/pull/189) in [cppla/ServerStatus](https://github.com/cppla/ServerStatus)
+1. 💪 Opened PR [#190](https://github.com/cppla/ServerStatus/pull/190) in [cppla/ServerStatus](https://github.com/cppla/ServerStatus)
+2. ❌ Closed PR [#189](https://github.com/cppla/ServerStatus/pull/189) in [cppla/ServerStatus](https://github.com/cppla/ServerStatus)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
