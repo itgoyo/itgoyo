@@ -251,10 +251,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [百元级别电容麦克风，我也没想到音质会这么好，还自带声音降噪，数字屏幕，悬臂支架 | 飞度FU mini30 | 七语 SR-AU01-K1](https://www.youtube.com/watch?v=jiLUFrWD_Aw)
 - [这个小玩意能让你生产效率提升1400%，TourBox上手体验，感觉发现了新大陆 | TourBox | 剪辑神器 | 修图神器 | 修音神器 | 直播神器](https://www.youtube.com/watch?v=hl-eie7Oqxc)
 - [在鼠标里安装智能芯片是种什么体验？实时查看体温、血氧、心率，防猝死，保护身心健康](https://www.youtube.com/watch?v=BnOAxyb2eoU)
 - [这个巴掌大的x86服务器，治好了我的精神内耗 | 功耗减半 | 收益翻倍 | Zimaboard | CasaOS | Home Assistant | 软路由](https://www.youtube.com/watch?v=DoAElwc11iE)
 - [不会代码的我，用0行代码实现几千个自动化脚本，成为小伙伴们眼中的大神，生产效率提升10000% | 脚本 | 自动化 | 集简云 |](https://www.youtube.com/watch?v=6C9GbagwFUE)
-- [打造一台用10年都不过时的顶配NAS，威联通TVS-675+西数红盘Plus+西数SSD SN700，最强拓展NAS出战挂机每月稳定挣500](https://www.youtube.com/watch?v=3NfbLe-FbMo)
 <!-- YOUTUBE:END -->
 
