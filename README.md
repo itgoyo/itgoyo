@@ -85,13 +85,6 @@ TOML       1 min           █░░░░░░░░░░░░░░░░�
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Kwynto">
-        <img src="https://avatars2.githubusercontent.com/u/31433211" width="100px;" alt="Kwynto"/>
-      </a>
-      <br />
-      <a href="https://github.com/Kwynto">Constantine Zavezeon</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/snowdream">
         <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
       </a>
@@ -133,8 +126,6 @@ TOML       1 min           █░░░░░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/donmartz">donmartz</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/bitmote">
         <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
@@ -142,6 +133,8 @@ TOML       1 min           █░░░░░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/bitmote">ZhengXiaolei</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/AlphaTechnolog">
         <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
@@ -183,6 +176,13 @@ TOML       1 min           █░░░░░░░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/Matrixbirds">matrixbirds</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MadhavDev-prog">
+        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
+      </a>
+      <br />
+      <a href="https://github.com/MadhavDev-prog">suffixdev</a>
     </td>
   </tr>
 </table>
