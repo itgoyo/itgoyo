@@ -112,13 +112,6 @@ TOML   1 min           ███████████████████
       <a href="https://github.com/sbilly">sbilly</a>
     </td>
     <td align="center">
-      <a href="https://github.com/cryptotyler">
-        <img src="https://avatars2.githubusercontent.com/u/53035239" width="100px;" alt="cryptotyler"/>
-      </a>
-      <br />
-      <a href="https://github.com/cryptotyler">Crypto Tyler</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/jhonataT">
         <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
       </a>
@@ -132,8 +125,6 @@ TOML   1 min           ███████████████████
       <br />
       <a href="https://github.com/donmartz">donmartz</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/bitmote">
         <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
@@ -141,6 +132,8 @@ TOML   1 min           ███████████████████
       <br />
       <a href="https://github.com/bitmote">ZhengXiaolei</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/AlphaTechnolog">
         <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
@@ -182,6 +175,13 @@ TOML   1 min           ███████████████████
       </a>
       <br />
       <a href="https://github.com/Matrixbirds">matrixbirds</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MadhavDev-prog">
+        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
+      </a>
+      <br />
+      <a href="https://github.com/MadhavDev-prog">suffixdev</a>
     </td>
   </tr>
 </table>
