@@ -177,11 +177,11 @@ No activity tracked
       <a href="https://github.com/Matrixbirds">matrixbirds</a>
     </td>
     <td align="center">
-      <a href="https://github.com/MadhavDev-prog">
-        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
+      <a href="https://github.com/swhgoon">
+        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
       </a>
       <br />
-      <a href="https://github.com/MadhavDev-prog">suffixdev</a>
+      <a href="https://github.com/swhgoon">SwhGo_oN</a>
     </td>
   </tr>
 </table>
