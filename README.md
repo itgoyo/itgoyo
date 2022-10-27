@@ -98,6 +98,13 @@ TOML   10 mins         ███████████████████
       <a href="https://github.com/lowlighter">Simon Lecoq</a>
     </td>
     <td align="center">
+      <a href="https://github.com/NaiboWang">
+        <img src="https://avatars2.githubusercontent.com/u/30287768" width="100px;" alt="NaiboWang"/>
+      </a>
+      <br />
+      <a href="https://github.com/NaiboWang">Naibo Wang</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Leticia-maria">
         <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
       </a>
@@ -125,6 +132,8 @@ TOML   10 mins         ███████████████████
       <br />
       <a href="https://github.com/donmartz">donmartz</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/bitmote">
         <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
@@ -132,8 +141,6 @@ TOML   10 mins         ███████████████████
       <br />
       <a href="https://github.com/bitmote">ZhengXiaolei</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/AlphaTechnolog">
         <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
@@ -175,13 +182,6 @@ TOML   10 mins         ███████████████████
       </a>
       <br />
       <a href="https://github.com/cnsuhao">cnsuhao</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MadhavDev-prog">
-        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
-      </a>
-      <br />
-      <a href="https://github.com/MadhavDev-prog">suffixdev</a>
     </td>
   </tr>
 </table>
