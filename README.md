@@ -252,10 +252,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [罗技GPW智商税？30块包邮的平替戴记严选GM3323D，个人使用感受值！但问题很多](https://www.youtube.com/watch?v=eU3neHHg2RM)
 - [50块的服务器自动化脚本，我是怎么打造被动收入月入过千的？看完你就明白](https://www.youtube.com/watch?v=zS85lzuX8dc)
 - [4000块搭建一套属于自己的录音设备是什么效果 | 舒尔Shure SM7B | iD14 | DM1话放 | 直播麦克风 | 动圈麦克风](https://www.youtube.com/watch?v=p7OsYawEguQ)
 - [百元级别电容麦克风，我也没想到音质会这么好，还自带声音降噪，数字屏幕，悬臂支架 | 飞度FU mini30 | 七语 SR-AU01-K1](https://www.youtube.com/watch?v=jiLUFrWD_Aw)
 - [这个小玩意能让你生产效率提升1400%，TourBox上手体验，感觉发现了新大陆 | TourBox | 剪辑神器 | 修图神器 | 修音神器 | 直播神器](https://www.youtube.com/watch?v=hl-eie7Oqxc)
-- [在鼠标里安装智能芯片是种什么体验？实时查看体温、血氧、心率，防猝死，保护身心健康](https://www.youtube.com/watch?v=BnOAxyb2eoU)
 <!-- YOUTUBE:END -->
 
