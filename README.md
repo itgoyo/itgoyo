@@ -246,8 +246,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/63) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
-2. ❗️ Closed issue [#4](https://github.com/v03413/ServerStatus-Client/issues/4) in [v03413/ServerStatus-Client](https://github.com/v03413/ServerStatus-Client)
+1. ❗️ Opened issue [#192](https://github.com/cppla/ServerStatus/issues/192) in [cppla/ServerStatus](https://github.com/cppla/ServerStatus)
+2. 💪 Opened PR [#63](https://github.com/eryajf/awesome-github-profile-readme-chinese/pull/63) in [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
