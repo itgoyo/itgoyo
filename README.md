@@ -92,18 +92,18 @@ Other   5 mins          ████▒░░░░░░░░░░░░░�
       <a href="https://github.com/NaiboWang">Naibo Wang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/snowdream">
-        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
-      </a>
-      <br />
-      <a href="https://github.com/snowdream">snowdream</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lowlighter">
         <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
       </a>
       <br />
       <a href="https://github.com/lowlighter">Simon Lecoq</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/snowdream">
+        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
+      </a>
+      <br />
+      <a href="https://github.com/snowdream">snowdream</a>
     </td>
     <td align="center">
       <a href="https://github.com/Leticia-maria">
