@@ -159,18 +159,18 @@ Other    5 mins          ██░░░░░░░░░░░░░░░░�
       <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zhuwenxing">
-        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
-      </a>
-      <br />
-      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/victoryang00">
         <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="victoryang00"/>
       </a>
       <br />
       <a href="https://github.com/victoryang00">victoryang00</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zhuwenxing">
+        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
+      </a>
+      <br />
+      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
     </td>
     <td align="center">
       <a href="https://github.com/cnsuhao">
