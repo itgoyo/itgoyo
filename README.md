@@ -228,6 +228,7 @@ Don't be a programmer, Be a problem solver.
     - 威联通QNAP TS462C 500G
     - 威联通QNAP TVS-675 8h8c
     - ZimaBoard
+    - 硬酷R1 N6005 16+512
 
 - :iphone: phone/iPhone:
     - iPhone12
