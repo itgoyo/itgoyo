@@ -251,8 +251,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#311](https://github.com/itgoyo/500Days-Of-Github/issues/311) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
-2. ❗️ Opened issue [#310](https://github.com/itgoyo/500Days-Of-Github/issues/310) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. ❗️ Opened issue [#63](https://github.com/jerryc127/butterfly-plugins/issues/63) in [jerryc127/butterfly-plugins](https://github.com/jerryc127/butterfly-plugins)
+2. ❗️ Opened issue [#311](https://github.com/itgoyo/500Days-Of-Github/issues/311) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
