@@ -71,9 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TOML     38 mins         ████████████████▓░░░░░░░░   66.59 %
-INI      14 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.95 %
-Other    4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
