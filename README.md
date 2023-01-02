@@ -250,8 +250,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#46](https://github.com/valkjsaaa/auto-bilibili-recorder/issues/46) in [valkjsaaa/auto-bilibili-recorder](https://github.com/valkjsaaa/auto-bilibili-recorder)
-2. 🗣 Commented on [#46](https://github.com/valkjsaaa/auto-bilibili-recorder/issues/46) in [valkjsaaa/auto-bilibili-recorder](https://github.com/valkjsaaa/auto-bilibili-recorder)
+1. ❗️ Opened issue [#315](https://github.com/itgoyo/500Days-Of-Github/issues/315) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+2. ❗️ Closed issue [#46](https://github.com/valkjsaaa/auto-bilibili-recorder/issues/46) in [valkjsaaa/auto-bilibili-recorder](https://github.com/valkjsaaa/auto-bilibili-recorder)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
