@@ -139,18 +139,18 @@ Other      3 mins          ▒░░░░░░░░░░░░░░░░�
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/bitmote">
-        <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
-      </a>
-      <br />
-      <a href="https://github.com/bitmote">ZhengXiaolei</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/victoryang00">
         <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="victoryang00"/>
       </a>
       <br />
       <a href="https://github.com/victoryang00">Yiwei Yang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bitmote">
+        <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
+      </a>
+      <br />
+      <a href="https://github.com/bitmote">ZhengXiaolei</a>
     </td>
     <td align="center">
       <a href="https://github.com/pinhe91">
