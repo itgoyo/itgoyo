@@ -248,8 +248,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7782](https://github.com/Eugeny/tabby/issues/7782) in [Eugeny/tabby](https://github.com/Eugeny/tabby)
-2. ❗️ Opened issue [#791](https://github.com/oldj/SwitchHosts/issues/791) in [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)
+1. ❗️ Opened issue [#316](https://github.com/itgoyo/500Days-Of-Github/issues/316) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+2. ❗️ Opened issue [#7782](https://github.com/Eugeny/tabby/issues/7782) in [Eugeny/tabby](https://github.com/Eugeny/tabby)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
