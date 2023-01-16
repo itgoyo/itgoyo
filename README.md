@@ -100,6 +100,13 @@ Other        9 mins          ██░░░░░░░░░░░░░░░
       <a href="https://github.com/lowlighter">Simon Lecoq</a>
     </td>
     <td align="center">
+      <a href="https://github.com/hoochanlon">
+        <img src="https://avatars2.githubusercontent.com/u/35732922" width="100px;" alt="hoochanlon"/>
+      </a>
+      <br />
+      <a href="https://github.com/hoochanlon">脆脆菠萝包</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/snowdream">
         <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
       </a>
@@ -127,6 +134,8 @@ Other        9 mins          ██░░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/jhonataT">Jhonata Tenório</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/donmartz">
         <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
@@ -134,8 +143,6 @@ Other        9 mins          ██░░░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/donmartz">donmartz</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/victoryang00">
         <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="victoryang00"/>
@@ -177,13 +184,6 @@ Other        9 mins          ██░░░░░░░░░░░░░░░
       </a>
       <br />
       <a href="https://github.com/cnsuhao">cnsuhao</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Matrixbirds">
-        <img src="https://avatars2.githubusercontent.com/u/9990676" width="100px;" alt="Matrixbirds"/>
-      </a>
-      <br />
-      <a href="https://github.com/Matrixbirds">matrixbirds</a>
     </td>
   </tr>
 </table>
