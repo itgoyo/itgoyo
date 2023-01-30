@@ -246,8 +246,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/puzzlemoondev/BililiveRecorder-webhook-docker/issues/3) in [puzzlemoondev/BililiveRecorder-webhook-docker](https://github.com/puzzlemoondev/BililiveRecorder-webhook-docker)
-2. ❗️ Opened issue [#3](https://github.com/puzzlemoondev/BililiveRecorder-webhook-docker/issues/3) in [puzzlemoondev/BililiveRecorder-webhook-docker](https://github.com/puzzlemoondev/BililiveRecorder-webhook-docker)
+1. ❗️ Opened issue [#4](https://github.com/puzzlemoondev/BililiveRecorder-webhook-docker/issues/4) in [puzzlemoondev/BililiveRecorder-webhook-docker](https://github.com/puzzlemoondev/BililiveRecorder-webhook-docker)
+2. ❗️ Opened issue [#317](https://github.com/itgoyo/500Days-Of-Github/issues/317) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
