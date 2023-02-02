@@ -247,8 +247,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#148](https://github.com/biliup/biliup/issues/148) in [biliup/biliup](https://github.com/biliup/biliup)
-2. ❗️ Opened issue [#318](https://github.com/itgoyo/500Days-Of-Github/issues/318) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. ❗️ Opened issue [#319](https://github.com/itgoyo/500Days-Of-Github/issues/319) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+2. 🗣 Commented on [#148](https://github.com/biliup/biliup/issues/148) in [biliup/biliup](https://github.com/biliup/biliup)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
