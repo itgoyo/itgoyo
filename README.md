@@ -96,7 +96,7 @@ Other   4 mins          ███████████░░░░░░░�
         <img src="https://avatars2.githubusercontent.com/u/35732922" width="100px;" alt="hoochanlon"/>
       </a>
       <br />
-      <a href="https://github.com/hoochanlon">冻柠茶配菠萝包</a>
+      <a href="https://github.com/hoochanlon">柠乐菠萝包</a>
     </td>
     <td align="center">
       <a href="https://github.com/lowlighter">
