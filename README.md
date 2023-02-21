@@ -71,8 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TOML    5 mins          █████████████▓░░░░░░░░░░░   55.02 %
-Other   4 mins          ███████████░░░░░░░░░░░░░░   44.17 %
+Other   4 mins          ███████████████▒░░░░░░░░░   61.60 %
 ```
 
 <!--END_SECTION:waka-->
