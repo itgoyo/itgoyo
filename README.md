@@ -135,18 +135,18 @@ Other   7 mins          ██████████████████�
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/donmartz">
-        <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
-      </a>
-      <br />
-      <a href="https://github.com/donmartz">donmartz</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/victoryang00">
         <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="victoryang00"/>
       </a>
       <br />
       <a href="https://github.com/victoryang00">Yiwei Yang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/donmartz">
+        <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
+      </a>
+      <br />
+      <a href="https://github.com/donmartz">donmartz</a>
     </td>
     <td align="center">
       <a href="https://github.com/pinhe91">
