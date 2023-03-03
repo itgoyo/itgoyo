@@ -253,10 +253,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [没有公网 IP？用这台路由器拯救你](https://www.youtube.com/watch?v=8kxxgMk-GoM)
 - [捡漏！HP Gen8，千元打造一个完美的家庭服务器，娱乐办公两不误！](https://www.youtube.com/watch?v=-tEo26a1eKM)
 - [AI视频-当观众们发现我的视频是由AI自动生成了都懵了！| 文字转视频| 自媒体神器 | AI | ChatGPT | 自媒体](https://www.youtube.com/watch?v=zLGD7DaKtYQ)
 - [巴掌大的家庭服务器，我心目中的梦想情机硬酷R1。N6005+4个2.5G网口 | PVE | ESXi | HomeAssistant | 24小时推流机 |](https://www.youtube.com/watch?v=IoxWN77SgBM)
 - [罗技GPW智商税？30块包邮的平替戴记严选GM3323D，个人使用感受值！但问题很多](https://www.youtube.com/watch?v=eU3neHHg2RM)
-- [50块的服务器自动化脚本，我是怎么打造被动收入月入过千的？看完你就明白](https://www.youtube.com/watch?v=zS85lzuX8dc)
 <!-- YOUTUBE:END -->
 
