@@ -246,8 +246,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/linweiyuan/go-chatgpt-api/issues/57) in [linweiyuan/go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api)
-2. ❗️ Reopened issue [#57](https://github.com/linweiyuan/go-chatgpt-api/issues/57) in [linweiyuan/go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api)
+1. ❗️ Closed issue [#57](https://github.com/linweiyuan/go-chatgpt-api/issues/57) in [linweiyuan/go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api)
+2. 🗣 Commented on [#57](https://github.com/linweiyuan/go-chatgpt-api/issues/57) in [linweiyuan/go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
