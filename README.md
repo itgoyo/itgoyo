@@ -246,8 +246,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#330](https://github.com/itgoyo/500Days-Of-Github/issues/330) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
-2. ❗️ Closed issue [#57](https://github.com/linweiyuan/go-chatgpt-api/issues/57) in [linweiyuan/go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api)
+1. ❗️ Opened issue [#331](https://github.com/itgoyo/500Days-Of-Github/issues/331) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+2. ❗️ Opened issue [#330](https://github.com/itgoyo/500Days-Of-Github/issues/330) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
