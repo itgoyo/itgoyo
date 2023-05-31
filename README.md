@@ -226,6 +226,10 @@ Don't be a programmer, Be a problem solver.
     - ZimaBoard
     - Gen8
     - 硬酷R1 N6005 16+512
+    - UGREEN DX4600
+    - i7-6700t 32G 18TB Win10 + WSL2
+    - AMD-4700GE 16G 8TB Win10 + WSL2
+   
 
 - :iphone: phone/iPhone:
     - iPhone12
