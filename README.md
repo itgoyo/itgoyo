@@ -250,8 +250,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#195](https://github.com/moeakwak/chatgpt-web-share/issues/195) in [moeakwak/chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share)
-2. 🗣 Commented on [#195](https://github.com/moeakwak/chatgpt-web-share/issues/195) in [moeakwak/chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share)
+1. ❗ Opened issue [#482](https://github.com/biliup/biliup/issues/482) in [biliup/biliup](https://github.com/biliup/biliup)
+2. 🔒 Closed issue [#195](https://github.com/moeakwak/chatgpt-web-share/issues/195) in [moeakwak/chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
