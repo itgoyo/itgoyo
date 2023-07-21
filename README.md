@@ -250,8 +250,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#334](https://github.com/itgoyo/500Days-Of-Github/issues/334) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
-2. 🗣 Commented on [#501](https://github.com/biliup/biliup/issues/501#issuecomment-1621133781) in [biliup/biliup](https://github.com/biliup/biliup)
+1. ❗ Opened issue [#242](https://github.com/Sora233/DDBOT/issues/242) in [Sora233/DDBOT](https://github.com/Sora233/DDBOT)
+2. ❗ Opened issue [#334](https://github.com/itgoyo/500Days-Of-Github/issues/334) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
