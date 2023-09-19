@@ -227,9 +227,11 @@ Don't be a programmer, Be a problem solver.
     - Gen8
     - 硬酷R1 N6005 16+512
     - UGREEN DX4600
-    - i7-6700t 32G 18TB Win10 + WSL2
-    - AMD-4700GE 16G 8TB Win10 + WSL2
-   
+    - i7-6700t 32G 18TB Exsi(Win10 + Ubuntu)
+    - AMD-4700GE 32G 8TB PVE(Win10 + Ubuntu)
+    - AMD-4700GE 32G 3TB PVE(Win10 + Ubuntu)
+    - MINISFORUM Um 790 Pro 16G 2TSSD Linux Mint
+    - i5-4790 16G 60G 1T Linux Mint
 
 - :iphone: phone/iPhone:
     - iPhone12
