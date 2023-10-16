@@ -252,8 +252,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3680](https://github.com/fatedier/frp/issues/3680) in [fatedier/frp](https://github.com/fatedier/frp)
-2. 🔒 Closed issue [#242](https://github.com/Sora233/DDBOT/issues/242) in [Sora233/DDBOT](https://github.com/Sora233/DDBOT)
+1. ❗ Opened issue [#137](https://github.com/SmallPeaches/DanmakuRender/issues/137) in [SmallPeaches/DanmakuRender](https://github.com/SmallPeaches/DanmakuRender)
+2. ❗ Opened issue [#3680](https://github.com/fatedier/frp/issues/3680) in [fatedier/frp](https://github.com/fatedier/frp)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
