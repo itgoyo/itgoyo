@@ -252,8 +252,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#139](https://github.com/SmallPeaches/DanmakuRender/issues/139#issuecomment-1765566160) in [SmallPeaches/DanmakuRender](https://github.com/SmallPeaches/DanmakuRender)
-2. 🔒 Closed issue [#137](https://github.com/SmallPeaches/DanmakuRender/issues/137) in [SmallPeaches/DanmakuRender](https://github.com/SmallPeaches/DanmakuRender)
+1. 🔒 Closed issue [#139](https://github.com/SmallPeaches/DanmakuRender/issues/139) in [SmallPeaches/DanmakuRender](https://github.com/SmallPeaches/DanmakuRender)
+2. 🗣 Commented on [#139](https://github.com/SmallPeaches/DanmakuRender/issues/139#issuecomment-1765735685) in [SmallPeaches/DanmakuRender](https://github.com/SmallPeaches/DanmakuRender)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
