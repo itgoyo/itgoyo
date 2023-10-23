@@ -258,10 +258,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [游戏机？不！这是个全固态NAS！华硕穿云箭6盘位](https://www.youtube.com/watch?v=H5IFltXT-aU)
 - [999拿下顶级8核心16线程迷你小主机铭凡UM 480XT，说实话有点降维打击了](https://www.youtube.com/watch?v=DjrSoYXarLE)
 - [建议有服务器的都弄一个探针面板，真的是泰酷辣！！！](https://www.youtube.com/watch?v=uMgFWsKd-OY)
 - [一款鲁大师130W+的小主机有多强？铭凡UM 790Pro开箱上手体验 | 8核心16线程7940HS | Radeon 780M | 支持RAID | 双Nvme](https://www.youtube.com/watch?v=bLNoJVEcQgk)
 - [日更上百个视频的秘密，巧用AI制作视频，自媒体创作神器一帧秒创](https://www.youtube.com/watch?v=qfZF_kLoksM)
-- [没有公网 IP？用这台路由器拯救你](https://www.youtube.com/watch?v=cHNJZEKXrmc)
 <!-- YOUTUBE:END -->
 
