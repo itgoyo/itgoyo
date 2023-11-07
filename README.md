@@ -252,8 +252,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#125](https://github.com/biliup/biliup-rs/issues/125) in [biliup/biliup-rs](https://github.com/biliup/biliup-rs)
-2. ❗ Opened issue [#125](https://github.com/biliup/biliup-rs/issues/125) in [biliup/biliup-rs](https://github.com/biliup/biliup-rs)
+1. 🗣 Commented on [#676](https://github.com/biliup/biliup/issues/676#issuecomment-1798209739) in [biliup/biliup](https://github.com/biliup/biliup)
+2. 🔒 Closed issue [#125](https://github.com/biliup/biliup-rs/issues/125) in [biliup/biliup-rs](https://github.com/biliup/biliup-rs)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
