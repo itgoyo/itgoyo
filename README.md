@@ -219,6 +219,8 @@ Don't be a programmer, Be a problem solver.
     - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.7
     - i5-10400  16G 512SSD Ubuntu20.04 + Win10
     - i5-10400  16G 512SSD+256SSD Win10 + Big Sur 11.1
+    - amd 4790ge  32G+16T+750Ti PVE（LinuxMint+Win10）
+    - amd 4790ge  32G+3T PVE（LinuxMint+Win10）
     - TencentCloud 4Core-4G-80G-1200G/3Year Ubuntu20.04
     - 蜗牛星际 J1900+4G +3T DSM918+
     - 威联通QNAP TS462C 500G
@@ -230,7 +232,8 @@ Don't be a programmer, Be a problem solver.
     - i7-6700t 32G 18TB Exsi(Win10 + Ubuntu)
     - AMD-4700GE 32G 8TB PVE(Win10 + Ubuntu)
     - AMD-4700GE 32G 3TB PVE(Win10 + Ubuntu)
-    - MINISFORUM Um 790 Pro 16G 2TSSD Linux Mint
+    - MINISFORUM um790 Pro 16G 2TSSD Linux 
+    - MINISFORUM um480XT Pro 16G 512G SSD Linux Mint
     - i5-4790 16G 60G 1T Linux Mint
 
 - :iphone: phone/iPhone:
@@ -239,6 +242,7 @@ Don't be a programmer, Be a problem solver.
 - :camera: Camera:
     - Sony A6000
     - Sony A6400
+    - Sony A7M4
 
 - :microphone: Mic:
     - SM7B + ID14MKII
