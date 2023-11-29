@@ -260,10 +260,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [北斗手表Astrolink新晋时尚单品！首款机械+智能双芯，回头率100%](https://www.youtube.com/watch?v=8i1QKUSsVnk)
 - [当我看到这个双2.5G网口，我就意识到它不简单！千元性价比首选极摩客M5迷你主机](https://www.youtube.com/watch?v=S76m9pK_dbo)
 - [500块的双网口N100迷你主机，说实话有点降维打击了](https://www.youtube.com/watch?v=yiJ9fNKMolY)
 - [30 岁！我总于拥有了一个属于自己的极简桌面 | 桌搭 1.0 版](https://www.youtube.com/watch?v=Ai6P5tmEieA)
 - [游戏机？不！这是个全固态NAS！华硕穿云箭6盘位](https://www.youtube.com/watch?v=H5IFltXT-aU)
-- [999拿下顶级8核心16线程迷你小主机铭凡UM 480XT，说实话有点降维打击了](https://www.youtube.com/watch?v=DjrSoYXarLE)
 <!-- YOUTUBE:END -->
 
