@@ -27,7 +27,6 @@
 
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
 
 <h1 align="center">Hi 👋, I'm itgoyo</h1>
@@ -56,9 +55,6 @@
 
 </details>
 
-### Latest Tweets
-
-<p><a href="https://www.twitter.com/itgoyo"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=itgoyo&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
 ### 🎧 Spotify Playing
 
@@ -78,7 +74,6 @@ No activity tracked
 
 ### :sparkles: My Followers
 
-![Metrics](https://metrics.lecoq.io/itgoyo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FShanghai)
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -230,7 +225,7 @@ Don't be a programmer, Be a problem solver.
     - 硬酷R1 N6005 16+512
     - UGREEN DX4600
     - i7-6700t 32G 18TB Exsi(Win10 + Ubuntu)
-    - MINISFORUM um790 Pro 16G 2TSSD Linux 
+    - MINISFORUM um790 Pro 16G 2TSSD Linux
     - MINISFORUM um480XT Pro 16G 512G SSD Linux Mint
     - i5-4790 16G 60G 1T Linux Mint
 
