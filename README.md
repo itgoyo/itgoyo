@@ -249,8 +249,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/Geniusay/ChopperBot/issues/50#issuecomment-1925601085) in [Geniusay/ChopperBot](https://github.com/Geniusay/ChopperBot)
-2. 🗣 Commented on [#50](https://github.com/Geniusay/ChopperBot/issues/50#issuecomment-1923182634) in [Geniusay/ChopperBot](https://github.com/Geniusay/ChopperBot)
+1. 🗣 Commented on [#188](https://github.com/SmallPeaches/DanmakuRender/issues/188#issuecomment-1963239635) in [SmallPeaches/DanmakuRender](https://github.com/SmallPeaches/DanmakuRender)
+2. 🗣 Commented on [#50](https://github.com/Geniusay/ChopperBot/issues/50#issuecomment-1925601085) in [Geniusay/ChopperBot](https://github.com/Geniusay/ChopperBot)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
