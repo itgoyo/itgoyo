@@ -255,10 +255,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [巴掌大的小玩意儿，帮你打开新世纪的大门！双2.5G网口N100迷你主机上手](https://www.youtube.com/watch?v=6pLwVroHeVs)
 - [当我看到这颗10核心16线程的U，我就知道它不简单！办公+娱乐+服务器的最强迷你主机零刻SEi12上手实测](https://www.youtube.com/watch?v=7jCDREaoJT4)
 - [当我看到这颗 14 核心 20 线程的 U，我就知道它不简单！All On One 最强迷你主机积核 IT13 上手实测](https://www.youtube.com/watch?v=Vazw98aJd9Q)
 - [8年前售价过万的显卡，如今仅售__元。放到今日依旧可以打10个！Tesla P4上手实测，性能远超你想象](https://www.youtube.com/watch?v=qQa0hb01JpQ)
 - [虚拟化系统如何选择？一期视频手把手教你玩转所有虚拟化|PVE|EXSi|UNRAID](https://www.youtube.com/watch?v=2o1IJf_27PU)
-- [北斗手表Astrolink新晋时尚单品！首款机械+智能双芯，回头率100%](https://www.youtube.com/watch?v=8i1QKUSsVnk)
 <!-- YOUTUBE:END -->
 
