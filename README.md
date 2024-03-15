@@ -255,10 +255,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [百元平价摄影好物，提升摄影体验，便宜又好用！不做大怨种](https://www.youtube.com/watch?v=ZQMaSwxbxUM)
 - [几十块钱的采集卡，说实话有点降维打击了](https://www.youtube.com/watch?v=E0sDq-gNTGM)
 - [用了43寸的带鱼屏之后，再也回不去了！120Hz高刷+10Bit色彩显示器联合创新44C1G](https://www.youtube.com/watch?v=CfHLa32FZFY)
 - [装机必备神器，面向电脑小白！你的装机防骗小助手图吧工具箱，保姆级上手指南](https://www.youtube.com/watch?v=TIqcs_EMqpU)
 - [几十块钱的采集卡，说实话有点降维打击了](https://www.youtube.com/watch?v=79g9x6ABQzo)
-- [电视卷王诞生！影音游戏都选它！TCL T7H上手体验，带NAS调配教程](https://www.youtube.com/watch?v=8AumUmONWBw)
 <!-- YOUTUBE:END -->
 
