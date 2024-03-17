@@ -255,10 +255,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【散热神器】就离谱！这玩意让你电脑温度降一半，保证有效](https://www.youtube.com/watch?v=U5b2s8bv1is)
+- [【沉浸式翻译】最强翻译软件，用过的都离不开了](https://www.youtube.com/watch?v=pOj_pIXbV0U)
 - [绿联私有云DX4600，用NAS跑脚本也能月入3000？](https://www.youtube.com/watch?v=4RpvzWixnHQ)
 - [几百块就能拿下4K60帧的采集卡，说实话有点降维打击了](https://www.youtube.com/watch?v=ZMUCtbwfee0)
 - [百元平价摄影好物，提升摄影体验，便宜又好用！不做大怨种](https://www.youtube.com/watch?v=ZQMaSwxbxUM)
-- [几十块钱的采集卡，说实话有点降维打击了](https://www.youtube.com/watch?v=E0sDq-gNTGM)
-- [用了43寸的带鱼屏之后，再也回不去了！120Hz高刷+10Bit色彩显示器联合创新44C1G](https://www.youtube.com/watch?v=CfHLa32FZFY)
 <!-- YOUTUBE:END -->
 
