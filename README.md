@@ -255,10 +255,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [AI智能摄像头Insta360 Link ，直播摄像头的卷王 | 4K高清 | 动作捕捉 | 自动追踪 | 智能白板](https://www.youtube.com/watch?v=ygol0DM-We8)
+- [2.5G网口且支持免费异地组网的爱快Q6000路由器到底有多牛！我只能说不愧是企业级路由器](https://www.youtube.com/watch?v=5vDHn26QrTM)
 - [【Matrix】3分钟搭建一个黑客同款匿名安全的聊天室](https://www.youtube.com/watch?v=DiJIjYEm_cI)
 - [【散热神器】就离谱！这玩意让你电脑温度降一半，保证有效](https://www.youtube.com/watch?v=U5b2s8bv1is)
 - [【沉浸式翻译】最强翻译软件，用过的都离不开了](https://www.youtube.com/watch?v=pOj_pIXbV0U)
-- [绿联私有云DX4600，用NAS跑脚本也能月入3000？](https://www.youtube.com/watch?v=4RpvzWixnHQ)
-- [几百块就能拿下4K60帧的采集卡，说实话有点降维打击了](https://www.youtube.com/watch?v=ZMUCtbwfee0)
 <!-- YOUTUBE:END -->
 
