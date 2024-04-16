@@ -249,8 +249,8 @@ Don't be a programmer, Be a problem solver.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#339](https://github.com/itgoyo/500Days-Of-Github/issues/339) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
-2. 🗣 Commented on [#338](https://github.com/itgoyo/500Days-Of-Github/issues/338#issuecomment-1969156257) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. ❗ Opened issue [#136](https://github.com/tw93/weekly/issues/136) in [tw93/weekly](https://github.com/tw93/weekly)
+2. ❗ Opened issue [#339](https://github.com/itgoyo/500Days-Of-Github/issues/339) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
