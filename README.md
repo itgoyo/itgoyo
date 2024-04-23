@@ -255,10 +255,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [坏了，真让它装到了！一款带屏幕的迷你主机，阿迈奇ACEMAGIC S1上手实测](https://www.youtube.com/watch?v=coepy-svdx4)
 - [799巴掌大小主机，帮你打开新世纪的大门！秒杀N100 ！| 极摩客G5上手体验](https://www.youtube.com/watch?v=ifruPxiu-Ag)
 - [联网就有收益，天天都能加鸡腿！网心云OEA上机实测](https://www.youtube.com/watch?v=UE5Ao1TSAvo)
 - [500块就能拥有一把HHKB TypeS键盘](https://www.youtube.com/watch?v=4ECDgSJ6jbU)
 - [【神器】热门网游一键开服面板，啥也不会的我也能成为制霸全服的服主](https://www.youtube.com/watch?v=0GkNfCoXOps)
-- [AI智能摄像头Insta360 Link ，直播摄像头的卷王 | 4K高清 | 动作捕捉 | 自动追踪 | 智能白板](https://www.youtube.com/watch?v=ygol0DM-We8)
 <!-- YOUTUBE:END -->
 
