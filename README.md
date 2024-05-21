@@ -255,10 +255,10 @@ Don't be a programmer, Be a problem solver.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [不花一分钱，玩遍所有主流AI大模型，亚马逊云科技BedRock上手体验！附云峰会参会链接](https://www.youtube.com/watch?v=35MFLqf_nU4)
 - [拥有一台云服务器是什么感觉？我只能说无敌！](https://www.youtube.com/watch?v=Q7DxZqGUEgg)
 - [1268元双2.5G网口6核心12线程迷你主机-极摩客M6](https://www.youtube.com/watch?v=XX6iPQOEl9M)
 - [坏了，真让它装到了！一款带屏幕的迷你主机，阿迈奇ACEMAGIC S1上手实测](https://www.youtube.com/watch?v=coepy-svdx4)
 - [799巴掌大小主机，帮你打开新世纪的大门！秒杀N100 ！| 极摩客G5上手体验](https://www.youtube.com/watch?v=ifruPxiu-Ag)
-- [联网就有收益，天天都能加鸡腿！网心云OEA上机实测](https://www.youtube.com/watch?v=UE5Ao1TSAvo)
 <!-- YOUTUBE:END -->
 
