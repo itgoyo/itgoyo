@@ -156,29 +156,6 @@ No activity tracked
 </table>
 <!--END_SECTION:top-followers-->
 
-名字：李狗蛋LGD
-
-Github：itgoyo
-
-微博、知乎、B站：李狗蛋LGD
-
-斗鱼房间:https://www.douyu.com/201001
-
-B站房间:https://live.bilibili.com/3519206
-
-Don't be a programmer, Be a problem solver.
-
-公众号：v2code
-
-- 📫 How to reach me:
-    - :octocat: [Github@itgoyo](https://github.com/itgoyo)
-    - :email: [itgoyo@gmail.com](mailto:itgoyo@gmail.com)
-    - :tv: [Bilibili@itgoyo](https://space.bilibili.com/12767066)
-    - :tv: [Youtube@itgoyo](https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ?view_as=subscriber)
-    - :camera:[Instagram@itgoyo](https://www.instagram.com/itgoyo1991/)
-    - :bird:[twitter@itgoyo](https://twitter.com/itgoyo/)
-
-
 - :computer: PC/Mac:
     - M1 Pro 16寸 16G+512G
     - NUC8i7HVK 64G 2TSSD Big Sur 11.2 + Win10
