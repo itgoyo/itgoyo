@@ -200,7 +200,7 @@ Other   3 mins          ██████████████████�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2753](https://github.com/521xueweihan/HelloGitHub/issues/2753) in [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
-2. ❗ Opened issue [#134](https://github.com/itgoyo/AndroidSummary/issues/134) in [itgoyo/AndroidSummary](https://github.com/itgoyo/AndroidSummary)
+1. ❗ Opened issue [#263](https://github.com/Nekmo/telegram-upload/issues/263) in [Nekmo/telegram-upload](https://github.com/Nekmo/telegram-upload)
+2. ❗ Opened issue [#2753](https://github.com/521xueweihan/HelloGitHub/issues/2753) in [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 <!--END_SECTION:activity-->
 
