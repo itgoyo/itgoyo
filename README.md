@@ -60,18 +60,18 @@ No activity tracked
       <a href="https://github.com/NaiboWang">Naibo Wang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hoochanlon">
-        <img src="https://avatars2.githubusercontent.com/u/35732922" width="100px;" alt="hoochanlon"/>
-      </a>
-      <br />
-      <a href="https://github.com/hoochanlon">123456</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lowlighter">
         <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
       </a>
       <br />
       <a href="https://github.com/lowlighter">Simon Lecoq</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hoochanlon">
+        <img src="https://avatars2.githubusercontent.com/u/35732922" width="100px;" alt="hoochanlon"/>
+      </a>
+      <br />
+      <a href="https://github.com/hoochanlon">123456</a>
     </td>
     <td align="center">
       <a href="https://github.com/snowdream">
