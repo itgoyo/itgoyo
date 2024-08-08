@@ -200,7 +200,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#263](https://github.com/Nekmo/telegram-upload/issues/263) in [Nekmo/telegram-upload](https://github.com/Nekmo/telegram-upload)
+1. 🗣 Commented on [#156](https://github.com/tangyoha/telegram_media_downloader/issues/156#issuecomment-2274788550) in [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader)
 2. ❗ Opened issue [#263](https://github.com/Nekmo/telegram-upload/issues/263) in [Nekmo/telegram-upload](https://github.com/Nekmo/telegram-upload)
 <!--END_SECTION:activity-->
 
