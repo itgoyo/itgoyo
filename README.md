@@ -200,7 +200,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#48](https://github.com/shenweiyan/WebStack-Hugo/issues/48) in [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo)
-2. 🗣 Commented on [#48](https://github.com/shenweiyan/WebStack-Hugo/issues/48#issuecomment-2278961296) in [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo)
+1. 🗣 Commented on [#171](https://github.com/tangyoha/telegram_media_downloader/issues/171#issuecomment-2296836179) in [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader)
+2. 🔒 Closed issue [#48](https://github.com/shenweiyan/WebStack-Hugo/issues/48) in [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo)
 <!--END_SECTION:activity-->
 
