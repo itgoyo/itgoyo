@@ -78,7 +78,7 @@ No activity tracked
         <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
       </a>
       <br />
-      <a href="https://github.com/Leticia-maria">Letícia Maria Pequeno Madureira</a>
+      <a href="https://github.com/Leticia-maria">Leticia Madureira</a>
     </td>
     <td align="center">
       <a href="https://github.com/snowdream">
