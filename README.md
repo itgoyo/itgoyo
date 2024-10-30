@@ -143,7 +143,7 @@ No activity tracked
         <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
       </a>
       <br />
-      <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
+      <a href="https://github.com/AlphaTechnolog">Franklin Gabriel Guerra</a>
     </td>
     <td align="center">
       <a href="https://github.com/zhuwenxing">
