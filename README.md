@@ -81,18 +81,18 @@ Vim Script   5 mins          █████████████████
       <a href="https://github.com/Leticia-maria">Leticia Madureira</a>
     </td>
     <td align="center">
-      <a href="https://github.com/snowdream">
-        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
-      </a>
-      <br />
-      <a href="https://github.com/snowdream">snowdream</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/sbilly">
         <img src="https://avatars2.githubusercontent.com/u/123563" width="100px;" alt="sbilly"/>
       </a>
       <br />
       <a href="https://github.com/sbilly">sbilly</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/snowdream">
+        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
+      </a>
+      <br />
+      <a href="https://github.com/snowdream">snowdream</a>
     </td>
     <td align="center">
       <a href="https://github.com/victoryang00">
