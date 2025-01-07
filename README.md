@@ -200,7 +200,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/tangyoha/telegram_media_downloader/issues/191#issuecomment-2381862499) in [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader)
+1. ❗ Opened issue [#340](https://github.com/itgoyo/500Days-Of-Github/issues/340) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
 2. 🗣 Commented on [#128](https://github.com/tangyoha/telegram_media_downloader/issues/128#issuecomment-2304314662) in [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader)
 <!--END_SECTION:activity-->
 
