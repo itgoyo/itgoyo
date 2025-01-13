@@ -200,7 +200,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#341](https://github.com/itgoyo/500Days-Of-Github/issues/341) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
-2. ❗ Opened issue [#340](https://github.com/itgoyo/500Days-Of-Github/issues/340) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. ❗ Opened issue [#342](https://github.com/itgoyo/500Days-Of-Github/issues/342) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+2. ❗ Opened issue [#341](https://github.com/itgoyo/500Days-Of-Github/issues/341) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
 <!--END_SECTION:activity-->
 
