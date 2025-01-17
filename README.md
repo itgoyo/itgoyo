@@ -180,7 +180,7 @@ No activity tracked
     - MINISFORUM um790 Pro 16G 2TSSD Linux
     - MINISFORUM um480XT Pro 16G 512G SSD Linux Mint
     - i5-4790 16G 60G 1T Linux Mint
-    - Dell R730XD
+    - Dell R730XD(ESXi + 8Ubuntu + Win10)
 
 - :iphone: phone/iPhone:
     - iPhone12
