@@ -157,6 +157,7 @@ No activity tracked
 <!--END_SECTION:top-followers-->
 
 - :computer: PC/Mac:
+    - M4 MacMini 16G+512G
     - M1 Pro 16寸 16G+512G
     - NUC8i7HVK 64G 2TSSD Big Sur 11.2 + Win10
     - MacBookPro2015 16G 256SSD
@@ -179,9 +180,12 @@ No activity tracked
     - MINISFORUM um790 Pro 16G 2TSSD Linux
     - MINISFORUM um480XT Pro 16G 512G SSD Linux Mint
     - i5-4790 16G 60G 1T Linux Mint
+    - Dell R730XD
 
 - :iphone: phone/iPhone:
     - iPhone12
+    - OnePlus6
+    - OnePlus13
 
 - :camera: Camera:
     - Sony A6000
