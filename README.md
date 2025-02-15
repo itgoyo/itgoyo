@@ -204,7 +204,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#343](https://github.com/itgoyo/500Days-Of-Github/issues/343) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
-2. 🗣 Commented on [#158](https://github.com/itgoyo/500Days-Of-Github/issues/158#issuecomment-2597536400) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. ❗ Opened issue [#229](https://github.com/tangyoha/telegram_media_downloader/issues/229) in [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader)
+2. ❗ Opened issue [#343](https://github.com/itgoyo/500Days-Of-Github/issues/343) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
 <!--END_SECTION:activity-->
 
