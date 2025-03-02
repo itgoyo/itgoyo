@@ -204,7 +204,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Riniba/dujiaoTemplate/issues/1) in [Riniba/dujiaoTemplate](https://github.com/Riniba/dujiaoTemplate)
-2. 🔒 Closed issue [#229](https://github.com/tangyoha/telegram_media_downloader/issues/229) in [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader)
+1. 🔒 Closed issue [#1](https://github.com/Riniba/dujiaoTemplate/issues/1) in [Riniba/dujiaoTemplate](https://github.com/Riniba/dujiaoTemplate)
+2. 🗣 Commented on [#1](https://github.com/Riniba/dujiaoTemplate/issues/1#issuecomment-2692564309) in [Riniba/dujiaoTemplate](https://github.com/Riniba/dujiaoTemplate)
 <!--END_SECTION:activity-->
 
