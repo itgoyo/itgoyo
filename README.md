@@ -125,6 +125,13 @@ No activity tracked
       <a href="https://github.com/guanguans">guanguans</a>
     </td>
     <td align="center">
+      <a href="https://github.com/helallao">
+        <img src="https://avatars2.githubusercontent.com/u/78656003" width="100px;" alt="helallao"/>
+      </a>
+      <br />
+      <a href="https://github.com/helallao">Ali Yaşar</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/jhonataT">
         <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
       </a>
@@ -144,13 +151,6 @@ No activity tracked
       </a>
       <br />
       <a href="https://github.com/zhuwenxing">zhuwenxing</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AlphaTechnolog">
-        <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
-      </a>
-      <br />
-      <a href="https://github.com/AlphaTechnolog">Franklin Gabriel Guerra</a>
     </td>
   </tr>
 </table>
