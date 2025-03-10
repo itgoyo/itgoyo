@@ -74,18 +74,18 @@ TOML   0 secs          ███████████████████
       <a href="https://github.com/hoochanlon">123456</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Leticia-maria">
-        <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
-      </a>
-      <br />
-      <a href="https://github.com/Leticia-maria">Leticia Madureira</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/sbilly">
         <img src="https://avatars2.githubusercontent.com/u/123563" width="100px;" alt="sbilly"/>
       </a>
       <br />
       <a href="https://github.com/sbilly">sbilly</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Leticia-maria">
+        <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/Leticia-maria">Leticia Madureira</a>
     </td>
     <td align="center">
       <a href="https://github.com/snowdream">
