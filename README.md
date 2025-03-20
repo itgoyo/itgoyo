@@ -81,6 +81,13 @@ No activity tracked
       <a href="https://github.com/sbilly">sbilly</a>
     </td>
     <td align="center">
+      <a href="https://github.com/fbiego">
+        <img src="https://avatars2.githubusercontent.com/u/45796740" width="100px;" alt="fbiego"/>
+      </a>
+      <br />
+      <a href="https://github.com/fbiego">Felix Biego</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Leticia-maria">
         <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
       </a>
@@ -94,6 +101,8 @@ No activity tracked
       <br />
       <a href="https://github.com/snowdream">snowdream</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/victoryang00">
         <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="victoryang00"/>
@@ -101,8 +110,6 @@ No activity tracked
       <br />
       <a href="https://github.com/victoryang00">Yiwei Yang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Hexzilla">
         <img src="https://avatars2.githubusercontent.com/u/75077277" width="100px;" alt="Hexzilla"/>
@@ -144,13 +151,6 @@ No activity tracked
       </a>
       <br />
       <a href="https://github.com/zhuwenxing">zhuwenxing</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AlphaTechnolog">
-        <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
-      </a>
-      <br />
-      <a href="https://github.com/AlphaTechnolog">Franklin Gabriel Guerra</a>
     </td>
   </tr>
 </table>
