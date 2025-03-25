@@ -74,18 +74,18 @@ No activity tracked
       <a href="https://github.com/hoochanlon">123456</a>
     </td>
     <td align="center">
-      <a href="https://github.com/sbilly">
-        <img src="https://avatars2.githubusercontent.com/u/123563" width="100px;" alt="sbilly"/>
-      </a>
-      <br />
-      <a href="https://github.com/sbilly">sbilly</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/fbiego">
         <img src="https://avatars2.githubusercontent.com/u/45796740" width="100px;" alt="fbiego"/>
       </a>
       <br />
       <a href="https://github.com/fbiego">Felix Biego</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sbilly">
+        <img src="https://avatars2.githubusercontent.com/u/123563" width="100px;" alt="sbilly"/>
+      </a>
+      <br />
+      <a href="https://github.com/sbilly">sbilly</a>
     </td>
     <td align="center">
       <a href="https://github.com/Leticia-maria">
@@ -139,18 +139,18 @@ No activity tracked
       <a href="https://github.com/jhonataT">Jhonata Tenório</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zhuwenxing">
-        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
-      </a>
-      <br />
-      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/donmartz">
         <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
       </a>
       <br />
       <a href="https://github.com/donmartz">donmartz</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zhuwenxing">
+        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
+      </a>
+      <br />
+      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
     </td>
   </tr>
 </table>
