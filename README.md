@@ -104,11 +104,11 @@ No activity tracked
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/victoryang00">
-        <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="victoryang00"/>
+      <a href="https://github.com/vickiegpt">
+        <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="vickiegpt"/>
       </a>
       <br />
-      <a href="https://github.com/victoryang00">Yiwei Yang</a>
+      <a href="https://github.com/vickiegpt">Yiwei Yang</a>
     </td>
     <td align="center">
       <a href="https://github.com/Hexzilla">
