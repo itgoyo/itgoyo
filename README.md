@@ -204,7 +204,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#135](https://github.com/itgoyo/AndroidSummary/issues/135) in [itgoyo/AndroidSummary](https://github.com/itgoyo/AndroidSummary)
-2. 🔒 Closed issue [#1](https://github.com/Riniba/dujiaoTemplate/issues/1) in [Riniba/dujiaoTemplate](https://github.com/Riniba/dujiaoTemplate)
+1. ❗ Opened issue [#349](https://github.com/itgoyo/500Days-Of-Github/issues/349) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+2. ❗ Opened issue [#135](https://github.com/itgoyo/AndroidSummary/issues/135) in [itgoyo/AndroidSummary](https://github.com/itgoyo/AndroidSummary)
 <!--END_SECTION:activity-->
 
