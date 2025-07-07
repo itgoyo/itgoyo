@@ -204,7 +204,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/itgoyo/TelegramBot/issues/1#issuecomment-2888525873) in [itgoyo/TelegramBot](https://github.com/itgoyo/TelegramBot)
+1. ❗ Opened issue [#264](https://github.com/x-cmd/x-cmd/issues/264) in [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd)
 2. ❗ Opened issue [#349](https://github.com/itgoyo/500Days-Of-Github/issues/349) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
 <!--END_SECTION:activity-->
 
