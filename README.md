@@ -204,7 +204,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#264](https://github.com/x-cmd/x-cmd/issues/264) in [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd)
-2. ❗ Opened issue [#349](https://github.com/itgoyo/500Days-Of-Github/issues/349) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. ❗ Opened issue [#219](https://github.com/biliup/biliup-rs/issues/219) in [biliup/biliup-rs](https://github.com/biliup/biliup-rs)
+2. ❗ Opened issue [#264](https://github.com/x-cmd/x-cmd/issues/264) in [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd)
 <!--END_SECTION:activity-->
 
