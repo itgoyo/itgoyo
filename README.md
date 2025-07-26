@@ -132,6 +132,13 @@ No activity tracked
       <a href="https://github.com/guanguans">guanguans</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Gabrieliam42">
+        <img src="https://avatars2.githubusercontent.com/u/155897907" width="100px;" alt="Gabrieliam42"/>
+      </a>
+      <br />
+      <a href="https://github.com/Gabrieliam42">Gabriel Sandu</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/jhonataT">
         <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
       </a>
@@ -144,13 +151,6 @@ No activity tracked
       </a>
       <br />
       <a href="https://github.com/zhuwenxing">zhuwenxing</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/donmartz">
-        <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
-      </a>
-      <br />
-      <a href="https://github.com/donmartz">donmartz</a>
     </td>
   </tr>
 </table>
