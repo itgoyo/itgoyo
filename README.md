@@ -125,18 +125,18 @@ No activity tracked
       <a href="https://github.com/lichengtao1989">mycodelct</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Gabrieliam42">
-        <img src="https://avatars2.githubusercontent.com/u/155897907" width="100px;" alt="Gabrieliam42"/>
-      </a>
-      <br />
-      <a href="https://github.com/Gabrieliam42">Gabriel Sandu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/guanguans">
         <img src="https://avatars2.githubusercontent.com/u/22309277" width="100px;" alt="guanguans"/>
       </a>
       <br />
       <a href="https://github.com/guanguans">guanguans</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Gabrieliam42">
+        <img src="https://avatars2.githubusercontent.com/u/155897907" width="100px;" alt="Gabrieliam42"/>
+      </a>
+      <br />
+      <a href="https://github.com/Gabrieliam42">Gabriel Sandu</a>
     </td>
     <td align="center">
       <a href="https://github.com/jhonataT">
