@@ -88,18 +88,18 @@ No activity tracked
       <a href="https://github.com/sbilly">sbilly</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Leticia-maria">
-        <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
-      </a>
-      <br />
-      <a href="https://github.com/Leticia-maria">Leticia Madureira</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/vickiegpt">
         <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="vickiegpt"/>
       </a>
       <br />
       <a href="https://github.com/vickiegpt">Yiwei Yang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Leticia-maria">
+        <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/Leticia-maria">Leticia Madureira</a>
     </td>
   </tr>
   <tr>
