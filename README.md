@@ -125,18 +125,18 @@ No activity tracked
       <a href="https://github.com/lichengtao1989">mycodelct</a>
     </td>
     <td align="center">
-      <a href="https://github.com/guanguans">
-        <img src="https://avatars2.githubusercontent.com/u/22309277" width="100px;" alt="guanguans"/>
-      </a>
-      <br />
-      <a href="https://github.com/guanguans">guanguans</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/submitaitools">
         <img src="https://avatars2.githubusercontent.com/u/208140262" width="100px;" alt="submitaitools"/>
       </a>
       <br />
       <a href="https://github.com/submitaitools">Selena Wren</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/guanguans">
+        <img src="https://avatars2.githubusercontent.com/u/22309277" width="100px;" alt="guanguans"/>
+      </a>
+      <br />
+      <a href="https://github.com/guanguans">guanguans</a>
     </td>
     <td align="center">
       <a href="https://github.com/jhonataT">
