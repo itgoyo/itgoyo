@@ -104,18 +104,18 @@ No activity tracked
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/snowdream">
-        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
-      </a>
-      <br />
-      <a href="https://github.com/snowdream">snowdream</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/submitaitools">
         <img src="https://avatars2.githubusercontent.com/u/208140262" width="100px;" alt="submitaitools"/>
       </a>
       <br />
       <a href="https://github.com/submitaitools">Selena Wren</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/snowdream">
+        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
+      </a>
+      <br />
+      <a href="https://github.com/snowdream">snowdream</a>
     </td>
     <td align="center">
       <a href="https://github.com/Hexzilla">
