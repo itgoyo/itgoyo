@@ -204,7 +204,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#351](https://github.com/index-tts/index-tts/issues/351) in [index-tts/index-tts](https://github.com/index-tts/index-tts)
-2. ❗ Opened issue [#264](https://github.com/x-cmd/x-cmd/issues/264) in [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd)
+1. 🗣 Commented on [#351](https://github.com/index-tts/index-tts/issues/351#issuecomment-3290206376) in [index-tts/index-tts](https://github.com/index-tts/index-tts)
+2. ❗ Opened issue [#351](https://github.com/index-tts/index-tts/issues/351) in [index-tts/index-tts](https://github.com/index-tts/index-tts)
 <!--END_SECTION:activity-->
 
