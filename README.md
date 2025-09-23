@@ -204,7 +204,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#351](https://github.com/index-tts/index-tts/issues/351) in [index-tts/index-tts](https://github.com/index-tts/index-tts)
-2. 🗣 Commented on [#351](https://github.com/index-tts/index-tts/issues/351#issuecomment-3290206376) in [index-tts/index-tts](https://github.com/index-tts/index-tts)
+1. ❗ Opened issue [#350](https://github.com/itgoyo/500Days-Of-Github/issues/350) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+2. 🔒 Closed issue [#351](https://github.com/index-tts/index-tts/issues/351) in [index-tts/index-tts](https://github.com/index-tts/index-tts)
 <!--END_SECTION:activity-->
 
