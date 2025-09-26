@@ -67,18 +67,18 @@ No activity tracked
       <a href="https://github.com/lowlighter">Simon Lecoq</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hoochanlon">
-        <img src="https://avatars2.githubusercontent.com/u/35732922" width="100px;" alt="hoochanlon"/>
-      </a>
-      <br />
-      <a href="https://github.com/hoochanlon">123456</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/submitaitools">
         <img src="https://avatars2.githubusercontent.com/u/208140262" width="100px;" alt="submitaitools"/>
       </a>
       <br />
       <a href="https://github.com/submitaitools">Selena Wren</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hoochanlon">
+        <img src="https://avatars2.githubusercontent.com/u/35732922" width="100px;" alt="hoochanlon"/>
+      </a>
+      <br />
+      <a href="https://github.com/hoochanlon">123456</a>
     </td>
     <td align="center">
       <a href="https://github.com/fbiego">
