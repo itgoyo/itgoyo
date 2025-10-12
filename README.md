@@ -204,7 +204,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#351](https://github.com/itgoyo/500Days-Of-Github/issues/351) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
-2. ❗ Opened issue [#350](https://github.com/itgoyo/500Days-Of-Github/issues/350) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. ❗ Opened issue [#3042](https://github.com/521xueweihan/HelloGitHub/issues/3042) in [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
+2. ❗ Opened issue [#3041](https://github.com/521xueweihan/HelloGitHub/issues/3041) in [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 <!--END_SECTION:activity-->
 
