@@ -204,7 +204,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3042](https://github.com/521xueweihan/HelloGitHub/issues/3042) in [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
-2. ❗ Opened issue [#3041](https://github.com/521xueweihan/HelloGitHub/issues/3041) in [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
+1. ❗ Opened issue [#81](https://github.com/Heavrnl/TelegramForwarder/issues/81) in [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder)
+2. ❗ Opened issue [#3042](https://github.com/521xueweihan/HelloGitHub/issues/3042) in [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 <!--END_SECTION:activity-->
 
