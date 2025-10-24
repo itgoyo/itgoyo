@@ -74,13 +74,6 @@ No activity tracked
       <a href="https://github.com/submitaitools">Selena Wren</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hoochanlon">
-        <img src="https://avatars2.githubusercontent.com/u/35732922" width="100px;" alt="hoochanlon"/>
-      </a>
-      <br />
-      <a href="https://github.com/hoochanlon">123456</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/fbiego">
         <img src="https://avatars2.githubusercontent.com/u/45796740" width="100px;" alt="fbiego"/>
       </a>
@@ -101,8 +94,6 @@ No activity tracked
       <br />
       <a href="https://github.com/sbilly">sbilly</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Leticia-maria">
         <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
@@ -110,6 +101,8 @@ No activity tracked
       <br />
       <a href="https://github.com/Leticia-maria">Leticia Madureira</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/snowdream">
         <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
@@ -151,6 +144,13 @@ No activity tracked
       </a>
       <br />
       <a href="https://github.com/zhuwenxing">zhuwenxing</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DevenLu">
+        <img src="https://avatars2.githubusercontent.com/u/1639720" width="100px;" alt="DevenLu"/>
+      </a>
+      <br />
+      <a href="https://github.com/DevenLu">DevenLu</a>
     </td>
   </tr>
 </table>
