@@ -204,7 +204,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#81](https://github.com/Heavrnl/TelegramForwarder/issues/81) in [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder)
-2. ❗ Opened issue [#81](https://github.com/Heavrnl/TelegramForwarder/issues/81) in [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder)
+1. ❗ Opened issue [#2](https://github.com/terryso/nof1-tracker-dashboard/issues/2) in [terryso/nof1-tracker-dashboard](https://github.com/terryso/nof1-tracker-dashboard)
+2. 🔒 Closed issue [#81](https://github.com/Heavrnl/TelegramForwarder/issues/81) in [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder)
 <!--END_SECTION:activity-->
 
