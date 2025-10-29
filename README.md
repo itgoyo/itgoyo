@@ -204,7 +204,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#23](https://github.com/terryso/nof1-tracker/issues/23) in [terryso/nof1-tracker](https://github.com/terryso/nof1-tracker)
-2. 🗣 Commented on [#23](https://github.com/terryso/nof1-tracker/issues/23#issuecomment-3459264043) in [terryso/nof1-tracker](https://github.com/terryso/nof1-tracker)
+1. 🔒 Closed issue [#2](https://github.com/terryso/nof1-tracker-dashboard/issues/2) in [terryso/nof1-tracker-dashboard](https://github.com/terryso/nof1-tracker-dashboard)
+2. 🗣 Commented on [#2](https://github.com/terryso/nof1-tracker-dashboard/issues/2#issuecomment-3459311645) in [terryso/nof1-tracker-dashboard](https://github.com/terryso/nof1-tracker-dashboard)
 <!--END_SECTION:activity-->
 
