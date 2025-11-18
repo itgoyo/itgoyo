@@ -204,7 +204,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#81](https://github.com/Heavrnl/TelegramForwarder/issues/81) in [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder)
-2. 🔓 Reopened issue [#81](https://github.com/Heavrnl/TelegramForwarder/issues/81) in [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder)
+1. ❗ Opened issue [#352](https://github.com/itgoyo/500Days-Of-Github/issues/352) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+2. 🔒 Closed issue [#81](https://github.com/Heavrnl/TelegramForwarder/issues/81) in [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder)
 <!--END_SECTION:activity-->
 
