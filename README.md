@@ -132,11 +132,11 @@ No activity tracked
       <a href="https://github.com/jhonataT">Jhonata Tenório</a>
     </td>
     <td align="center">
-      <a href="https://github.com/donmartz">
-        <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
+      <a href="https://github.com/DevenLu">
+        <img src="https://avatars2.githubusercontent.com/u/1639720" width="100px;" alt="DevenLu"/>
       </a>
       <br />
-      <a href="https://github.com/donmartz">donmartz</a>
+      <a href="https://github.com/DevenLu">DevenLu</a>
     </td>
   </tr>
 </table>
