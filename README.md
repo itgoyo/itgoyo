@@ -97,18 +97,18 @@ No activity tracked
       <a href="https://github.com/snowdream">snowdream</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Hexzilla">
-        <img src="https://avatars2.githubusercontent.com/u/75077277" width="100px;" alt="Hexzilla"/>
-      </a>
-      <br />
-      <a href="https://github.com/Hexzilla">Hexzilla</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lichengtao1989">
         <img src="https://avatars2.githubusercontent.com/u/10625423" width="100px;" alt="lichengtao1989"/>
       </a>
       <br />
       <a href="https://github.com/lichengtao1989">mycodelct</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Hexzilla">
+        <img src="https://avatars2.githubusercontent.com/u/75077277" width="100px;" alt="Hexzilla"/>
+      </a>
+      <br />
+      <a href="https://github.com/Hexzilla">Hexzilla</a>
     </td>
     <td align="center">
       <a href="https://github.com/guanguans">
