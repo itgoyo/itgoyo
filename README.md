@@ -190,7 +190,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#346](https://github.com/itgoyo/500Days-Of-Github/issues/346#issuecomment-3600367074) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
-2. ❗ Opened issue [#352](https://github.com/itgoyo/500Days-Of-Github/issues/352) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1.  Labeled issue [#1574](https://github.com/biliup/biliup/issues/1574) in [biliup/biliup](https://github.com/biliup/biliup)
+2. ❗ Opened issue [#1574](https://github.com/biliup/biliup/issues/1574) in [biliup/biliup](https://github.com/biliup/biliup)
 <!--END_SECTION:activity-->
 
