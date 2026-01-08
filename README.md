@@ -190,7 +190,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1574](https://github.com/biliup/biliup/issues/1574) in [biliup/biliup](https://github.com/biliup/biliup)
-2. ❗ Opened issue [#1574](https://github.com/biliup/biliup/issues/1574) in [biliup/biliup](https://github.com/biliup/biliup)
+1. ℹ️ Labeled issue [#7278](https://github.com/anomalyco/opencode/issues/7278) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+2. ❗ Opened issue [#7278](https://github.com/anomalyco/opencode/issues/7278) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
 <!--END_SECTION:activity-->
 
