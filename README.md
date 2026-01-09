@@ -39,6 +39,13 @@ No activity tracked
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/onamfc">
+        <img src="https://avatars2.githubusercontent.com/u/8187699" width="100px;" alt="onamfc"/>
+      </a>
+      <br />
+      <a href="https://github.com/onamfc">Brandon Estrella</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/NaiboWang">
         <img src="https://avatars2.githubusercontent.com/u/30287768" width="100px;" alt="NaiboWang"/>
       </a>
@@ -80,6 +87,8 @@ No activity tracked
       <br />
       <a href="https://github.com/sbilly">sbilly</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Leticia-maria">
         <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
@@ -87,8 +96,6 @@ No activity tracked
       <br />
       <a href="https://github.com/Leticia-maria">Leticia Madureira</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/lichengtao1989">
         <img src="https://avatars2.githubusercontent.com/u/10625423" width="100px;" alt="lichengtao1989"/>
@@ -130,13 +137,6 @@ No activity tracked
       </a>
       <br />
       <a href="https://github.com/jhonataT">Jhonata Tenório</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DevenLu">
-        <img src="https://avatars2.githubusercontent.com/u/1639720" width="100px;" alt="DevenLu"/>
-      </a>
-      <br />
-      <a href="https://github.com/DevenLu">DevenLu</a>
     </td>
   </tr>
 </table>
