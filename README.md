@@ -190,7 +190,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#7278](https://github.com/anomalyco/opencode/issues/7278) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-2. ❗ Opened issue [#7278](https://github.com/anomalyco/opencode/issues/7278) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+1. 🔒 Closed issue [#78](https://github.com/YishenTu/claudian/issues/78) in [YishenTu/claudian](https://github.com/YishenTu/claudian)
+2. 🗣 Commented on [#78](https://github.com/YishenTu/claudian/issues/78#issuecomment-3733853845) in [YishenTu/claudian](https://github.com/YishenTu/claudian)
 <!--END_SECTION:activity-->
 
