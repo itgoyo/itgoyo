@@ -81,20 +81,20 @@ No activity tracked
       <a href="https://github.com/sbilly">sbilly</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Leticia-maria">
-        <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
-      </a>
-      <br />
-      <a href="https://github.com/Leticia-maria">Leticia Madureira</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/lichengtao1989">
         <img src="https://avatars2.githubusercontent.com/u/10625423" width="100px;" alt="lichengtao1989"/>
       </a>
       <br />
       <a href="https://github.com/lichengtao1989">mycodelct</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Leticia-maria">
+        <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/Leticia-maria">Leticia Madureira</a>
     </td>
     <td align="center">
       <a href="https://github.com/snowdream">
