@@ -190,7 +190,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#353](https://github.com/itgoyo/500Days-Of-Github/issues/353) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
-2. 🔒 Closed issue [#78](https://github.com/YishenTu/claudian/issues/78) in [YishenTu/claudian](https://github.com/YishenTu/claudian)
+1. ❗ Opened issue [#354](https://github.com/itgoyo/500Days-Of-Github/issues/354) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+2. ❗ Opened issue [#353](https://github.com/itgoyo/500Days-Of-Github/issues/353) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
 <!--END_SECTION:activity-->
 
