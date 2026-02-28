@@ -74,18 +74,18 @@ No activity tracked
       <a href="https://github.com/vickiegpt">Yiwei Yang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/sbilly">
-        <img src="https://avatars2.githubusercontent.com/u/123563" width="100px;" alt="sbilly"/>
-      </a>
-      <br />
-      <a href="https://github.com/sbilly">sbilly</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lichengtao1989">
         <img src="https://avatars2.githubusercontent.com/u/10625423" width="100px;" alt="lichengtao1989"/>
       </a>
       <br />
       <a href="https://github.com/lichengtao1989">mycodelct</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sbilly">
+        <img src="https://avatars2.githubusercontent.com/u/123563" width="100px;" alt="sbilly"/>
+      </a>
+      <br />
+      <a href="https://github.com/sbilly">sbilly</a>
     </td>
   </tr>
   <tr>
@@ -132,11 +132,11 @@ No activity tracked
       <a href="https://github.com/jhonataT">Jhonata Tenório</a>
     </td>
     <td align="center">
-      <a href="https://github.com/DevenLu">
-        <img src="https://avatars2.githubusercontent.com/u/1639720" width="100px;" alt="DevenLu"/>
+      <a href="https://github.com/Willie169">
+        <img src="https://avatars2.githubusercontent.com/u/133617026" width="100px;" alt="Willie169"/>
       </a>
       <br />
-      <a href="https://github.com/DevenLu">DevenLu</a>
+      <a href="https://github.com/Willie169">Willie169</a>
     </td>
   </tr>
 </table>
