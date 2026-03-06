@@ -118,11 +118,11 @@ No activity tracked
       <a href="https://github.com/guanguans">guanguans</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Ben-Scr">
-        <img src="https://avatars2.githubusercontent.com/u/180831368" width="100px;" alt="Ben-Scr"/>
+      <a href="https://github.com/zhuwenxing">
+        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
       </a>
       <br />
-      <a href="https://github.com/Ben-Scr">Ben</a>
+      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
     </td>
     <td align="center">
       <a href="https://github.com/jhonataT">
@@ -132,11 +132,11 @@ No activity tracked
       <a href="https://github.com/jhonataT">Jhonata Tenório</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zhuwenxing">
-        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
+      <a href="https://github.com/Willie169">
+        <img src="https://avatars2.githubusercontent.com/u/133617026" width="100px;" alt="Willie169"/>
       </a>
       <br />
-      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
+      <a href="https://github.com/Willie169">Willie169</a>
     </td>
   </tr>
 </table>
