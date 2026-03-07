@@ -190,7 +190,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#354](https://github.com/itgoyo/500Days-Of-Github/issues/354) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
+1. ❗ Opened issue [#95](https://github.com/Heavrnl/TelegramForwarder/issues/95) in [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder)
 2. ❗ Opened issue [#353](https://github.com/itgoyo/500Days-Of-Github/issues/353) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
 <!--END_SECTION:activity-->
 
