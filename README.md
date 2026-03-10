@@ -118,6 +118,13 @@ No activity tracked
       <a href="https://github.com/guanguans">guanguans</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Willie169">
+        <img src="https://avatars2.githubusercontent.com/u/133617026" width="100px;" alt="Willie169"/>
+      </a>
+      <br />
+      <a href="https://github.com/Willie169">Willie169</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/jhonataT">
         <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
       </a>
@@ -130,13 +137,6 @@ No activity tracked
       </a>
       <br />
       <a href="https://github.com/zhuwenxing">zhuwenxing</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Willie169">
-        <img src="https://avatars2.githubusercontent.com/u/133617026" width="100px;" alt="Willie169"/>
-      </a>
-      <br />
-      <a href="https://github.com/Willie169">Willie169</a>
     </td>
   </tr>
 </table>
