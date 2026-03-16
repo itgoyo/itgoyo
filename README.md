@@ -67,18 +67,18 @@ No activity tracked
       <a href="https://github.com/fbiego">Felix Biego</a>
     </td>
     <td align="center">
-      <a href="https://github.com/vickiegpt">
-        <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="vickiegpt"/>
-      </a>
-      <br />
-      <a href="https://github.com/vickiegpt">Yiwei Yang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lichengtao1989">
         <img src="https://avatars2.githubusercontent.com/u/10625423" width="100px;" alt="lichengtao1989"/>
       </a>
       <br />
       <a href="https://github.com/lichengtao1989">mycodelct</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vickiegpt">
+        <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="vickiegpt"/>
+      </a>
+      <br />
+      <a href="https://github.com/vickiegpt">Yiwei Yang</a>
     </td>
     <td align="center">
       <a href="https://github.com/sbilly">
