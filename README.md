@@ -125,18 +125,18 @@ No activity tracked
       <a href="https://github.com/Willie169">Willie169</a>
     </td>
     <td align="center">
+      <a href="https://github.com/brunomadrigal80">
+        <img src="https://avatars2.githubusercontent.com/u/258112009" width="100px;" alt="brunomadrigal80"/>
+      </a>
+      <br />
+      <a href="https://github.com/brunomadrigal80">Bruno Madrigal</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/zhuwenxing">
         <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
       </a>
       <br />
       <a href="https://github.com/zhuwenxing">zhuwenxing</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jhonataT">
-        <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
-      </a>
-      <br />
-      <a href="https://github.com/jhonataT">Jhonata Tenório</a>
     </td>
   </tr>
 </table>
