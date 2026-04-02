@@ -39,18 +39,18 @@ No activity tracked
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/NaiboWang">
-        <img src="https://avatars2.githubusercontent.com/u/30287768" width="100px;" alt="NaiboWang"/>
-      </a>
-      <br />
-      <a href="https://github.com/NaiboWang">Naibo Wang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/submitaitools">
         <img src="https://avatars2.githubusercontent.com/u/208140262" width="100px;" alt="submitaitools"/>
       </a>
       <br />
       <a href="https://github.com/submitaitools">Selena Wren</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NaiboWang">
+        <img src="https://avatars2.githubusercontent.com/u/30287768" width="100px;" alt="NaiboWang"/>
+      </a>
+      <br />
+      <a href="https://github.com/NaiboWang">Naibo Wang</a>
     </td>
     <td align="center">
       <a href="https://github.com/lowlighter">
