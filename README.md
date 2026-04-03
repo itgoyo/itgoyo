@@ -15,6 +15,12 @@
 - Updated automatically on 2026-04-03 (UTC).
 <!--END_SECTION:now-building-->
 
+<p align="center">
+  <a href="https://github.com/itgoyo">
+    <img src="https://231590.xyz/api/serverstatus.svg?theme=light&limit=10">
+  </a>
+</p>
+
 ## 🛠 Core Stack
 
 <p align="center">
