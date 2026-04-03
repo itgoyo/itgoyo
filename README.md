@@ -6,14 +6,6 @@
 <h1 align="center">Hi 👋, I'm itgoyo</h1>
 <h3 align="center">Product engineer from China, building useful tools for dev workflow and digital life.</h3>
 
-<p align="center">
-  <a href="https://itgoyo.github.io/">Blog</a> •
-  <a href="https://github.com/itgoyo?tab=repositories">Projects</a> •
-  <a href="https://itgoyo.github.io/games/">Games</a> •
-  <a href="https://itgoyo.github.io/books/">Books</a> •
-  <a href="https://itgoyo.github.io/movies/">Movies</a>
-</p>
-
 ## 🚀 Now Building
 
 <!--START_SECTION:now-building-->
