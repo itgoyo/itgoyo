@@ -30,8 +30,8 @@ if __name__ == "__main__":
 
     html = "<table>\n"
 
-    max_followers = 6
-    per_row = 6
+    max_followers = 14
+    per_row = 7
 
     for i in range(min(len(followers), max_followers)):
         login = followers[i][1]

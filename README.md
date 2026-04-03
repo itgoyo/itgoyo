@@ -109,6 +109,64 @@ No activity tracked
       <br />
       <a href="https://github.com/vickiegpt">Yiwei Yang</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/sbilly">
+        <img src="https://avatars2.githubusercontent.com/u/123563" width="100px;" alt="sbilly"/>
+      </a>
+      <br />
+      <a href="https://github.com/sbilly">sbilly</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Leticia-maria">
+        <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/Leticia-maria">Leticia Madureira</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/snowdream">
+        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
+      </a>
+      <br />
+      <a href="https://github.com/snowdream">snowdream</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Hexzilla">
+        <img src="https://avatars2.githubusercontent.com/u/75077277" width="100px;" alt="Hexzilla"/>
+      </a>
+      <br />
+      <a href="https://github.com/Hexzilla">Hexzilla</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/guanguans">
+        <img src="https://avatars2.githubusercontent.com/u/22309277" width="100px;" alt="guanguans"/>
+      </a>
+      <br />
+      <a href="https://github.com/guanguans">guanguans</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/brunomadrigal80">
+        <img src="https://avatars2.githubusercontent.com/u/258112009" width="100px;" alt="brunomadrigal80"/>
+      </a>
+      <br />
+      <a href="https://github.com/brunomadrigal80">Bruno Madrigal</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zhuwenxing">
+        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
+      </a>
+      <br />
+      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Willie169">
+        <img src="https://avatars2.githubusercontent.com/u/133617026" width="100px;" alt="Willie169"/>
+      </a>
+      <br />
+      <a href="https://github.com/Willie169">Willie169</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
