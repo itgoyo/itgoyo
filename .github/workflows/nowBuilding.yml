@@ -1,0 +1,35 @@
+name: Update Now Building
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '20 8 * * *'
+
+jobs:
+  update-now-building:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Update README now-building section
+        run: python src/updateNowBuilding.py ${{ github.repository_owner }} ${{ secrets.GITHUB_TOKEN }} README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff-index --quiet HEAD || git commit -m "Update now building section"
+
+      - name: Pull changes
+        run: git pull -r
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
