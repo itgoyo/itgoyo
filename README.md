@@ -69,7 +69,7 @@ No activity tracked
 
 ## ✨ My Followers
 
-<details>
+<details open>
 <summary>Show follower wall</summary>
 
 <!--START_SECTION:top-followers-->
