@@ -184,7 +184,9 @@ def _localize_images(
     return result
 
 
-def _build_row(label: str, items: list[dict[str, str]]) -> str:
+def _build_row(
+    label: str, items: list[dict[str, str]], img_w: int = 120, img_h: int = 160
+) -> str:
     """Build one category row: header + horizontal item cards."""
     if not items:
         return f"**{label}** 暂无更新\n"
@@ -195,7 +197,7 @@ def _build_row(label: str, items: list[dict[str, str]]) -> str:
         tds.append(
             f'  <td align="center" valign="top" width="{td_width}%">\n'
             f'<a href="{item["url"]}">'
-            f'<img src="{item["image"]}" width="120" alt="{item["title"]}"/>'
+            f'<img src="{item["image"]}" width="{img_w}" height="{img_h}" alt="{item["title"]}"/>'
             f'</a>\n'
             f'<br/>\n'
             f'<a href="{item["url"]}">{item["title"]}</a>\n'
@@ -219,9 +221,9 @@ def _build_dashboard(
     game_items: list[dict[str, str]],
 ) -> str:
     parts = [
-        _build_row("📚 想读", book_items),
-        _build_row("🎬 看过", movie_items),
-        _build_row("🎮 想玩", game_items),
+        _build_row("📚 想读", book_items, img_w=120, img_h=160),
+        _build_row("🎬 看过", movie_items, img_w=120, img_h=160),
+        _build_row("🎮 想玩", game_items, img_w=120, img_h=120),
     ]
     return "\n".join(parts)
 
