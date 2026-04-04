@@ -1,4 +1,4 @@
-name: Update Videos
+name: Update Media Sections
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  update-videos:
+  update-media:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,17 +18,21 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Fetch and update video sections
+      - name: Fetch and update media sections
         env:
           BILIBILI_COOKIE: ${{ secrets.BILIBILI_COOKIE }}
-        run: python src/updateVideos.py README.md
+          DOUBAN_USER_ID: itgoyo
+          DOUBAN_ITEM_COUNT: 4
+        run: |
+          python src/updateVideos.py README.md
+          python src/updateDouban.py README.md
 
       - name: Commit changes
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add README.md
-          git diff-index --quiet HEAD || git commit -m "chore: update bilibili & youtube videos"
+          git add README.md img/douban/
+          git diff-index --quiet HEAD || git commit -m "chore: update video and douban sections"
 
       - name: Pull changes
         run: git pull -r
