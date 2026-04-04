@@ -182,7 +182,7 @@
 <table>
 <tr>
   <td align="center" valign="top" width="100%">
-<a href="https://www.douban.com/game/26366741/"><img src="img/douban/20c55d793229.jpg" width="120" height="120" alt="命运石之门 STEINS;GATE"/></a>
+<a href="https://www.douban.com/game/26366741/"><img src="img/douban/20c55d793229.jpg" width="120" height="160" alt="命运石之门 STEINS;GATE"/></a>
 <br/>
 <a href="https://www.douban.com/game/26366741/">命运石之门 STEINS;GATE</a>
   </td>

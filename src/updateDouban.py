@@ -223,7 +223,7 @@ def _build_dashboard(
     parts = [
         _build_row("📚 想读", book_items, img_w=120, img_h=160),
         _build_row("🎬 看过", movie_items, img_w=120, img_h=160),
-        _build_row("🎮 想玩", game_items, img_w=120, img_h=120),
+        _build_row("🎮 想玩", game_items, img_w=120, img_h=160),
     ]
     return "\n".join(parts)
 
