@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping updates, latest: [obsidian-copilot · 1.0.0](https://github.com/itgoyo/obsidian-copilot/releases/tag/1.0.0).
-- Maintaining active projects: [awesome-crypto](https://github.com/itgoyo/awesome-crypto), [obsidian-copilot](https://github.com/itgoyo/obsidian-copilot), [itgoyo.github.io](https://github.com/itgoyo/itgoyo.github.io).
+- Maintaining active projects: [itgoyo](https://github.com/itgoyo/itgoyo), [awesome-crypto](https://github.com/itgoyo/awesome-crypto), [obsidian-copilot](https://github.com/itgoyo/obsidian-copilot).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-04-03 (UTC).
+- Updated automatically on 2026-04-04 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
