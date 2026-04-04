@@ -154,6 +154,7 @@
   </td>
 </tr>
 </table>
+
 <b>🎬 看过</b>
 
 <table>
@@ -180,6 +181,7 @@
   </td>
 </tr>
 </table>
+
 <b>🎮 想玩</b>
 
 <table>

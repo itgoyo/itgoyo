@@ -225,7 +225,7 @@ def _build_dashboard(
         _build_row("🎬 看过", movie_items, img_w=120, img_h=160),
         _build_row("🎮 想玩", game_items, img_w=120, img_h=160),
     ]
-    return "\n".join(parts)
+    return "\n\n".join(parts)
 
 
 def _update_readme_section(readme_path: str, section_name: str, content: str) -> None:
