@@ -51,7 +51,7 @@
   </a>
 </p>
 
-## � 哔哩哔哩最新视频
+## 📺 哔哩哔哩最新视频
 
 <!--START_SECTION:bilibili-videos-->
 <table>
@@ -125,7 +125,7 @@
 </table>
 <!--END_SECTION:youtube-videos-->
 
-## �📝 Weekly Shipping Log
+## 📝 Weekly Shipping Log
 
 <!--START_SECTION:waka-->
 
