@@ -125,7 +125,7 @@
 </table>
 <!--END_SECTION:youtube-videos-->
 
-## 🎯 豆瓣用户数据（itgoyo）
+## 🎯 豆瓣
 
 <!--START_SECTION:douban-dashboard-->
 <table>
