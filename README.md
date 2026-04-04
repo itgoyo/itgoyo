@@ -129,6 +129,7 @@
 
 <!--START_SECTION:douban-dashboard-->
 <b>📚 想读</b>
+
 <table>
 <tr>
   <td align="center" valign="top" width="25%">
@@ -154,6 +155,7 @@
 </tr>
 </table>
 <b>🎬 看过</b>
+
 <table>
 <tr>
   <td align="center" valign="top" width="25%">
@@ -179,6 +181,7 @@
 </tr>
 </table>
 <b>🎮 想玩</b>
+
 <table>
 <tr>
   <td align="center" valign="top" width="100%">

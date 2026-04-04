@@ -206,7 +206,7 @@ def _build_row(
 
     rows_html = "\n".join(tds)
     return (
-        f"<b>{label}</b>\n"
+        f"<b>{label}</b>\n\n"
         "<table>\n"
         "<tr>\n"
         f"{rows_html}\n"
