@@ -189,7 +189,7 @@ def _build_row(
 ) -> str:
     """Build one category row: header + horizontal item cards."""
     if not items:
-        return f"**{label}** 暂无更新\n"
+        return f"<b>{label}</b> 暂无更新\n"
 
     td_width = 100 // len(items)
     tds = []
@@ -206,7 +206,7 @@ def _build_row(
 
     rows_html = "\n".join(tds)
     return (
-        f"**{label}**\n"
+        f"<b>{label}</b>\n"
         "<table>\n"
         "<tr>\n"
         f"{rows_html}\n"

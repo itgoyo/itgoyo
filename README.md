@@ -128,7 +128,7 @@
 ## 🎯 豆瓣
 
 <!--START_SECTION:douban-dashboard-->
-**📚 想读**
+<b>📚 想读</b>
 <table>
 <tr>
   <td align="center" valign="top" width="25%">
@@ -153,7 +153,7 @@
   </td>
 </tr>
 </table>
-**🎬 看过**
+<b>🎬 看过</b>
 <table>
 <tr>
   <td align="center" valign="top" width="25%">
@@ -178,7 +178,7 @@
   </td>
 </tr>
 </table>
-**🎮 想玩**
+<b>🎮 想玩</b>
 <table>
 <tr>
   <td align="center" valign="top" width="100%">
