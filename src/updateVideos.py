@@ -28,8 +28,8 @@ BILIBILI_UID = "12767066"
 YOUTUBE_HANDLE = "@goudan-tech"
 VIDEO_COUNT = 4
 # Max display width units for title (CJK=2, ASCII=1).
-# 25 CJK chars × 2 = 50 display width units.
-TITLE_MAX_DISPLAY_WIDTH = 50
+# 22 CJK chars × 2 = 44 display width units.
+TITLE_MAX_DISPLAY_WIDTH = 44
 
 # RSSHub routes
 RSSHUB_BILIBILI_URL = f"{RSSHUB_BASE}/bilibili/user/video/{BILIBILI_UID}"
