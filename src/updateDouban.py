@@ -1,7 +1,7 @@
 """Update README with user-specific Douban book/movie/game cards.
 
 Data source (public user pages):
-    - Book  wish:     https://book.douban.com/people/:user/wish
+    - Book  collect:  https://book.douban.com/people/:user/collect
     - Movie collect:  https://movie.douban.com/people/:user/collect
     - Game  wish:     https://www.douban.com/people/:user/games?action=wish
 
@@ -30,7 +30,7 @@ from typing import Callable
 DOUBAN_USER_ID = os.environ.get("DOUBAN_USER_ID", "itgoyo")
 ITEM_COUNT = int(os.environ.get("DOUBAN_ITEM_COUNT", "4"))
 
-BOOK_WISH_URL = f"https://book.douban.com/people/{DOUBAN_USER_ID}/wish"
+BOOK_COLLECT_URL = f"https://book.douban.com/people/{DOUBAN_USER_ID}/collect"
 MOVIE_COLLECT_URL = f"https://movie.douban.com/people/{DOUBAN_USER_ID}/collect"
 GAME_WISH_URL = f"https://www.douban.com/people/{DOUBAN_USER_ID}/games?action=wish"
 
@@ -53,8 +53,11 @@ def _http_get_text(url: str, timeout: int = 20) -> str:
     req = urllib.request.Request(url)
     req.add_header(
         "User-Agent",
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     )
+    req.add_header("Cookie", "bid=readme_bot")
+    req.add_header("Referer", _referer_for(url))
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return resp.read().decode("utf-8", errors="ignore")
 
@@ -221,7 +224,7 @@ def _build_dashboard(
     game_items: list[dict[str, str]],
 ) -> str:
     parts = [
-        _build_row("📚 想读", book_items, img_w=120, img_h=160),
+        _build_row("📚 读过", book_items, img_w=120, img_h=160),
         _build_row("🎬 看过", movie_items, img_w=120, img_h=160),
         _build_row("🎮 想玩", game_items, img_w=120, img_h=160),
     ]
@@ -272,7 +275,7 @@ def main() -> None:
     img_dir = readme_dir / IMAGE_DIR
     img_dir.mkdir(parents=True, exist_ok=True)
 
-    book_items = _fetch_items(BOOK_WISH_URL, "douban-book", _parse_book_items, ITEM_COUNT)
+    book_items = _fetch_items(BOOK_COLLECT_URL, "douban-book", _parse_book_items, ITEM_COUNT)
     movie_items = _fetch_items(MOVIE_COLLECT_URL, "douban-movie", _parse_movie_items, ITEM_COUNT)
     game_items = _fetch_items(GAME_WISH_URL, "douban-game", _parse_game_items, ITEM_COUNT)
 

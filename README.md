@@ -128,29 +128,29 @@
 ## 🎯 豆瓣
 
 <!--START_SECTION:douban-dashboard-->
-<b>📚 想读</b>
+<b>📚 读过</b>
 
 <table>
 <tr>
   <td align="center" valign="top" width="25%">
-<a href="https://book.douban.com/subject/27132072/"><img src="img/douban/44247de537b3.jpg" width="120" height="160" alt="OKR工作法"/></a>
+<a href="https://book.douban.com/subject/26789567/"><img src="img/douban/3e7fffc8118d.jpg" width="120" height="160" alt="如何有效阅读一本书"/></a>
 <br/>
-<a href="https://book.douban.com/subject/27132072/">OKR工作法</a>
+<a href="https://book.douban.com/subject/26789567/">如何有效阅读一本书</a>
   </td>
   <td align="center" valign="top" width="25%">
-<a href="https://book.douban.com/subject/24335672/"><img src="img/douban/bcbeec033afb.jpg" width="120" height="160" alt="淘宝技术这十年"/></a>
+<a href="https://book.douban.com/subject/27599358/"><img src="img/douban/890eb6b81391.jpg" width="120" height="160" alt="思维的精进：高效人生修炼手册"/></a>
 <br/>
-<a href="https://book.douban.com/subject/24335672/">淘宝技术这十年</a>
+<a href="https://book.douban.com/subject/27599358/">思维的精进：高效人生修炼手册</a>
   </td>
   <td align="center" valign="top" width="25%">
-<a href="https://book.douban.com/subject/21966353/"><img src="img/douban/c76fd0285f95.jpg" width="120" height="160" alt="贫穷的本质"/></a>
+<a href="https://book.douban.com/subject/27040433/"><img src="img/douban/27ec7207e14d.jpg" width="120" height="160" alt="极简主义"/></a>
 <br/>
-<a href="https://book.douban.com/subject/21966353/">贫穷的本质</a>
+<a href="https://book.douban.com/subject/27040433/">极简主义</a>
   </td>
   <td align="center" valign="top" width="25%">
-<a href="https://book.douban.com/subject/6519759/"><img src="img/douban/87dd127368cb.jpg" width="120" height="160" alt="记事本圆梦计划"/></a>
+<a href="https://book.douban.com/subject/24749465/"><img src="img/douban/daf35446d99a.jpg" width="120" height="160" alt="断舍离"/></a>
 <br/>
-<a href="https://book.douban.com/subject/6519759/">记事本圆梦计划</a>
+<a href="https://book.douban.com/subject/24749465/">断舍离</a>
   </td>
 </tr>
 </table>
