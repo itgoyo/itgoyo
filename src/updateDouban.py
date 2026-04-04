@@ -184,17 +184,33 @@ def _localize_images(
     return result
 
 
-def _build_cell(items: list[dict[str, str]]) -> str:
+def _build_row(label: str, items: list[dict[str, str]]) -> str:
+    """Build one category row: header + horizontal item cards."""
     if not items:
-        return "暂无更新"
-    cards = []
+        return f"**{label}** 暂无更新\n"
+
+    td_width = 100 // len(items)
+    tds = []
     for item in items:
-        cards.append(
-            f'<a href="{item["url"]}"><img src="{item["image"]}" width="92" '
-            f'alt="{item["title"]}"/></a><br/>'
-            f'<a href="{item["url"]}">{item["title"]}</a>'
+        tds.append(
+            f'  <td align="center" valign="top" width="{td_width}%">\n'
+            f'<a href="{item["url"]}">'
+            f'<img src="{item["image"]}" width="120" alt="{item["title"]}"/>'
+            f'</a>\n'
+            f'<br/>\n'
+            f'<a href="{item["url"]}">{item["title"]}</a>\n'
+            f"  </td>"
         )
-    return "<br/><br/>".join(cards)
+
+    rows_html = "\n".join(tds)
+    return (
+        f"**{label}**\n"
+        "<table>\n"
+        "<tr>\n"
+        f"{rows_html}\n"
+        "</tr>\n"
+        "</table>"
+    )
 
 
 def _build_dashboard(
@@ -202,24 +218,12 @@ def _build_dashboard(
     movie_items: list[dict[str, str]],
     game_items: list[dict[str, str]],
 ) -> str:
-    book_cell = _build_cell(book_items)
-    movie_cell = _build_cell(movie_items)
-    game_cell = _build_cell(game_items)
-
-    return (
-        "<table>\n"
-        "  <tr>\n"
-        '    <th align="left">📚 想读</th>\n'
-        '    <th align="left">🎬 看过</th>\n'
-        '    <th align="left">🎮 想玩</th>\n'
-        "  </tr>\n"
-        "  <tr>\n"
-        f"    <td valign=\"top\">{book_cell}</td>\n"
-        f"    <td valign=\"top\">{movie_cell}</td>\n"
-        f"    <td valign=\"top\">{game_cell}</td>\n"
-        "  </tr>\n"
-        "</table>"
-    )
+    parts = [
+        _build_row("📚 想读", book_items),
+        _build_row("🎬 看过", movie_items),
+        _build_row("🎮 想玩", game_items),
+    ]
+    return "\n".join(parts)
 
 
 def _update_readme_section(readme_path: str, section_name: str, content: str) -> None:

@@ -128,28 +128,71 @@
 ## 🎯 豆瓣
 
 <!--START_SECTION:douban-dashboard-->
+**📚 想读**
 <table>
-  <tr>
-    <th align="left">📚 想读</th>
-    <th align="left">🎬 看过</th>
-    <th align="left">🎮 想玩</th>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://book.douban.com/subject/27132072/"><img src="img/douban/44247de537b3.jpg" width="92" alt="OKR工作法"/></a><br/><a href="https://book.douban.com/subject/27132072/">OKR工作法</a><br/><br/><a href="https://book.douban.com/subject/24335672/"><img src="img/douban/bcbeec033afb.jpg" width="92" alt="淘宝技术这十年"/></a><br/><a href="https://book.douban.com/subject/24335672/">淘宝技术这十年</a><br/><br/><a href="https://book.douban.com/subject/21966353/"><img src="img/douban/c76fd0285f95.jpg" width="92" alt="贫穷的本质"/></a><br/><a href="https://book.douban.com/subject/21966353/">贫穷的本质</a><br/><br/><a href="https://book.douban.com/subject/6519759/"><img src="img/douban/87dd127368cb.jpg" width="92" alt="记事本圆梦计划"/></a><br/><a href="https://book.douban.com/subject/6519759/">记事本圆梦计划</a></td>
-    <td valign="top"><a href="https://movie.douban.com/subject/36778966/"><img src="img/douban/8fc029470fec.jpg" width="92" alt="都是她的错"/></a><br/><a href="https://movie.douban.com/subject/36778966/">都是她的错</a><br/><br/><a href="https://movie.douban.com/subject/35436582/"><img src="img/douban/4ef3f4e122ce.jpg" width="92" alt="爱，死亡和机器人 第三季"/></a><br/><a href="https://movie.douban.com/subject/35436582/">爱，死亡和机器人 第三季</a><br/><br/><a href="https://movie.douban.com/subject/34949767/"><img src="img/douban/d9bdb5a7cfe6.jpg" width="92" alt="叛逆者"/></a><br/><a href="https://movie.douban.com/subject/34949767/">叛逆者</a><br/><br/><a href="https://movie.douban.com/subject/35182499/"><img src="img/douban/943194c1ec29.jpg" width="92" alt="重启之极海听雷 第二季"/></a><br/><a href="https://movie.douban.com/subject/35182499/">重启之极海听雷 第二季</a></td>
-    <td valign="top"><a href="https://www.douban.com/game/26366741/"><img src="img/douban/20c55d793229.jpg" width="92" alt="命运石之门 STEINS;GATE"/></a><br/><a href="https://www.douban.com/game/26366741/">命运石之门 STEINS;GATE</a></td>
-  </tr>
+<tr>
+  <td align="center" valign="top" width="25%">
+<a href="https://book.douban.com/subject/27132072/"><img src="img/douban/44247de537b3.jpg" width="120" alt="OKR工作法"/></a>
+<br/>
+<a href="https://book.douban.com/subject/27132072/">OKR工作法</a>
+  </td>
+  <td align="center" valign="top" width="25%">
+<a href="https://book.douban.com/subject/24335672/"><img src="img/douban/bcbeec033afb.jpg" width="120" alt="淘宝技术这十年"/></a>
+<br/>
+<a href="https://book.douban.com/subject/24335672/">淘宝技术这十年</a>
+  </td>
+  <td align="center" valign="top" width="25%">
+<a href="https://book.douban.com/subject/21966353/"><img src="img/douban/c76fd0285f95.jpg" width="120" alt="贫穷的本质"/></a>
+<br/>
+<a href="https://book.douban.com/subject/21966353/">贫穷的本质</a>
+  </td>
+  <td align="center" valign="top" width="25%">
+<a href="https://book.douban.com/subject/6519759/"><img src="img/douban/87dd127368cb.jpg" width="120" alt="记事本圆梦计划"/></a>
+<br/>
+<a href="https://book.douban.com/subject/6519759/">记事本圆梦计划</a>
+  </td>
+</tr>
+</table>
+**🎬 看过**
+<table>
+<tr>
+  <td align="center" valign="top" width="25%">
+<a href="https://movie.douban.com/subject/36778966/"><img src="img/douban/8fc029470fec.jpg" width="120" alt="都是她的错"/></a>
+<br/>
+<a href="https://movie.douban.com/subject/36778966/">都是她的错</a>
+  </td>
+  <td align="center" valign="top" width="25%">
+<a href="https://movie.douban.com/subject/35436582/"><img src="img/douban/4ef3f4e122ce.jpg" width="120" alt="爱，死亡和机器人 第三季"/></a>
+<br/>
+<a href="https://movie.douban.com/subject/35436582/">爱，死亡和机器人 第三季</a>
+  </td>
+  <td align="center" valign="top" width="25%">
+<a href="https://movie.douban.com/subject/34949767/"><img src="img/douban/d9bdb5a7cfe6.jpg" width="120" alt="叛逆者"/></a>
+<br/>
+<a href="https://movie.douban.com/subject/34949767/">叛逆者</a>
+  </td>
+  <td align="center" valign="top" width="25%">
+<a href="https://movie.douban.com/subject/35182499/"><img src="img/douban/943194c1ec29.jpg" width="120" alt="重启之极海听雷 第二季"/></a>
+<br/>
+<a href="https://movie.douban.com/subject/35182499/">重启之极海听雷 第二季</a>
+  </td>
+</tr>
+</table>
+**🎮 想玩**
+<table>
+<tr>
+  <td align="center" valign="top" width="100%">
+<a href="https://www.douban.com/game/26366741/"><img src="img/douban/20c55d793229.jpg" width="120" alt="命运石之门 STEINS;GATE"/></a>
+<br/>
+<a href="https://www.douban.com/game/26366741/">命运石之门 STEINS;GATE</a>
+  </td>
+</tr>
 </table>
 <!--END_SECTION:douban-dashboard-->
 
 ## 📝 Weekly Shipping Log
 
 <!--START_SECTION:waka-->
-
-```txt
-暂无数据
-```
-
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
