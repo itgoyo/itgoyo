@@ -69,6 +69,22 @@ def _referer_for(url: str) -> str:
     return REFERER_MAP.get(host, "https://www.douban.com/")
 
 
+IMAGE_WIDTH = 120
+IMAGE_HEIGHT = 160
+
+
+def _resize_image(path: pathlib.Path) -> None:
+    """Resize image to fixed dimensions using Pillow."""
+    try:
+        from PIL import Image
+
+        with Image.open(path) as img:
+            resized = img.resize((IMAGE_WIDTH, IMAGE_HEIGHT), Image.LANCZOS)
+            resized.save(path)
+    except Exception as exc:
+        print(f"  [img] resize failed {path.name}: {exc}", file=sys.stderr)
+
+
 def _download_image(url: str, dest_dir: pathlib.Path) -> str:
     """Download image with correct Referer and return the local relative path."""
     url_hash = hashlib.md5(url.encode()).hexdigest()[:12]
@@ -90,6 +106,7 @@ def _download_image(url: str, dest_dir: pathlib.Path) -> str:
         with urllib.request.urlopen(req, timeout=20) as resp:
             data = resp.read()
         local_path.write_bytes(data)
+        _resize_image(local_path)
         print(f"  [img] downloaded {local_name} ({len(data)} bytes)")
     except Exception as exc:
         print(f"  [img] failed {url}: {exc}", file=sys.stderr)
