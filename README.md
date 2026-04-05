@@ -187,6 +187,15 @@
 ## 📝 Weekly Shipping Log
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown                   2 hrs 18 mins         ███████████▓░░░░░░░░░░░░░   46.45 %
+Python                     58 mins               █████░░░░░░░░░░░░░░░░░░░░   19.71 %
+Bash                       57 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.29 %
+Git Config                 14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Other                      11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+```
+
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
