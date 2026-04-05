@@ -9,10 +9,10 @@
 ## 🚀 Now Building
 
 <!--START_SECTION:now-building-->
-- Shipping updates, latest: [obsidian-copilot · 1.0.0](https://github.com/itgoyo/obsidian-copilot/releases/tag/1.0.0).
-- Maintaining active projects: [itgoyo](https://github.com/itgoyo/itgoyo), [awesome-crypto](https://github.com/itgoyo/awesome-crypto), [obsidian-copilot](https://github.com/itgoyo/obsidian-copilot).
+- Shipping steady updates across open-source projects.
+- Maintaining active projects: [TelegramBot](https://github.com/itgoyo/TelegramBot), [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [itgoyo](https://github.com/itgoyo/itgoyo).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-04-04 (UTC).
+- Updated automatically on 2026-04-05 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
