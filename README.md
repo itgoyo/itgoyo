@@ -221,18 +221,18 @@ JSON                       22 mins               ▓░░░░░░░░░�
       <a href="https://github.com/submitaitools">Selena Wren</a>
     </td>
     <td align="center">
-      <a href="https://github.com/NaiboWang">
-        <img src="https://avatars2.githubusercontent.com/u/30287768" width="100px;" alt="NaiboWang"/>
-      </a>
-      <br />
-      <a href="https://github.com/NaiboWang">Naibo Wang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lowlighter">
         <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
       </a>
       <br />
       <a href="https://github.com/lowlighter">Simon Lecoq</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NaiboWang">
+        <img src="https://avatars2.githubusercontent.com/u/30287768" width="100px;" alt="NaiboWang"/>
+      </a>
+      <br />
+      <a href="https://github.com/NaiboWang">Naibo Wang</a>
     </td>
     <td align="center">
       <a href="https://github.com/fbiego">
