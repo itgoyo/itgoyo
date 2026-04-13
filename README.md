@@ -201,8 +201,8 @@ Text               21 mins               █░░░░░░░░░░░░
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#223](https://github.com/webadderall/Recordly/issues/223) in [webadderall/Recordly](https://github.com/webadderall/Recordly)
-2. ❗ Opened issue [#95](https://github.com/Heavrnl/TelegramForwarder/issues/95) in [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder)
+1. ℹ️ Labeled issue [#8877](https://github.com/NousResearch/hermes-agent/issues/8877) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+2. ❗ Opened issue [#8877](https://github.com/NousResearch/hermes-agent/issues/8877) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 <!--END_SECTION:activity-->
 
 ## ✨ My Followers
