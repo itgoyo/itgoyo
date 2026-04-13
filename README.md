@@ -83,6 +83,13 @@
 <table>
 <tr>
   <td align="center" valign="top" width="25%">
+<a href="https://www.youtube.com/watch?v=8_iMUX5LGf8">
+<img src="https://i.ytimg.com/vi/8_iMUX5LGf8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhq2elYvz1GgAB1v81ABi4XWSE5g" width="180" alt="迷你主机有多强？8核心16线程可以畅玩各种3A..."/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=8_iMUX5LGf8">迷你主机有多强？8核心16线程可以畅玩各种3A...</a>
+</td>
+  <td align="center" valign="top" width="25%">
 <a href="https://www.youtube.com/watch?v=LO-YOGxt5mg">
 <img src="https://i.ytimg.com/vi/LO-YOGxt5mg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAY19hiHiFzb1C4eX-T3RAjMjBw-Q" width="180" alt="一切的开始，都要从我买了一张月租不到1块钱..."/>
 </a>
@@ -102,13 +109,6 @@
 </a>
 <br/>
 <a href="https://www.youtube.com/watch?v=KheIAU7HJug">迷你主机有多强？8核心16线程可以畅玩各种3A...</a>
-</td>
-  <td align="center" valign="top" width="25%">
-<a href="https://www.youtube.com/watch?v=uIWmS93rbcQ">
-<img src="https://i.ytimg.com/vi/uIWmS93rbcQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAplseHE8sHuD-wvAMhLQkUzR4YAw" width="180" alt="千元就能买到的&quot;苹果机&quot;到底有多强？巴掌大..."/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=uIWmS93rbcQ">千元就能买到的"苹果机"到底有多强？巴掌大...</a>
 </td>
 </tr>
 </table>
