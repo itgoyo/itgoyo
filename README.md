@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [awesome-claude-code-skills](https://github.com/itgoyo/awesome-claude-code-skills), [awesome-claude-code](https://github.com/itgoyo/awesome-claude-code), [TelegramGroup](https://github.com/itgoyo/TelegramGroup).
+- Maintaining active projects: [learn-crypto](https://github.com/itgoyo/learn-crypto), [awesome-claude-code-skills](https://github.com/itgoyo/awesome-claude-code-skills), [awesome-claude-code](https://github.com/itgoyo/awesome-claude-code).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-04-13 (UTC).
+- Updated automatically on 2026-04-14 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
