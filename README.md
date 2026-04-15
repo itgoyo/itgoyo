@@ -46,6 +46,13 @@
 <table>
 <tr>
   <td align="center" valign="top" width="25%">
+<a href="https://www.bilibili.com/video/BV1rnDDBBEfC">
+<img src="https://i0.hdslb.com/bfs/archive/4b44bad00496594636793f42c06a993e34fd9c6f.jpg" width="180" alt="迷你主机有多强？8核心16线程可以畅玩各种3A..."/>
+</a>
+<br/>
+<a href="https://www.bilibili.com/video/BV1rnDDBBEfC">迷你主机有多强？8核心16线程可以畅玩各种3A...</a>
+</td>
+  <td align="center" valign="top" width="25%">
 <a href="https://www.bilibili.com/video/BV1dk1GB3E8k">
 <img src="https://i0.hdslb.com/bfs/archive/18267e2dc43def4628d9f5a18651e33e87dfb433.jpg" width="180" alt="没有公网ip？三分钟教会你使用frp内网穿透！"/>
 </a>
@@ -65,13 +72,6 @@
 </a>
 <br/>
 <a href="https://www.bilibili.com/video/BV1yqaRztEaW">迷你主机有多强？8核心16线程可以畅玩各种3A...</a>
-</td>
-  <td align="center" valign="top" width="25%">
-<a href="https://www.bilibili.com/video/BV1DcGEzmEHD">
-<img src="https://i1.hdslb.com/bfs/archive/1155ee358a26d66b6d8d7e319032483894878853.jpg" width="180" alt="千元就能买到的&quot;苹果机&quot;到底有多强？巴掌大..."/>
-</a>
-<br/>
-<a href="https://www.bilibili.com/video/BV1DcGEzmEHD">千元就能买到的"苹果机"到底有多强？巴掌大...</a>
 </td>
 </tr>
 </table>
