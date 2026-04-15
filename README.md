@@ -286,18 +286,18 @@ YAML               7 mins                ▓░░░░░░░░░░░░
       <a href="https://github.com/Hexzilla">Hexzilla</a>
     </td>
     <td align="center">
-      <a href="https://github.com/guanguans">
-        <img src="https://avatars2.githubusercontent.com/u/22309277" width="100px;" alt="guanguans"/>
-      </a>
-      <br />
-      <a href="https://github.com/guanguans">guanguans</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/brunomadrigal80">
         <img src="https://avatars2.githubusercontent.com/u/258112009" width="100px;" alt="brunomadrigal80"/>
       </a>
       <br />
       <a href="https://github.com/brunomadrigal80">Bruno Madrigal</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/guanguans">
+        <img src="https://avatars2.githubusercontent.com/u/22309277" width="100px;" alt="guanguans"/>
+      </a>
+      <br />
+      <a href="https://github.com/guanguans">guanguans</a>
     </td>
     <td align="center">
       <a href="https://github.com/zhuwenxing">
