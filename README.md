@@ -201,8 +201,8 @@ YAML               7 mins                ▓░░░░░░░░░░░░
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#8877](https://github.com/NousResearch/hermes-agent/issues/8877) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-2. ❗ Opened issue [#8877](https://github.com/NousResearch/hermes-agent/issues/8877) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+1. ℹ️ Labeled issue [#10715](https://github.com/NousResearch/hermes-agent/issues/10715) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+2. ❗ Opened issue [#10715](https://github.com/NousResearch/hermes-agent/issues/10715) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 <!--END_SECTION:activity-->
 
 ## ✨ My Followers
