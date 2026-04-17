@@ -46,6 +46,13 @@
 <table>
 <tr>
   <td align="center" valign="top" width="25%">
+<a href="https://www.bilibili.com/video/BV1FBQJBSEjo">
+<img src="https://i0.hdslb.com/bfs/archive/9f4bf9befbcfa506d53772269b3c7989edd9c627.jpg" width="180" alt="吊打付费软件，开源免费手机投屏神器Scrcpy！"/>
+</a>
+<br/>
+<a href="https://www.bilibili.com/video/BV1FBQJBSEjo">吊打付费软件，开源免费手机投屏神器Scrcpy！</a>
+</td>
+  <td align="center" valign="top" width="25%">
 <a href="https://www.bilibili.com/video/BV1rnDDBBEfC">
 <img src="https://i0.hdslb.com/bfs/archive/4b44bad00496594636793f42c06a993e34fd9c6f.jpg" width="180" alt="迷你主机有多强？8核心16线程可以畅玩各种3A..."/>
 </a>
@@ -65,13 +72,6 @@
 </a>
 <br/>
 <a href="https://www.bilibili.com/video/BV1XqHkzCEpN">0成本，手把手保姆级教程，教会你使用云服务...</a>
-</td>
-  <td align="center" valign="top" width="25%">
-<a href="https://www.bilibili.com/video/BV1yqaRztEaW">
-<img src="https://i0.hdslb.com/bfs/archive/41062180e940db73f602369e256f826da4702442.jpg" width="180" alt="迷你主机有多强？8核心16线程可以畅玩各种3A..."/>
-</a>
-<br/>
-<a href="https://www.bilibili.com/video/BV1yqaRztEaW">迷你主机有多强？8核心16线程可以畅玩各种3A...</a>
 </td>
 </tr>
 </table>
