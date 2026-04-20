@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [hermes-notification](https://github.com/itgoyo/hermes-notification), [awesome-crypto](https://github.com/itgoyo/awesome-crypto), [TelegramGroup](https://github.com/itgoyo/TelegramGroup).
+- Maintaining active projects: [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [awesome-claude-code-skills](https://github.com/itgoyo/awesome-claude-code-skills), [TelegramBot](https://github.com/itgoyo/TelegramBot).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-04-19 (UTC).
+- Updated automatically on 2026-04-20 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
