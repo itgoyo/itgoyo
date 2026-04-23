@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [hermes-skills](https://github.com/itgoyo/hermes-skills), [binance-square](https://github.com/itgoyo/binance-square).
+- Maintaining active projects: [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [binance-square](https://github.com/itgoyo/binance-square), [hermes-skills](https://github.com/itgoyo/hermes-skills).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-04-22 (UTC).
+- Updated automatically on 2026-04-23 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
