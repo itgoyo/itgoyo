@@ -214,13 +214,6 @@ Markdown     31 mins               █▓░░░░░░░░░░░░░
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/submitaitools">
-        <img src="https://avatars2.githubusercontent.com/u/208140262" width="100px;" alt="submitaitools"/>
-      </a>
-      <br />
-      <a href="https://github.com/submitaitools">Selena Wren</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lowlighter">
         <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
       </a>
@@ -262,8 +255,6 @@ Markdown     31 mins               █▓░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/sbilly">sbilly</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Leticia-maria">
         <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
@@ -271,6 +262,8 @@ Markdown     31 mins               █▓░░░░░░░░░░░░░
       <br />
       <a href="https://github.com/Leticia-maria">Leticia Madureira</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/snowdream">
         <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
@@ -312,6 +305,13 @@ Markdown     31 mins               █▓░░░░░░░░░░░░░
       </a>
       <br />
       <a href="https://github.com/zhuwenxing">zhuwenxing</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DevenLu">
+        <img src="https://avatars2.githubusercontent.com/u/1639720" width="100px;" alt="DevenLu"/>
+      </a>
+      <br />
+      <a href="https://github.com/DevenLu">DevenLu</a>
     </td>
   </tr>
 </table>
