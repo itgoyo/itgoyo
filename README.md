@@ -283,7 +283,7 @@ Other        31 mins               █▓░░░░░░░░░░░░░
         <img src="https://avatars2.githubusercontent.com/u/258112009" width="100px;" alt="brunomadrigal80"/>
       </a>
       <br />
-      <a href="https://github.com/brunomadrigal80">Bruno Madrigal</a>
+      <a href="https://github.com/brunomadrigal80">H</a>
     </td>
     <td align="center">
       <a href="https://github.com/guanguans">
@@ -307,11 +307,11 @@ Other        31 mins               █▓░░░░░░░░░░░░░
       <a href="https://github.com/zhuwenxing">zhuwenxing</a>
     </td>
     <td align="center">
-      <a href="https://github.com/DevenLu">
-        <img src="https://avatars2.githubusercontent.com/u/1639720" width="100px;" alt="DevenLu"/>
+      <a href="https://github.com/jhonataT">
+        <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
       </a>
       <br />
-      <a href="https://github.com/DevenLu">DevenLu</a>
+      <a href="https://github.com/jhonataT">Jhonata Tenório</a>
     </td>
   </tr>
 </table>
