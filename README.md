@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [TelegramForwarder-Fix-v2](https://github.com/itgoyo/TelegramForwarder-Fix-v2), [TelegramBot](https://github.com/itgoyo/TelegramBot).
+- Maintaining active projects: [JTZF](https://github.com/itgoyo/JTZF), [awesome-gpt-image2-prompt](https://github.com/itgoyo/awesome-gpt-image2-prompt), [TelegramBot](https://github.com/itgoyo/TelegramBot).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-04-29 (UTC).
+- Updated automatically on 2026-04-30 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
