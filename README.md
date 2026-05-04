@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [DanmakuRender](https://github.com/itgoyo/DanmakuRender), [telegram_media_downloader_comment](https://github.com/itgoyo/telegram_media_downloader_comment), [JTZF](https://github.com/itgoyo/JTZF).
+- Maintaining active projects: [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [DanmakuRender](https://github.com/itgoyo/DanmakuRender), [telegram_media_downloader_comment](https://github.com/itgoyo/telegram_media_downloader_comment).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-05-03 (UTC).
+- Updated automatically on 2026-05-04 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
