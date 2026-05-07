@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [RSS-to-Telegram-Bot](https://github.com/itgoyo/RSS-to-Telegram-Bot), [JTZF](https://github.com/itgoyo/JTZF), [itgoyo.github.io](https://github.com/itgoyo/itgoyo.github.io).
+- Maintaining active projects: [awesome-seedance-prompt](https://github.com/itgoyo/awesome-seedance-prompt), [RSS-to-Telegram-Bot](https://github.com/itgoyo/RSS-to-Telegram-Bot), [JTZF](https://github.com/itgoyo/JTZF).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-05-06 (UTC).
+- Updated automatically on 2026-05-07 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
