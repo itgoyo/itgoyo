@@ -46,6 +46,13 @@
 <table>
 <tr>
   <td align="center" valign="top" width="25%">
+<a href="https://www.bilibili.com/video/BV1wyRyBYEzo">
+<img src="https://i2.hdslb.com/bfs/archive/adc23162238f769a20835ecb6196d1d74cd19640.jpg" width="180" alt="首款搭载MCIO双2.5G网口的性能迷你主机，畅..."/>
+</a>
+<br/>
+<a href="https://www.bilibili.com/video/BV1wyRyBYEzo">首款搭载MCIO双2.5G网口的性能迷你主机，畅...</a>
+</td>
+  <td align="center" valign="top" width="25%">
 <a href="https://www.bilibili.com/video/BV1FBQJBSEjo">
 <img src="https://i0.hdslb.com/bfs/archive/9f4bf9befbcfa506d53772269b3c7989edd9c627.jpg" width="180" alt="吊打付费软件，开源免费手机投屏神器Scrcpy！"/>
 </a>
@@ -65,13 +72,6 @@
 </a>
 <br/>
 <a href="https://www.bilibili.com/video/BV1dk1GB3E8k">没有公网ip？三分钟教会你使用frp内网穿透！</a>
-</td>
-  <td align="center" valign="top" width="25%">
-<a href="https://www.bilibili.com/video/BV1XqHkzCEpN">
-<img src="https://i0.hdslb.com/bfs/archive/33ad2371287db59c8109386785bfee057bb06f8d.jpg" width="180" alt="0成本，手把手保姆级教程，教会你使用云服务..."/>
-</a>
-<br/>
-<a href="https://www.bilibili.com/video/BV1XqHkzCEpN">0成本，手把手保姆级教程，教会你使用云服务...</a>
 </td>
 </tr>
 </table>
