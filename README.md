@@ -201,7 +201,7 @@ Text               45 mins               █░░░░░░░░░░░░
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#10715](https://github.com/NousResearch/hermes-agent/issues/10715) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+1. ❗ Opened issue [#1](https://github.com/itgoyo/wordpress-ad-plugins/issues/1) in [itgoyo/wordpress-ad-plugins](https://github.com/itgoyo/wordpress-ad-plugins)
 2. ❗ Opened issue [#10715](https://github.com/NousResearch/hermes-agent/issues/10715) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 <!--END_SECTION:activity-->
 
