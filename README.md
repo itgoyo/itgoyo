@@ -117,71 +117,14 @@
 ## 🎯 豆瓣
 
 <!--START_SECTION:douban-dashboard-->
-<b>📚 读过</b>
+<b>📚 读过</b> 暂无更新
 
-<table>
-<tr>
-  <td align="center" valign="top" width="25%">
-<a href="https://book.douban.com/subject/26789567/"><img src="img/douban/3e7fffc8118d.jpg" width="120" height="160" alt="如何有效阅读一本书"/></a>
-<br/>
-<a href="https://book.douban.com/subject/26789567/">如何有效阅读一本书</a>
-  </td>
-  <td align="center" valign="top" width="25%">
-<a href="https://book.douban.com/subject/27599358/"><img src="img/douban/890eb6b81391.jpg" width="120" height="160" alt="思维的精进：高效人生修炼手册"/></a>
-<br/>
-<a href="https://book.douban.com/subject/27599358/">思维的精进：高效人生修炼手册</a>
-  </td>
-  <td align="center" valign="top" width="25%">
-<a href="https://book.douban.com/subject/27040433/"><img src="img/douban/27ec7207e14d.jpg" width="120" height="160" alt="极简主义"/></a>
-<br/>
-<a href="https://book.douban.com/subject/27040433/">极简主义</a>
-  </td>
-  <td align="center" valign="top" width="25%">
-<a href="https://book.douban.com/subject/24749465/"><img src="img/douban/daf35446d99a.jpg" width="120" height="160" alt="断舍离"/></a>
-<br/>
-<a href="https://book.douban.com/subject/24749465/">断舍离</a>
-  </td>
-</tr>
-</table>
 
-<b>🎬 看过</b>
+<b>🎬 看过</b> 暂无更新
 
-<table>
-<tr>
-  <td align="center" valign="top" width="25%">
-<a href="https://movie.douban.com/subject/36778966/"><img src="img/douban/8fc029470fec.jpg" width="120" height="160" alt="都是她的错"/></a>
-<br/>
-<a href="https://movie.douban.com/subject/36778966/">都是她的错</a>
-  </td>
-  <td align="center" valign="top" width="25%">
-<a href="https://movie.douban.com/subject/35436582/"><img src="img/douban/4ef3f4e122ce.jpg" width="120" height="160" alt="爱，死亡和机器人 第三季"/></a>
-<br/>
-<a href="https://movie.douban.com/subject/35436582/">爱，死亡和机器人 第三季</a>
-  </td>
-  <td align="center" valign="top" width="25%">
-<a href="https://movie.douban.com/subject/34949767/"><img src="img/douban/d9bdb5a7cfe6.jpg" width="120" height="160" alt="叛逆者"/></a>
-<br/>
-<a href="https://movie.douban.com/subject/34949767/">叛逆者</a>
-  </td>
-  <td align="center" valign="top" width="25%">
-<a href="https://movie.douban.com/subject/35182499/"><img src="img/douban/943194c1ec29.jpg" width="120" height="160" alt="重启之极海听雷 第二季"/></a>
-<br/>
-<a href="https://movie.douban.com/subject/35182499/">重启之极海听雷 第二季</a>
-  </td>
-</tr>
-</table>
 
-<b>🎮 想玩</b>
+<b>🎮 想玩</b> 暂无更新
 
-<table>
-<tr>
-  <td align="center" valign="top" width="100%">
-<a href="https://www.douban.com/game/26366741/"><img src="img/douban/20c55d793229.jpg" width="120" height="160" alt="命运石之门 STEINS;GATE"/></a>
-<br/>
-<a href="https://www.douban.com/game/26366741/">命运石之门 STEINS;GATE</a>
-  </td>
-</tr>
-</table>
 <!--END_SECTION:douban-dashboard-->
 
 ## 📝 Weekly Shipping Log
