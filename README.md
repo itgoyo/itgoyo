@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [TelegramBot](https://github.com/itgoyo/TelegramBot), [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [wordpress-ad-plugins](https://github.com/itgoyo/wordpress-ad-plugins).
+- Maintaining active projects: [awesome-web3](https://github.com/itgoyo/awesome-web3), [TelegramBot](https://github.com/itgoyo/TelegramBot), [TelegramGroup](https://github.com/itgoyo/TelegramGroup).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-05-10 (UTC).
+- Updated automatically on 2026-05-11 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
