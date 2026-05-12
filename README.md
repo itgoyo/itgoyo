@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [awesome-web3](https://github.com/itgoyo/awesome-web3), [TelegramBot](https://github.com/itgoyo/TelegramBot), [TelegramGroup](https://github.com/itgoyo/TelegramGroup).
+- Maintaining active projects: [tg-anti-ad-bot](https://github.com/itgoyo/tg-anti-ad-bot), [multica-skills](https://github.com/itgoyo/multica-skills), [awesome-web3](https://github.com/itgoyo/awesome-web3).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-05-11 (UTC).
+- Updated automatically on 2026-05-12 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
