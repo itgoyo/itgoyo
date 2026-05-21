@@ -279,11 +279,11 @@ Python     13 mins               █▒░░░░░░░░░░░░░�
       <a href="https://github.com/Hexzilla">Hexzilla</a>
     </td>
     <td align="center">
-      <a href="https://github.com/brunomadrigal80">
-        <img src="https://avatars2.githubusercontent.com/u/258112009" width="100px;" alt="brunomadrigal80"/>
+      <a href="https://github.com/HC59648">
+        <img src="https://avatars2.githubusercontent.com/u/258112009" width="100px;" alt="HC59648"/>
       </a>
       <br />
-      <a href="https://github.com/brunomadrigal80">H</a>
+      <a href="https://github.com/HC59648">HC59648</a>
     </td>
     <td align="center">
       <a href="https://github.com/guanguans">
