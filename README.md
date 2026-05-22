@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [GroupSilentBot](https://github.com/itgoyo/GroupSilentBot), [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [TelegramBot](https://github.com/itgoyo/TelegramBot).
+- Maintaining active projects: [claude-code-install](https://github.com/itgoyo/claude-code-install), [GroupSilentBot](https://github.com/itgoyo/GroupSilentBot), [TelegramGroup](https://github.com/itgoyo/TelegramGroup).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-05-21 (UTC).
+- Updated automatically on 2026-05-22 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
