@@ -307,11 +307,11 @@ XML          43 mins               ███░░░░░░░░░░░░
       <a href="https://github.com/zhuwenxing">zhuwenxing</a>
     </td>
     <td align="center">
-      <a href="https://github.com/jhonataT">
-        <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
+      <a href="https://github.com/DevenLu">
+        <img src="https://avatars2.githubusercontent.com/u/1639720" width="100px;" alt="DevenLu"/>
       </a>
       <br />
-      <a href="https://github.com/jhonataT">Jhonata Tenório</a>
+      <a href="https://github.com/DevenLu">DevenLu</a>
     </td>
   </tr>
 </table>
