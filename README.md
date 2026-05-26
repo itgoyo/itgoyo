@@ -46,6 +46,13 @@
 <table>
 <tr>
   <td align="center" valign="top" width="25%">
+<a href="https://www.bilibili.com/video/BV1TZGn6MECg">
+<img src="https://i0.hdslb.com/bfs/archive/a87139931d3af8c53e8f1e4ef48625d0c7b601e7.jpg" width="180" alt="国内用户如何免费使用Claude Code，看完视频..."/>
+</a>
+<br/>
+<a href="https://www.bilibili.com/video/BV1TZGn6MECg">国内用户如何免费使用Claude Code，看完视频...</a>
+</td>
+  <td align="center" valign="top" width="25%">
 <a href="https://www.bilibili.com/video/BV1wyRyBYEzo">
 <img src="https://i2.hdslb.com/bfs/archive/adc23162238f769a20835ecb6196d1d74cd19640.jpg" width="180" alt="首款搭载MCIO双2.5G网口的性能迷你主机，畅..."/>
 </a>
@@ -65,13 +72,6 @@
 </a>
 <br/>
 <a href="https://www.bilibili.com/video/BV1rnDDBBEfC">迷你主机有多强？8核心16线程可以畅玩各种3A...</a>
-</td>
-  <td align="center" valign="top" width="25%">
-<a href="https://www.bilibili.com/video/BV1dk1GB3E8k">
-<img src="https://i0.hdslb.com/bfs/archive/18267e2dc43def4628d9f5a18651e33e87dfb433.jpg" width="180" alt="没有公网ip？三分钟教会你使用frp内网穿透！"/>
-</a>
-<br/>
-<a href="https://www.bilibili.com/video/BV1dk1GB3E8k">没有公网ip？三分钟教会你使用frp内网穿透！</a>
 </td>
 </tr>
 </table>
