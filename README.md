@@ -47,7 +47,7 @@
 <tr>
   <td align="center" valign="top" width="25%">
 <a href="https://www.bilibili.com/video/BV1TZGn6MECg">
-<img src="https://i0.hdslb.com/bfs/archive/a87139931d3af8c53e8f1e4ef48625d0c7b601e7.jpg" width="180" alt="国内用户如何免费使用Claude Code，看完视频..."/>
+<img src="https://i1.hdslb.com/bfs/archive/7d59822e4180540e0b51de4d51116ba087f8eecb.jpg" width="180" alt="国内用户如何免费使用Claude Code，看完视频..."/>
 </a>
 <br/>
 <a href="https://www.bilibili.com/video/BV1TZGn6MECg">国内用户如何免费使用Claude Code，看完视频...</a>
