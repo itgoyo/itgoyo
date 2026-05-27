@@ -9,10 +9,10 @@
 ## 🚀 Now Building
 
 <!--START_SECTION:now-building-->
-- Shipping updates, latest: [LogToFile · v1.0](https://github.com/itgoyo/LogToFile/releases/tag/v1.0).
+- Shipping steady updates across open-source projects.
 - Maintaining active projects: [TelegramBot](https://github.com/itgoyo/TelegramBot), [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [claude-code-install](https://github.com/itgoyo/claude-code-install).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-05-26 (UTC).
+- Updated automatically on 2026-05-27 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
