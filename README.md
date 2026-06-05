@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [TelegramBot](https://github.com/itgoyo/TelegramBot), [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [haoka](https://github.com/itgoyo/haoka).
+- Maintaining active projects: [tg-transformer](https://github.com/itgoyo/tg-transformer), [itgoyo.github.io](https://github.com/itgoyo/itgoyo.github.io), [TelegramGroup](https://github.com/itgoyo/TelegramGroup).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-06-04 (UTC).
+- Updated automatically on 2026-06-05 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
