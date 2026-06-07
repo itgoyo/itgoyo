@@ -279,13 +279,6 @@ Other        11 mins               █░░░░░░░░░░░░░░
       <a href="https://github.com/Hexzilla">Hexzilla</a>
     </td>
     <td align="center">
-      <a href="https://github.com/HC59648">
-        <img src="https://avatars2.githubusercontent.com/u/258112009" width="100px;" alt="HC59648"/>
-      </a>
-      <br />
-      <a href="https://github.com/HC59648">HC59648</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/guanguans">
         <img src="https://avatars2.githubusercontent.com/u/22309277" width="100px;" alt="guanguans"/>
       </a>
@@ -312,6 +305,13 @@ Other        11 mins               █░░░░░░░░░░░░░░
       </a>
       <br />
       <a href="https://github.com/DevenLu">DevenLu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jhonataT">
+        <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
+      </a>
+      <br />
+      <a href="https://github.com/jhonataT">Jhonata Tenório</a>
     </td>
   </tr>
 </table>
