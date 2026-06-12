@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [itgoyo.github.io](https://github.com/itgoyo/itgoyo.github.io), [wordpress-ad-plugins](https://github.com/itgoyo/wordpress-ad-plugins), [Apple_Siri_Prompt](https://github.com/itgoyo/Apple_Siri_Prompt).
+- Maintaining active projects: [tg-nav](https://github.com/itgoyo/tg-nav), [ollama-home](https://github.com/itgoyo/ollama-home), [TelegramBot](https://github.com/itgoyo/TelegramBot).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-06-11 (UTC).
+- Updated automatically on 2026-06-12 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
