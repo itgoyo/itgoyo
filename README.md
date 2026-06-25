@@ -201,8 +201,8 @@ Other              1 hr 1 min            █▒░░░░░░░░░░░
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/AZeC4/tg-transformer/pull/3) in [AZeC4/tg-transformer](https://github.com/AZeC4/tg-transformer)
-2. 🗣 Commented on [#1](https://github.com/itgoyo/wordpress-ad-plugins/issues/1#issuecomment-4676805798) in [itgoyo/wordpress-ad-plugins](https://github.com/itgoyo/wordpress-ad-plugins)
+1. 💪 Opened PR [#3](https://github.com/AZeC4/tg-transformer/pull/3) in [AZeC4/tg-transformer](https://github.com/AZeC4/tg-transformer)
+2. 💪 Opened PR [#2](https://github.com/AZeC4/tg-transformer/pull/2) in [AZeC4/tg-transformer](https://github.com/AZeC4/tg-transformer)
 <!--END_SECTION:activity-->
 
 ## ✨ My Followers
