@@ -9,10 +9,10 @@
 ## 🚀 Now Building
 
 <!--START_SECTION:now-building-->
-- Shipping steady updates across open-source projects.
-- Maintaining active projects: [Clash-Rules](https://github.com/itgoyo/Clash-Rules), [telegram_media_downloader_filter](https://github.com/itgoyo/telegram_media_downloader_filter), [TelegramBot](https://github.com/itgoyo/TelegramBot).
+- Shipping updates, latest: [android-xml-jump · Android XML Jump v0.1.0](https://github.com/itgoyo/android-xml-jump/releases/tag/v0.1.0).
+- Maintaining active projects: [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [android-xml-jump](https://github.com/itgoyo/android-xml-jump), [Clash-Rules](https://github.com/itgoyo/Clash-Rules).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-06-29 (UTC).
+- Updated automatically on 2026-06-30 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
