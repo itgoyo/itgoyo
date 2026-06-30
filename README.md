@@ -201,8 +201,8 @@ XML                1 hr 19 mins          █▓░░░░░░░░░░░
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/AZeC4/tg-transformer/pull/3) in [AZeC4/tg-transformer](https://github.com/AZeC4/tg-transformer)
-2. 💪 Opened PR [#2](https://github.com/AZeC4/tg-transformer/pull/2) in [AZeC4/tg-transformer](https://github.com/AZeC4/tg-transformer)
+1. 🚀 Published release [Android XML Jump v0.1.0](https://github.com/itgoyo/android-xml-jump/releases/tag/v0.1.0) in [itgoyo/android-xml-jump](https://github.com/itgoyo/android-xml-jump)
+2. 💪 Opened PR [#3](https://github.com/AZeC4/tg-transformer/pull/3) in [AZeC4/tg-transformer](https://github.com/AZeC4/tg-transformer)
 <!--END_SECTION:activity-->
 
 ## ✨ My Followers
