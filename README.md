@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping updates, latest: [android-xml-jump · Android XML Jump v0.1.0](https://github.com/itgoyo/android-xml-jump/releases/tag/v0.1.0).
-- Maintaining active projects: [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [android-xml-jump](https://github.com/itgoyo/android-xml-jump), [Clash-Rules](https://github.com/itgoyo/Clash-Rules).
+- Maintaining active projects: [android-xml-jump](https://github.com/itgoyo/android-xml-jump), [TelegramBot](https://github.com/itgoyo/TelegramBot), [TelegramGroup](https://github.com/itgoyo/TelegramGroup).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-06-30 (UTC).
+- Updated automatically on 2026-07-01 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
