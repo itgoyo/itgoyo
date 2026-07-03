@@ -221,18 +221,18 @@ Python            37 mins               █░░░░░░░░░░░░�
       <a href="https://github.com/lowlighter">Simon Lecoq</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fbiego">
-        <img src="https://avatars2.githubusercontent.com/u/45796740" width="100px;" alt="fbiego"/>
-      </a>
-      <br />
-      <a href="https://github.com/fbiego">Felix Biego</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/NaiboWang">
         <img src="https://avatars2.githubusercontent.com/u/30287768" width="100px;" alt="NaiboWang"/>
       </a>
       <br />
       <a href="https://github.com/NaiboWang">Naibo Wang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fbiego">
+        <img src="https://avatars2.githubusercontent.com/u/45796740" width="100px;" alt="fbiego"/>
+      </a>
+      <br />
+      <a href="https://github.com/fbiego">Felix Biego</a>
     </td>
     <td align="center">
       <a href="https://github.com/lichengtao1989">
