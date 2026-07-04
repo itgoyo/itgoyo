@@ -9,10 +9,10 @@
 ## 🚀 Now Building
 
 <!--START_SECTION:now-building-->
-- Shipping updates, latest: [android-xml-jump · Android XML Jump v0.1.0](https://github.com/itgoyo/android-xml-jump/releases/tag/v0.1.0).
+- Shipping steady updates across open-source projects.
 - Maintaining active projects: [JTZF](https://github.com/itgoyo/JTZF), [awesome-crypto](https://github.com/itgoyo/awesome-crypto), [android-xml-jump](https://github.com/itgoyo/android-xml-jump).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-07-03 (UTC).
+- Updated automatically on 2026-07-04 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
