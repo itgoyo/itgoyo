@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [awesome-gpt-image2](https://github.com/itgoyo/awesome-gpt-image2), [awesome-gpt-image2-prompt](https://github.com/itgoyo/awesome-gpt-image2-prompt), [JTZF](https://github.com/itgoyo/JTZF).
+- Maintaining active projects: [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [image-to-ascii](https://github.com/itgoyo/image-to-ascii), [awesome-gpt-image2](https://github.com/itgoyo/awesome-gpt-image2).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-07-05 (UTC).
+- Updated automatically on 2026-07-06 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
