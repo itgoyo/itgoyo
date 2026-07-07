@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [image-to-ascii](https://github.com/itgoyo/image-to-ascii), [awesome-gpt-image2](https://github.com/itgoyo/awesome-gpt-image2).
+- Maintaining active projects: [ServerStatus](https://github.com/itgoyo/ServerStatus), [itgoyo.github.io](https://github.com/itgoyo/itgoyo.github.io), [TelegramGroup](https://github.com/itgoyo/TelegramGroup).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-07-06 (UTC).
+- Updated automatically on 2026-07-07 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
