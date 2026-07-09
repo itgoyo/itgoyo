@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [awesome-ai-nav](https://github.com/itgoyo/awesome-ai-nav), [itgoyo.github.io](https://github.com/itgoyo/itgoyo.github.io).
+- Maintaining active projects: [firecrawl-tgcng](https://github.com/itgoyo/firecrawl-tgcng), [telegram-stitch](https://github.com/itgoyo/telegram-stitch), [TelegramBot](https://github.com/itgoyo/TelegramBot).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-07-08 (UTC).
+- Updated automatically on 2026-07-09 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
