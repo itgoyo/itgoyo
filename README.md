@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [firecrawl-tgcng](https://github.com/itgoyo/firecrawl-tgcng), [telegram-stitch](https://github.com/itgoyo/telegram-stitch), [TelegramBot](https://github.com/itgoyo/TelegramBot).
+- Maintaining active projects: [scrapling-tgcng](https://github.com/itgoyo/scrapling-tgcng), [firecrawl-tgcng](https://github.com/itgoyo/firecrawl-tgcng), [telegram-stitch](https://github.com/itgoyo/telegram-stitch).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-07-09 (UTC).
+- Updated automatically on 2026-07-10 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
