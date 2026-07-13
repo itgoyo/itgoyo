@@ -201,8 +201,8 @@ Text          1 hr 18 mins          ██░░░░░░░░░░░░�
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Android XML Jump v0.1.0](https://github.com/itgoyo/android-xml-jump/releases/tag/v0.1.0) in [itgoyo/android-xml-jump](https://github.com/itgoyo/android-xml-jump)
-2. 💪 Opened PR [#3](https://github.com/AZeC4/tg-transformer/pull/3) in [AZeC4/tg-transformer](https://github.com/AZeC4/tg-transformer)
+1. ❗ Opened issue [#136](https://github.com/itgoyo/AndroidSummary/issues/136) in [itgoyo/AndroidSummary](https://github.com/itgoyo/AndroidSummary)
+2. 🚀 Published release [Android XML Jump v0.1.0](https://github.com/itgoyo/android-xml-jump/releases/tag/v0.1.0) in [itgoyo/android-xml-jump](https://github.com/itgoyo/android-xml-jump)
 <!--END_SECTION:activity-->
 
 ## ✨ My Followers
