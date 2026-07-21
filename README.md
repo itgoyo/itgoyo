@@ -144,8 +144,32 @@
 </tr>
 </table>
 
-<b>🎬 看过</b> 暂无更新
+<b>🎬 看过</b>
 
+<table>
+<tr>
+  <td align="center" valign="top" width="25%">
+<a href="https://movie.douban.com/subject/36778966/"><img src="img/douban/8fc029470fec.jpg" width="120" height="160" alt="都是她的错"/></a>
+<br/>
+<a href="https://movie.douban.com/subject/36778966/">都是她的错</a>
+  </td>
+  <td align="center" valign="top" width="25%">
+<a href="https://movie.douban.com/subject/35436582/"><img src="img/douban/4ef3f4e122ce.jpg" width="120" height="160" alt="爱，死亡和机器人 第三季"/></a>
+<br/>
+<a href="https://movie.douban.com/subject/35436582/">爱，死亡和机器人 第三季</a>
+  </td>
+  <td align="center" valign="top" width="25%">
+<a href="https://movie.douban.com/subject/34949767/"><img src="img/douban/d9bdb5a7cfe6.jpg" width="120" height="160" alt="叛逆者"/></a>
+<br/>
+<a href="https://movie.douban.com/subject/34949767/">叛逆者</a>
+  </td>
+  <td align="center" valign="top" width="25%">
+<a href="https://movie.douban.com/subject/35182499/"><img src="img/douban/943194c1ec29.jpg" width="120" height="160" alt="重启之极海听雷 第二季"/></a>
+<br/>
+<a href="https://movie.douban.com/subject/35182499/">重启之极海听雷 第二季</a>
+  </td>
+</tr>
+</table>
 
 <b>🎮 想玩</b>
 
