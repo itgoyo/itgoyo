@@ -221,18 +221,18 @@ Markdown      47 mins               ██░░░░░░░░░░░░�
       <a href="https://github.com/lowlighter">Simon Lecoq</a>
     </td>
     <td align="center">
-      <a href="https://github.com/NaiboWang">
-        <img src="https://avatars2.githubusercontent.com/u/30287768" width="100px;" alt="NaiboWang"/>
-      </a>
-      <br />
-      <a href="https://github.com/NaiboWang">Naibo Wang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/fbiego">
         <img src="https://avatars2.githubusercontent.com/u/45796740" width="100px;" alt="fbiego"/>
       </a>
       <br />
       <a href="https://github.com/fbiego">Felix Biego</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NaiboWang">
+        <img src="https://avatars2.githubusercontent.com/u/30287768" width="100px;" alt="NaiboWang"/>
+      </a>
+      <br />
+      <a href="https://github.com/NaiboWang">Naibo Wang</a>
     </td>
     <td align="center">
       <a href="https://github.com/lichengtao1989">
@@ -300,18 +300,18 @@ Markdown      47 mins               ██░░░░░░░░░░░░�
       <a href="https://github.com/zhuwenxing">zhuwenxing</a>
     </td>
     <td align="center">
+      <a href="https://github.com/jhonataT">
+        <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
+      </a>
+      <br />
+      <a href="https://github.com/jhonataT">Jhonata Tenório</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Batool110313">
         <img src="https://avatars2.githubusercontent.com/u/295828645" width="100px;" alt="Batool110313"/>
       </a>
       <br />
       <a href="https://github.com/Batool110313">Batool110313</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DevenLu">
-        <img src="https://avatars2.githubusercontent.com/u/1639720" width="100px;" alt="DevenLu"/>
-      </a>
-      <br />
-      <a href="https://github.com/DevenLu">DevenLu</a>
     </td>
   </tr>
 </table>
