@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [telegram-money-making](https://github.com/itgoyo/telegram-money-making), [TelegramBot](https://github.com/itgoyo/TelegramBot), [TelegramGroup](https://github.com/itgoyo/TelegramGroup).
+- Maintaining active projects: [itgoyo.github.io](https://github.com/itgoyo/itgoyo.github.io), [TelegramBot](https://github.com/itgoyo/TelegramBot), [TelegramGroup](https://github.com/itgoyo/TelegramGroup).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-08-11 (UTC).
+- Updated automatically on 2026-08-12 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
