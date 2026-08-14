@@ -9,10 +9,10 @@
 ## 🚀 Now Building
 
 <!--START_SECTION:now-building-->
-- Shipping steady updates across open-source projects.
-- Maintaining active projects: [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [itgoyo.github.io](https://github.com/itgoyo/itgoyo.github.io), [TelegramBot](https://github.com/itgoyo/TelegramBot).
+- Shipping updates, latest: [xShot · xShot 1.0.1](https://github.com/itgoyo/xShot/releases/tag/v1.0.1).
+- Maintaining active projects: [xShot](https://github.com/itgoyo/xShot), [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [itgoyo.github.io](https://github.com/itgoyo/itgoyo.github.io).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-08-13 (UTC).
+- Updated automatically on 2026-08-14 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
