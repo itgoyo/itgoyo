@@ -55,8 +55,8 @@
 <p align="center">
   <a href="https://space.bilibili.com/12767066">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://231590.xyz/api/bilibili.svg?theme=dark">
-      <img alt="哔哩哔哩最新视频" src="https://231590.xyz/api/bilibili.svg?theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.231590.xyz/api/bilibili.svg?theme=dark">
+      <img alt="哔哩哔哩最新视频" src="https://github.231590.xyz/api/bilibili.svg?theme=light">
     </picture>
   </a>
 </p>
@@ -68,8 +68,8 @@
 <p align="center">
   <a href="https://www.youtube.com/@goudan-tech">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://231590.xyz/api/youtube.svg?theme=dark">
-      <img alt="YouTube 最新视频" src="https://231590.xyz/api/youtube.svg?theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.231590.xyz/api/youtube.svg?theme=dark">
+      <img alt="YouTube 最新视频" src="https://github.231590.xyz/api/youtube.svg?theme=light">
     </picture>
   </a>
 </p>
@@ -81,8 +81,8 @@
 <p align="center">
   <a href="https://www.douban.com/people/itgoyo/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://231590.xyz/api/douban.svg?theme=dark">
-      <img alt="豆瓣" src="https://231590.xyz/api/douban.svg?theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.231590.xyz/api/douban.svg?theme=dark">
+      <img alt="豆瓣" src="https://github.231590.xyz/api/douban.svg?theme=light">
     </picture>
   </a>
 </p>
