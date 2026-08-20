@@ -223,6 +223,8 @@ def ms_to_duration(ms: int) -> str:
 
 
 _SPOTIFY_TOKEN = {"value": None, "exp": 0}
+_http = requests.Session()
+_http.headers.update({"User-Agent": "itgoyo-github-stats"})
 
 
 def parse_track(item: dict, is_current: bool = False, progress_ms: int | None = None, is_playing: bool = False) -> dict | None:
@@ -249,11 +251,11 @@ def spotify_token() -> str | None:
     now = time.time()
     if _SPOTIFY_TOKEN["value"] and now < _SPOTIFY_TOKEN["exp"] - 60:
         return _SPOTIFY_TOKEN["value"]
-    resp = requests.post(
+    resp = _http.post(
         "https://accounts.spotify.com/api/token",
         data={"grant_type": "refresh_token", "refresh_token": SPOTIFY_REFRESH_TOKEN},
         auth=(SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET),
-        timeout=20,
+        timeout=8,
     )
     resp.raise_for_status()
     data = resp.json()
@@ -263,53 +265,70 @@ def spotify_token() -> str | None:
     return token
 
 
-def fetch_spotify_tracks() -> list[dict]:
+def fetch_currently_playing() -> dict | None:
+    token = spotify_token()
+    if not token:
+        return None
+    resp = _http.get(
+        "https://api.spotify.com/v1/me/player/currently-playing",
+        headers={"Authorization": f"Bearer {token}"},
+        timeout=4,
+    )
+    if resp.status_code != 200 or not resp.content:
+        return None
+    payload = resp.json()
+    if not payload.get("item"):
+        return None
+    return parse_track(
+        payload,
+        True,
+        payload.get("progress_ms"),
+        payload.get("is_playing", False),
+    )
+
+
+def fetch_recently_played() -> list[dict]:
     token = spotify_token()
     if not token:
         return []
-    headers = {"Authorization": f"Bearer {token}"}
+    resp = _http.get(
+        "https://api.spotify.com/v1/me/player/recently-played",
+        headers={"Authorization": f"Bearer {token}"},
+        params={"limit": TRACK_LIMIT},
+        timeout=8,
+    )
+    resp.raise_for_status()
+    rows = [parse_track(row, False) for row in (resp.json().get("items") or [])]
+    return [row for row in rows if row]
+
+
+def merge_spotify_tracks(current: dict | None, previous: list[dict]) -> list[dict]:
+    history = []
+    current_id = current["id"] if current else None
+    for row in previous:
+        item = dict(row)
+        if current_id and item.get("id") == current_id:
+            continue
+        item["current"] = False
+        item["is_playing"] = False
+        history.append(item)
+    if current:
+        return history[-(TRACK_LIMIT - 1) :] + [current]
+    return history[-TRACK_LIMIT:]
+
+
+def fetch_spotify_tracks() -> list[dict]:
     current = None
     try:
-        now = requests.get(
-            "https://api.spotify.com/v1/me/player/currently-playing",
-            headers=headers,
-            timeout=20,
-        )
-        if now.status_code == 200 and now.content:
-            payload = now.json()
-            if payload.get("item"):
-                current = parse_track(
-                    payload,
-                    True,
-                    payload.get("progress_ms"),
-                    payload.get("is_playing", False),
-                )
+        current = fetch_currently_playing()
     except Exception:
         current = None
-
-    recent_raw = []
+    recent = []
     try:
-        recent = requests.get(
-            "https://api.spotify.com/v1/me/player/recently-played",
-            headers=headers,
-            params={"limit": TRACK_LIMIT},
-            timeout=20,
-        )
-        recent.raise_for_status()
-        recent_raw = [
-            parse_track(row, False)
-            for row in (recent.json().get("items") or [])
-        ]
-        recent_raw = [row for row in recent_raw if row]
+        recent = list(reversed(fetch_recently_played()))
     except Exception:
-        recent_raw = []
-
-    current_id = current["id"] if current else None
-    history = [row for row in recent_raw if row["id"] != current_id]
-    if current:
-        older = list(reversed(history[: TRACK_LIMIT - 1]))
-        return older + [current]
-    return list(reversed(history[:TRACK_LIMIT]))
+        recent = []
+    return merge_spotify_tracks(current, recent)
 
 
 def truncate(text: str, width: int) -> str:

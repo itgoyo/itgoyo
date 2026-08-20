@@ -10,6 +10,10 @@ Paths:
     /api/profile.svg
     /api/videos.svg
     /api/douban.svg
+
+Nginx for profile.svg should forward Cache-Control and must not cache:
+    proxy_hide_header Cache-Control;
+    add_header Cache-Control "no-cache, no-store, max-age=0, must-revalidate" always;
 """
 from __future__ import annotations
 
@@ -34,9 +38,17 @@ from mediaCards import (  # noqa: E402
     render_videos,
     theme_name,
 )
-from updateGithubStats import collect_github, fetch_spotify_tracks, render_card  # noqa: E402
+from updateGithubStats import (  # noqa: E402
+    collect_github,
+    fetch_currently_playing,
+    fetch_recently_played,
+    merge_spotify_tracks,
+    render_card,
+)
 
-SPOTIFY_INTERVAL = 10
+SPOTIFY_INTERVAL = 5
+SPOTIFY_NOW_TTL = 2
+SPOTIFY_RECENT_INTERVAL = 30
 GITHUB_INTERVAL = 1800
 MEDIA_INTERVAL = 1800
 PORT = int(os.environ.get("PORT", "8080"))
@@ -47,6 +59,7 @@ _state = {
     "tracks": [],
     "fetched_at": 0.0,
     "github_at": 0.0,
+    "recent_at": 0.0,
     "bilibili": [],
     "youtube": [],
     "douban": {"books": [], "movies": [], "games": []},
@@ -69,13 +82,24 @@ def _refresh_github_spotify() -> None:
             except Exception:
                 pass
         try:
-            tracks = fetch_spotify_tracks()
+            current = fetch_currently_playing()
+            now = time.time()
+            with _lock:
+                prev = list(_state["tracks"])
+                recent_at = _state["recent_at"]
+            if now - recent_at > SPOTIFY_RECENT_INTERVAL or not prev:
+                recent = list(reversed(fetch_recently_played()))
+                recent_at = now
+            else:
+                recent = prev
+            tracks = merge_spotify_tracks(current, recent)
         except Exception:
             time.sleep(SPOTIFY_INTERVAL)
             continue
         with _lock:
             _state["tracks"] = tracks
             _state["fetched_at"] = time.time()
+            _state["recent_at"] = recent_at
         time.sleep(SPOTIFY_INTERVAL)
 
 
@@ -110,17 +134,47 @@ threading.Thread(target=_refresh_github_spotify, daemon=True).start()
 threading.Thread(target=_refresh_media, daemon=True).start()
 
 
-def _svg_headers() -> dict[str, str]:
+def _svg_headers(*, live: bool = False) -> dict[str, str]:
+    cache = (
+        "no-cache, no-store, max-age=0, must-revalidate, s-maxage=0"
+        if live
+        else "public, max-age=0, s-maxage=60, must-revalidate"
+    )
     return {
-        "Cache-Control": "public, max-age=0, s-maxage=10, must-revalidate",
+        "Cache-Control": cache,
         "Pragma": "no-cache",
         "Expires": "0",
         "Access-Control-Allow-Origin": "*",
     }
 
 
-def _svg(body: str) -> Response:
-    return Response(content=body, media_type="image/svg+xml; charset=utf-8", headers=_svg_headers())
+def _svg(body: str, *, live: bool = False) -> Response:
+    return Response(
+        content=body,
+        media_type="image/svg+xml; charset=utf-8",
+        headers=_svg_headers(live=live),
+    )
+
+
+def _live_spotify() -> tuple[list[dict], float | None]:
+    now = time.time()
+    with _lock:
+        tracks = list(_state["tracks"])
+        fetched_at = _state["fetched_at"]
+    if fetched_at and now - fetched_at <= SPOTIFY_NOW_TTL:
+        return tracks, fetched_at
+    try:
+        current = fetch_currently_playing()
+        with _lock:
+            prev = list(_state["tracks"])
+        tracks = merge_spotify_tracks(current, prev)
+        fetched_at = time.time()
+        with _lock:
+            _state["tracks"] = tracks
+            _state["fetched_at"] = fetched_at
+        return tracks, fetched_at
+    except Exception:
+        return tracks, fetched_at or None
 
 
 @app.get("/health")
@@ -135,23 +189,13 @@ def profile_svg(theme: str = Query("dark")):
     theme = theme_name(theme)
     with _lock:
         github = _state["github"]
-        tracks = list(_state["tracks"])
-        fetched_at = _state["fetched_at"]
     if github is None:
         github = collect_github()
         with _lock:
             _state["github"] = github
             _state["github_at"] = time.time()
-    if fetched_at <= 0:
-        try:
-            tracks = fetch_spotify_tracks()
-            fetched_at = time.time()
-            with _lock:
-                _state["tracks"] = tracks
-                _state["fetched_at"] = fetched_at
-        except Exception:
-            fetched_at = None
-    return _svg(render_card(theme, github, tracks, fetched_at))
+    tracks, fetched_at = _live_spotify()
+    return _svg(render_card(theme, github, tracks, fetched_at), live=True)
 
 
 def _videos_payload() -> tuple[list[dict], list[dict]]:
