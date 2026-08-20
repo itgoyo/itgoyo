@@ -302,26 +302,12 @@ def main() -> None:
 
     from mediaCards import readme_picture
 
-    readme_path = sys.argv[1]
     update_readme_section(
-        readme_path,
-        "bilibili-videos",
-        readme_picture(
-            "bilibili.svg",
-            f"https://space.bilibili.com/{BILIBILI_UID}",
-            "哔哩哔哩最新视频",
-        ),
+        sys.argv[1],
+        "latest-videos",
+        readme_picture("videos.svg", "", "最新视频"),
     )
-    update_readme_section(
-        readme_path,
-        "youtube-videos",
-        readme_picture(
-            "youtube.svg",
-            f"https://www.youtube.com/{YOUTUBE_HANDLE}",
-            "YouTube 最新视频",
-        ),
-    )
-    print("[videos] README now points at /api/bilibili.svg and /api/youtube.svg")
+    print("[videos] README now points at /api/videos.svg")
 
 
 if __name__ == "__main__":

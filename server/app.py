@@ -8,8 +8,7 @@ Run:
 
 Paths:
     /api/profile.svg
-    /api/bilibili.svg
-    /api/youtube.svg
+    /api/videos.svg
     /api/douban.svg
 """
 from __future__ import annotations
@@ -31,9 +30,8 @@ from mediaCards import (  # noqa: E402
     collect_bilibili,
     collect_douban,
     collect_youtube,
-    render_bilibili,
     render_douban,
-    render_youtube,
+    render_videos,
     theme_name,
 )
 from updateGithubStats import collect_github, fetch_spotify_tracks, render_card  # noqa: E402
@@ -156,34 +154,43 @@ def profile_svg(theme: str = Query("dark")):
     return _svg(render_card(theme, github, tracks, fetched_at))
 
 
-@app.get("/api/bilibili.svg")
-def bilibili_svg(theme: str = Query("dark")):
+def _videos_payload() -> tuple[list[dict], list[dict]]:
     with _lock:
-        items = list(_state["bilibili"])
-    if not items:
+        bili = list(_state["bilibili"])
+        youtube = list(_state["youtube"])
+    if not bili:
         try:
-            items = collect_bilibili()
+            bili = collect_bilibili()
             with _lock:
-                _state["bilibili"] = items
+                _state["bilibili"] = bili
                 _state["media_at"] = time.time()
         except Exception:
-            items = []
-    return _svg(render_bilibili(theme, items))
+            bili = []
+    if not youtube:
+        try:
+            youtube = collect_youtube()
+            with _lock:
+                _state["youtube"] = youtube
+                _state["media_at"] = time.time()
+        except Exception:
+            youtube = []
+    return bili, youtube
+
+
+@app.get("/api/videos.svg")
+def videos_svg(theme: str = Query("dark")):
+    bili, youtube = _videos_payload()
+    return _svg(render_videos(theme, bili, youtube))
+
+
+@app.get("/api/bilibili.svg")
+def bilibili_svg(theme: str = Query("dark")):
+    return videos_svg(theme)
 
 
 @app.get("/api/youtube.svg")
 def youtube_svg(theme: str = Query("dark")):
-    with _lock:
-        items = list(_state["youtube"])
-    if not items:
-        try:
-            items = collect_youtube()
-            with _lock:
-                _state["youtube"] = items
-                _state["media_at"] = time.time()
-        except Exception:
-            items = []
-    return _svg(render_youtube(theme, items))
+    return videos_svg(theme)
 
 
 @app.get("/api/douban.svg")
