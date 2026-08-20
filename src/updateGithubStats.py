@@ -331,6 +331,38 @@ def fetch_spotify_tracks() -> list[dict]:
     return merge_spotify_tracks(current, recent)
 
 
+def equalizer_svg(x: int, baseline: int, color: str) -> str:
+    bottom = baseline - 1
+    bars = []
+    for i, dur in enumerate(("0.38s", "0.52s", "0.34s", "0.46s")):
+        bx = x + i * 5
+        bars.append(
+            f'<rect x="{bx}" y="{bottom - 10}" width="3" height="10" rx="1" fill="{color}">'
+            f'<animate attributeName="height" values="3;10;5;10;3" dur="{dur}" repeatCount="indefinite"/>'
+            f'<animate attributeName="y" values="{bottom - 3};{bottom - 10};{bottom - 5};{bottom - 10};{bottom - 3}" dur="{dur}" repeatCount="indefinite"/>'
+            f"</rect>"
+        )
+    return "".join(bars)
+
+
+def progress_bar_svg(theme: dict, progress: float, playing: bool, remain_s: float) -> str:
+    bar_x, bar_w, bar_y = 326, 614, 318
+    end_x = bar_x + bar_w
+    knob_x = bar_x + int(bar_w * min(1.0, max(0.0, progress)))
+    if playing and remain_s > 0.2 and knob_x < end_x:
+        dur = f"{remain_s:.3f}s"
+        anim_line = f'<animate attributeName="x2" from="{knob_x}" to="{end_x}" dur="{dur}" fill="freeze"/>'
+        anim_knob = f'<animate attributeName="cx" from="{knob_x}" to="{end_x}" dur="{dur}" fill="freeze"/>'
+    else:
+        anim_line = ""
+        anim_knob = ""
+    return (
+        f'<line x1="{bar_x}" y1="{bar_y}" x2="{end_x}" y2="{bar_y}" stroke="{theme["muted"]}" stroke-width="3" stroke-linecap="round"/>'
+        f'<line x1="{bar_x}" y1="{bar_y}" x2="{knob_x}" y2="{bar_y}" stroke="{theme["progress"]}" stroke-width="3" stroke-linecap="round">{anim_line}</line>'
+        f'<circle cx="{knob_x}" cy="{bar_y}" r="5" fill="{theme["progress"]}">{anim_knob}</circle>'
+    )
+
+
 def truncate(text: str, width: int) -> str:
     if len(text) <= width:
         return text
@@ -407,10 +439,16 @@ def build_svg(
             y = track_y0 + i * 22
             current_row = bool(track.get("current") or i == len(shown) - 1)
             color = theme["highlight"] if current_row else theme["text"]
-            prefix = "▶ " if current_row else "  "
-            label = truncate(prefix + track["label"], 50)
+            if track.get("is_playing"):
+                track_lines.append(equalizer_svg(326, y, theme["highlight"]))
+                label = truncate(track["label"], 47)
+                title_x = 348
+            else:
+                prefix = "▶ " if current_row else "  "
+                label = truncate(prefix + track["label"], 50)
+                title_x = 326
             track_lines.append(
-                f'<text x="326" y="{y}" font-size="14" fill="{color}">{html.escape(label)}</text>'
+                f'<text x="{title_x}" y="{y}" font-size="14" fill="{color}">{html.escape(label)}</text>'
                 f'<text x="940" y="{y}" font-size="14" fill="{color}" text-anchor="end">{html.escape(track["duration"])}</text>'
             )
     else:
@@ -420,11 +458,14 @@ def build_svg(
 
     current = next((t for t in shown if t.get("current")), shown[-1] if shown else None)
     progress = 0.0
+    remain_s = 0.0
     if current and current.get("duration_ms"):
         raw = current.get("progress_ms")
-        progress = min(1.0, max(0.0, (raw if raw is not None else current["duration_ms"]) / current["duration_ms"]))
-    bar_x, bar_w, bar_y = 326, 614, 318
-    knob_x = bar_x + int(bar_w * progress)
+        duration_ms = current["duration_ms"]
+        progress_ms = raw if raw is not None else duration_ms
+        progress = min(1.0, max(0.0, progress_ms / duration_ms))
+        remain_s = max(0.0, (duration_ms - progress_ms) / 1000.0)
+    playing = bool(current and current.get("is_playing"))
 
     palette = []
     for i, color in enumerate(theme["palette"]):
@@ -442,9 +483,7 @@ def build_svg(
   <text x="636" y="60" text-anchor="middle" font-size="12" fill="{theme["muted"]}">--------------------------------</text>
   {''.join(info)}
   {''.join(track_lines)}
-  <line x1="{bar_x}" y1="{bar_y}" x2="{bar_x + bar_w}" y2="{bar_y}" stroke="{theme["muted"]}" stroke-width="3" stroke-linecap="round"/>
-  <line x1="{bar_x}" y1="{bar_y}" x2="{knob_x}" y2="{bar_y}" stroke="{theme["progress"]}" stroke-width="3" stroke-linecap="round"/>
-  <circle cx="{knob_x}" cy="{bar_y}" r="5" fill="{theme["progress"]}"/>
+  {progress_bar_svg(theme, progress, playing, remain_s)}
   {''.join(palette)}
   <path d="M16 372 L78 372 L90 404 L16 404 Z" fill="{theme["prompt_a"]}"/>
   <path d="M70 372 L148 372 L160 404 L82 404 Z" fill="{theme["prompt_b"]}"/>
