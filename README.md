@@ -67,7 +67,7 @@
   <a href="https://www.douban.com/people/itgoyo/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.231590.xyz/api/douban.svg?theme=dark">
-      <img alt="豆瓣" src="https://github.231590.xyz/api/douban.svg?theme=light">
+      <img alt="豆瓣" src="https://github.231590.xyz/api/douban.svg">
     </picture>
   </a>
 </p>

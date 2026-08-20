@@ -170,7 +170,7 @@ def readme_picture(path: str, href: str, alt: str) -> str:
     picture = (
         "    <picture>\n"
         f'      <source media="(prefers-color-scheme: dark)" srcset="{HOST}/api/{path}?theme=dark">\n'
-        f'      <img alt="{html.escape(alt)}" src="{HOST}/api/{path}?theme=light">\n'
+        f'      <img alt="{html.escape(alt)}" src="{HOST}/api/{path}">\n'
         "    </picture>"
     )
     if href:
