@@ -18,8 +18,8 @@
 <p align="center">
   <a href="https://open.spotify.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://231590.xyz/api/profile.svg?theme=dark">
-      <img alt="itgoyo profile card" src="https://231590.xyz/api/profile.svg?theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.231590.xyz/api/profile.svg?theme=dark">
+      <img alt="itgoyo profile card" src="https://github.231590.xyz/api/profile.svg?theme=light">
     </picture>
   </a>
 </p>
