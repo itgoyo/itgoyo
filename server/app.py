@@ -11,9 +11,7 @@ Paths:
     /api/videos.svg
     /api/douban.svg
 
-Nginx for profile.svg should forward Cache-Control and must not cache:
-    proxy_hide_header Cache-Control;
-    add_header Cache-Control "no-cache, no-store, max-age=0, must-revalidate" always;
+Nginx: do not cache /api/profile.svg; pass through Cache-Control; proxy_cache off for that location.
 """
 from __future__ import annotations
 
@@ -47,7 +45,6 @@ from updateGithubStats import (  # noqa: E402
 )
 
 SPOTIFY_INTERVAL = 5
-SPOTIFY_NOW_TTL = 2
 SPOTIFY_RECENT_INTERVAL = 30
 GITHUB_INTERVAL = 1800
 MEDIA_INTERVAL = 1800
@@ -135,17 +132,19 @@ threading.Thread(target=_refresh_media, daemon=True).start()
 
 
 def _svg_headers(*, live: bool = False) -> dict[str, str]:
-    cache = (
-        "no-cache, no-store, max-age=0, must-revalidate, s-maxage=0"
-        if live
-        else "public, max-age=0, s-maxage=60, must-revalidate"
-    )
-    return {
-        "Cache-Control": cache,
+    headers = {
+        "Cache-Control": (
+            "public, max-age=0, s-maxage=5, must-revalidate"
+            if live
+            else "public, max-age=0, s-maxage=60, must-revalidate"
+        ),
         "Pragma": "no-cache",
         "Expires": "0",
         "Access-Control-Allow-Origin": "*",
     }
+    if live:
+        headers["Refresh"] = "5"
+    return headers
 
 
 def _svg(body: str, *, live: bool = False) -> Response:
@@ -157,24 +156,19 @@ def _svg(body: str, *, live: bool = False) -> Response:
 
 
 def _live_spotify() -> tuple[list[dict], float | None]:
-    now = time.time()
     with _lock:
-        tracks = list(_state["tracks"])
-        fetched_at = _state["fetched_at"]
-    if fetched_at and now - fetched_at <= SPOTIFY_NOW_TTL:
-        return tracks, fetched_at
+        cached = list(_state["tracks"])
+        cached_at = _state["fetched_at"]
     try:
         current = fetch_currently_playing()
-        with _lock:
-            prev = list(_state["tracks"])
-        tracks = merge_spotify_tracks(current, prev)
-        fetched_at = time.time()
-        with _lock:
-            _state["tracks"] = tracks
-            _state["fetched_at"] = fetched_at
-        return tracks, fetched_at
     except Exception:
-        return tracks, fetched_at or None
+        return cached, cached_at or None
+    tracks = merge_spotify_tracks(current, cached)
+    fetched_at = time.time()
+    with _lock:
+        _state["tracks"] = tracks
+        _state["fetched_at"] = fetched_at
+    return tracks, fetched_at
 
 
 @app.get("/health")

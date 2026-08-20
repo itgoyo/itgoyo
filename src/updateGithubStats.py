@@ -379,8 +379,7 @@ def kv_line(x: int, y: int, key: str, value: str, theme: dict) -> str:
 
 
 def stamp_text(fetched_at: float | None = None) -> str:
-    when = datetime.datetime.fromtimestamp(fetched_at, TZ) if fetched_at else datetime.datetime.now(TZ)
-    return when.strftime("%Y-%m-%d  %H:%M")
+    return datetime.datetime.now(TZ).strftime("%Y-%m-%d  %H:%M:%S")
 
 
 def build_svg(
@@ -392,7 +391,7 @@ def build_svg(
     fetched_at: float | None = None,
 ) -> str:
     theme = THEMES[theme_name]
-    stamp = stamp_text(fetched_at)
+    stamp = stamp_text()
     login = profile["github"]
 
     info = [
@@ -494,6 +493,9 @@ def build_svg(
   <text x="272" y="394" font-size="16" fill="{theme["text"]}">_</text>
   <rect x="668" y="376" width="296" height="28" rx="14" fill="{theme["capsule"]}"/>
   <text x="816" y="395" text-anchor="middle" font-size="13" fill="{theme["capsule_text"]}">{stamp}</text>
+<script type="text/javascript"><![CDATA[
+setTimeout(function () {{ try {{ location.reload(); }} catch (e) {{}} }}, 5000);
+]]></script>
 </svg>
 """
 
