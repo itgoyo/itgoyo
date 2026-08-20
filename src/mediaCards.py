@@ -23,22 +23,25 @@ FONT = "ui-sans-serif, system-ui, PingFang SC, Microsoft YaHei, Noto Sans SC, sa
 
 THEMES = {
     "dark": {
-        "bg": "#2e3440",
-        "panel": "#3b4252",
-        "border": "#4c566a",
-        "text": "#eceff4",
-        "muted": "#7b88a1",
-        "placeholder": "#434c5e",
-        "item": "#434c5e",
-        "item_border": "#4c566a",
-        "star": "#ebcb8b",
-        "star_empty": "#4c566a",
+        "bg": "#0d1117",
+        "panel": "#161b22",
+        "border": "#30363d",
+        "text": "#e6edf3",
+        "muted": "#8b949e",
+        "placeholder": "#21262d",
+        "item": "#21262d",
+        "item_border": "#30363d",
+        "star": "#d29922",
+        "star_empty": "#30363d",
+        "title_from": "#58a6ff",
+        "title_to": "#a371f7",
     },
     "light": {
         "bg": "#f3efe8",
         "panel": "#fffdf8",
         "border": "#e4ddd2",
         "text": "#2c2a26",
+        "heading": "#2c2a26",
         "muted": "#8a847a",
         "placeholder": "#efe8dc",
         "item": "#f7f3ec",
@@ -241,6 +244,7 @@ def render_board(
     clip_prefix: str,
 ) -> str:
     theme = THEMES[theme_name(theme_key)]
+    dark = theme_name(theme_key) == "dark"
     cols_n = max(1, len(columns))
     outer = 18
     gap = 14
@@ -257,18 +261,28 @@ def render_board(
     height = outer + header_h + col_h + outer
     cx = CARD_W // 2
     defs: list[str] = []
+    title_fill = theme["text"]
+    if dark and theme.get("title_from"):
+        defs.append(
+            '<linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">'
+            f'<stop offset="0%" stop-color="{theme["title_from"]}"/>'
+            f'<stop offset="100%" stop-color="{theme["title_to"]}"/>'
+            "</linearGradient>"
+        )
+        title_fill = "url(#titleGrad)"
     parts = [
-        f'<text x="{cx}" y="{outer + 24}" text-anchor="middle" font-size="18" fill="{theme["text"]}">{html.escape(title)}</text>',
+        f'<text x="{cx}" y="{outer + 24}" text-anchor="middle" font-size="18" fill="{title_fill}">{html.escape(title)}</text>',
         f'<text x="{cx}" y="{outer + 46}" text-anchor="middle" font-size="12" fill="{theme["muted"]}">{html.escape(subtitle)}</text>',
     ]
     col_y = outer + header_h
     for c, (label, accent, items) in enumerate(columns):
         x = origin_x + c * (col_w + gap)
+        label_fill = accent if dark else theme["text"]
         parts.append(
             f'<rect x="{x}" y="{col_y}" width="{col_w}" height="{col_h}" rx="16" '
             f'fill="{theme["panel"]}" stroke="{accent}" stroke-width="1.6"/>'
             f'<circle cx="{x + col_pad + 5}" cy="{col_y + col_pad + 10}" r="4" fill="{accent}"/>'
-            f'<text x="{x + col_pad + 16}" y="{col_y + col_pad + 15}" font-size="14" fill="{theme["text"]}">{html.escape(label)}</text>'
+            f'<text x="{x + col_pad + 16}" y="{col_y + col_pad + 15}" font-size="14" fill="{label_fill}">{html.escape(label)}</text>'
         )
         shown = items[:max_items]
         text_w = col_w - col_pad * 2 - cover_w - 10
@@ -298,23 +312,46 @@ def render_board(
                 f"{body}"
                 f'<a href="{href}">{title_svg}{meta}</a>'
             )
+    shell = f'<rect width="{CARD_W}" height="{height}" rx="18" fill="{theme["bg"]}"'
+    if dark:
+        shell += f' stroke="{theme["border"]}" stroke-width="1"'
+    shell += "/>"
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{CARD_W}" height="{height}" viewBox="0 0 {CARD_W} {height}" font-family="{FONT}">
-  <rect width="{CARD_W}" height="{height}" rx="18" fill="{theme["bg"]}"/>
+  {shell}
   <defs>{''.join(defs)}</defs>
   {''.join(parts)}
 </svg>
 """
 
 
+def _column_accents(theme_key: str) -> dict[str, str]:
+    if theme_name(theme_key) == "light":
+        return {
+            "bili": "#00A1D6",
+            "yt": "#FF0000",
+            "read": "#5b8c5a",
+            "watch": "#c27a4a",
+            "play": "#7a6aa6",
+        }
+    return {
+        "bili": "#39c5cf",
+        "yt": "#f85149",
+        "read": "#3fb950",
+        "watch": "#d29922",
+        "play": "#a371f7",
+    }
+
+
 def render_videos(theme_key: str, bili: list[dict], youtube: list[dict]) -> str:
+    a = _column_accents(theme_key)
     return render_board(
         theme_key,
         "Latest Videos · 最新视频",
         "Bilibili | YouTube",
         [
-            ("Bilibili", "#00A1D6", bili or []),
-            ("YouTube", "#FF0000", youtube or []),
+            ("Bilibili", a["bili"], bili or []),
+            ("YouTube", a["yt"], youtube or []),
         ],
         cover_w=120,
         cover_h=68,
@@ -333,14 +370,15 @@ def render_youtube(theme_key: str, items: list[dict]) -> str:
 
 
 def render_douban(theme_key: str, board: dict[str, list[dict]]) -> str:
+    a = _column_accents(theme_key)
     return render_board(
         theme_key,
         "Douban · 我的清单",
         "阅读 | 观影 | 游戏",
         [
-            ("读过", "#5b8c5a", board.get("books") or []),
-            ("看过", "#c27a4a", board.get("movies") or []),
-            ("想玩", "#7a6aa6", board.get("games") or []),
+            ("读过", a["read"], board.get("books") or []),
+            ("看过", a["watch"], board.get("movies") or []),
+            ("想玩", a["play"], board.get("games") or []),
         ],
         cover_w=52,
         cover_h=70,
