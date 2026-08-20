@@ -57,12 +57,12 @@ def _http_get_text(url: str, timeout: int = 20) -> str:
         "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     )
     req.add_header("Cookie", "bid=readme_bot")
-    req.add_header("Referer", _referer_for(url))
+    req.add_header("Referer", referer_for(url))
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return resp.read().decode("utf-8", errors="ignore")
 
 
-def _referer_for(url: str) -> str:
+def referer_for(url: str) -> str:
     from urllib.parse import urlparse
 
     host = urlparse(url).hostname or ""
@@ -100,7 +100,7 @@ def _download_image(url: str, dest_dir: pathlib.Path) -> str:
         "User-Agent",
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
     )
-    req.add_header("Referer", _referer_for(url))
+    req.add_header("Referer", referer_for(url))
 
     try:
         with urllib.request.urlopen(req, timeout=20) as resp:
@@ -126,6 +126,15 @@ def _safe_text(value: str) -> str:
     return html.escape(html.unescape(value.strip()), quote=True)
 
 
+def fetch_douban(count: int | None = None) -> dict[str, list[dict[str, str]]]:
+    n = ITEM_COUNT if count is None else count
+    return {
+        "books": _fetch_items(BOOK_COLLECT_URL, "douban-book", _parse_book_items, n),
+        "movies": _fetch_items(MOVIE_COLLECT_URL, "douban-movie", _parse_movie_items, n),
+        "games": _fetch_items(GAME_WISH_URL, "douban-game", _parse_game_items, n),
+    }
+
+
 def _parse_book_items(page: str, count: int) -> list[dict[str, str]]:
     blocks = re.findall(r'<li class="subject-item"[\s\S]*?</li>', page)
     result: list[dict[str, str]] = []
@@ -139,7 +148,7 @@ def _parse_book_items(page: str, count: int) -> list[dict[str, str]]:
         img, url, title = m.group(1), m.group(2), m.group(3)
         result.append(
             {
-                "title": _safe_text(title),
+                "title": html.unescape(title.strip()),
                 "url": html.unescape(url),
                 "image": _normalize_image(img),
             }
@@ -167,7 +176,7 @@ def _parse_movie_items(page: str, count: int) -> list[dict[str, str]]:
             cn_title = m.group(1).split("/")[0].strip()
         result.append(
             {
-                "title": _safe_text(cn_title),
+                "title": html.unescape(cn_title.strip()),
                 "url": html.unescape(url),
                 "image": _normalize_image(img),
             }
@@ -185,7 +194,7 @@ def _parse_game_items(page: str, count: int) -> list[dict[str, str]]:
     for url, img, title in matches[:count]:
         result.append(
             {
-                "title": _safe_text(title),
+                "title": html.unescape(title.strip()),
                 "url": html.unescape(url),
                 "image": _normalize_image(img),
             }
@@ -282,32 +291,23 @@ def main() -> None:
         print("Usage: python src/updateDouban.py <readme_path>")
         sys.exit(1)
 
-    readme_path = sys.argv[1]
+    from mediaCards import readme_picture
 
-    if ITEM_COUNT <= 0:
-        print("[douban] DOUBAN_ITEM_COUNT must be > 0", file=sys.stderr)
-        sys.exit(1)
-
-    readme_dir = pathlib.Path(readme_path).resolve().parent
-    img_dir = readme_dir / IMAGE_DIR
-    img_dir.mkdir(parents=True, exist_ok=True)
-
-    book_items = _fetch_items(BOOK_COLLECT_URL, "douban-book", _parse_book_items, ITEM_COUNT)
-    movie_items = _fetch_items(MOVIE_COLLECT_URL, "douban-movie", _parse_movie_items, ITEM_COUNT)
-    game_items = _fetch_items(GAME_WISH_URL, "douban-game", _parse_game_items, ITEM_COUNT)
-
-    book_items = _localize_images(book_items, img_dir)
-    movie_items = _localize_images(movie_items, img_dir)
-    game_items = _localize_images(game_items, img_dir)
-
-    dashboard = _build_dashboard(book_items, movie_items, game_items)
     try:
-        _update_readme_section(readme_path, "douban-dashboard", dashboard)
+        _update_readme_section(
+            sys.argv[1],
+            "douban-dashboard",
+            readme_picture(
+                "douban.svg",
+                f"https://www.douban.com/people/{DOUBAN_USER_ID}/",
+                "豆瓣",
+            ),
+        )
     except Exception as exc:
         print(f"[douban] update README failed: {exc}", file=sys.stderr)
         sys.exit(1)
 
-    print("[douban] README sections updated")
+    print("[douban] README now points at /api/douban.svg")
 
 
 if __name__ == "__main__":

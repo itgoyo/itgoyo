@@ -362,11 +362,13 @@ def build_svg(theme_name: str, avatar_uri: str, profile: dict, stats: dict, trac
             }
         ]
     track_y0 = 204
+    dash = "-" * 16
     track_lines = [
         (
-            f'<text x="326" y="184" font-size="13">'
+            f'<text x="636" y="184" text-anchor="middle" font-size="13">'
+            f'<tspan fill="{theme["muted"]}">{dash}  </tspan>'
             f'<tspan fill="#1DB954">Spotify</tspan>'
-            f'<tspan fill="{theme["muted"]}">  recently played</tspan>'
+            f'<tspan fill="{theme["muted"]}"> recently played  {dash}</tspan>'
             f"</text>"
         )
     ]

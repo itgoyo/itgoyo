@@ -52,145 +52,40 @@
 ## 📺 哔哩哔哩最新视频
 
 <!--START_SECTION:bilibili-videos-->
-<table>
-<tr>
-  <td align="center" valign="top" width="25%">
-<a href="https://www.bilibili.com/video/BV1wyRyBYEzo">
-<img src="https://i2.hdslb.com/bfs/archive/adc23162238f769a20835ecb6196d1d74cd19640.jpg" width="180" alt="首款搭载MCIO双2.5G网口的性能迷你主机，畅..."/>
-</a>
-<br/>
-<a href="https://www.bilibili.com/video/BV1wyRyBYEzo">首款搭载MCIO双2.5G网口的性能迷你主机，畅...</a>
-</td>
-  <td align="center" valign="top" width="25%">
-<a href="https://www.bilibili.com/video/BV1FBQJBSEjo">
-<img src="https://i0.hdslb.com/bfs/archive/9f4bf9befbcfa506d53772269b3c7989edd9c627.jpg" width="180" alt="吊打付费软件，开源免费手机投屏神器Scrcpy！"/>
-</a>
-<br/>
-<a href="https://www.bilibili.com/video/BV1FBQJBSEjo">吊打付费软件，开源免费手机投屏神器Scrcpy！</a>
-</td>
-  <td align="center" valign="top" width="25%">
-<a href="https://www.bilibili.com/video/BV1rnDDBBEfC">
-<img src="https://i0.hdslb.com/bfs/archive/4b44bad00496594636793f42c06a993e34fd9c6f.jpg" width="180" alt="迷你主机有多强？8核心16线程可以畅玩各种3A..."/>
-</a>
-<br/>
-<a href="https://www.bilibili.com/video/BV1rnDDBBEfC">迷你主机有多强？8核心16线程可以畅玩各种3A...</a>
-</td>
-  <td align="center" valign="top" width="25%">
-<a href="https://www.bilibili.com/video/BV1dk1GB3E8k">
-<img src="https://i0.hdslb.com/bfs/archive/18267e2dc43def4628d9f5a18651e33e87dfb433.jpg" width="180" alt="没有公网ip？三分钟教会你使用frp内网穿透！"/>
-</a>
-<br/>
-<a href="https://www.bilibili.com/video/BV1dk1GB3E8k">没有公网ip？三分钟教会你使用frp内网穿透！</a>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://space.bilibili.com/12767066">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://231590.xyz/api/bilibili.svg?theme=dark">
+      <img alt="哔哩哔哩最新视频" src="https://231590.xyz/api/bilibili.svg?theme=light">
+    </picture>
+  </a>
+</p>
 <!--END_SECTION:bilibili-videos-->
 
 ## 📺 YouTube 最新视频
 
 <!--START_SECTION:youtube-videos-->
-<table>
-<tr>
-  <td align="center" valign="top" width="25%">
-<a href="https://www.youtube.com/watch?v=ahPFDEpjAtE">
-<img src="https://i.ytimg.com/vi/ahPFDEpjAtE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArsG6Fd6-K4FrHa-b1aTkjgA66Mw" width="180" alt="吊打付费软件，开源免费手机投屏神器Scrcpy！"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=ahPFDEpjAtE">吊打付费软件，开源免费手机投屏神器Scrcpy！</a>
-</td>
-  <td align="center" valign="top" width="25%">
-<a href="https://www.youtube.com/watch?v=8_iMUX5LGf8">
-<img src="https://i.ytimg.com/vi/8_iMUX5LGf8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhq2elYvz1GgAB1v81ABi4XWSE5g" width="180" alt="迷你主机有多强？8核心16线程可以畅玩各种3A..."/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=8_iMUX5LGf8">迷你主机有多强？8核心16线程可以畅玩各种3A...</a>
-</td>
-  <td align="center" valign="top" width="25%">
-<a href="https://www.youtube.com/watch?v=LO-YOGxt5mg">
-<img src="https://i.ytimg.com/vi/LO-YOGxt5mg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAY19hiHiFzb1C4eX-T3RAjMjBw-Q" width="180" alt="一切的开始，都要从我买了一张月租不到1块钱..."/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=LO-YOGxt5mg">一切的开始，都要从我买了一张月租不到1块钱...</a>
-</td>
-  <td align="center" valign="top" width="25%">
-<a href="https://www.youtube.com/watch?v=fu7CVU4IlkE">
-<img src="https://i.ytimg.com/vi/fu7CVU4IlkE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhdqr_0FhhVHLqmY5Orn1v7RoSMQ" width="180" alt="没有公网ip？三分钟教会你使用frp内网穿透！"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=fu7CVU4IlkE">没有公网ip？三分钟教会你使用frp内网穿透！</a>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://www.youtube.com/@goudan-tech">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://231590.xyz/api/youtube.svg?theme=dark">
+      <img alt="YouTube 最新视频" src="https://231590.xyz/api/youtube.svg?theme=light">
+    </picture>
+  </a>
+</p>
 <!--END_SECTION:youtube-videos-->
 
 ## 🎯 豆瓣
 
 <!--START_SECTION:douban-dashboard-->
-<b>📚 读过</b>
-
-<table>
-<tr>
-  <td align="center" valign="top" width="25%">
-<a href="https://book.douban.com/subject/26789567/"><img src="img/douban/3e7fffc8118d.jpg" width="120" height="160" alt="如何有效阅读一本书"/></a>
-<br/>
-<a href="https://book.douban.com/subject/26789567/">如何有效阅读一本书</a>
-  </td>
-  <td align="center" valign="top" width="25%">
-<a href="https://book.douban.com/subject/27599358/"><img src="img/douban/890eb6b81391.jpg" width="120" height="160" alt="思维的精进：高效人生修炼手册"/></a>
-<br/>
-<a href="https://book.douban.com/subject/27599358/">思维的精进：高效人生修炼手册</a>
-  </td>
-  <td align="center" valign="top" width="25%">
-<a href="https://book.douban.com/subject/27040433/"><img src="img/douban/27ec7207e14d.jpg" width="120" height="160" alt="极简主义"/></a>
-<br/>
-<a href="https://book.douban.com/subject/27040433/">极简主义</a>
-  </td>
-  <td align="center" valign="top" width="25%">
-<a href="https://book.douban.com/subject/24749465/"><img src="img/douban/daf35446d99a.jpg" width="120" height="160" alt="断舍离"/></a>
-<br/>
-<a href="https://book.douban.com/subject/24749465/">断舍离</a>
-  </td>
-</tr>
-</table>
-
-<b>🎬 看过</b>
-
-<table>
-<tr>
-  <td align="center" valign="top" width="25%">
-<a href="https://movie.douban.com/subject/36778966/"><img src="img/douban/8fc029470fec.jpg" width="120" height="160" alt="都是她的错"/></a>
-<br/>
-<a href="https://movie.douban.com/subject/36778966/">都是她的错</a>
-  </td>
-  <td align="center" valign="top" width="25%">
-<a href="https://movie.douban.com/subject/35436582/"><img src="img/douban/4ef3f4e122ce.jpg" width="120" height="160" alt="爱，死亡和机器人 第三季"/></a>
-<br/>
-<a href="https://movie.douban.com/subject/35436582/">爱，死亡和机器人 第三季</a>
-  </td>
-  <td align="center" valign="top" width="25%">
-<a href="https://movie.douban.com/subject/34949767/"><img src="img/douban/d9bdb5a7cfe6.jpg" width="120" height="160" alt="叛逆者"/></a>
-<br/>
-<a href="https://movie.douban.com/subject/34949767/">叛逆者</a>
-  </td>
-  <td align="center" valign="top" width="25%">
-<a href="https://movie.douban.com/subject/35182499/"><img src="img/douban/943194c1ec29.jpg" width="120" height="160" alt="重启之极海听雷 第二季"/></a>
-<br/>
-<a href="https://movie.douban.com/subject/35182499/">重启之极海听雷 第二季</a>
-  </td>
-</tr>
-</table>
-
-<b>🎮 想玩</b>
-
-<table>
-<tr>
-  <td align="center" valign="top" width="100%">
-<a href="https://www.douban.com/game/26366741/"><img src="img/douban/20c55d793229.jpg" width="120" height="160" alt="命运石之门 STEINS;GATE"/></a>
-<br/>
-<a href="https://www.douban.com/game/26366741/">命运石之门 STEINS;GATE</a>
-  </td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://www.douban.com/people/itgoyo/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://231590.xyz/api/douban.svg?theme=dark">
+      <img alt="豆瓣" src="https://231590.xyz/api/douban.svg?theme=light">
+    </picture>
+  </a>
+</p>
 <!--END_SECTION:douban-dashboard-->
 
 ## 📝 Weekly Shipping Log

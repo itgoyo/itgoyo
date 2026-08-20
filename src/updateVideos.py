@@ -46,7 +46,11 @@ BILIBILI_API_URL = (
 
 def _http_get(url: str, headers: dict | None = None, timeout: int = 12) -> bytes:
     req = urllib.request.Request(url)
-    req.add_header("User-Agent", "Mozilla/5.0 (compatible; readme-bot/1.0)")
+    req.add_header(
+        "User-Agent",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    )
     if headers:
         for k, v in headers.items():
             req.add_header(k, v)
@@ -229,15 +233,63 @@ def fetch_bilibili_videos(count: int = VIDEO_COUNT) -> list[dict]:
 
 
 def fetch_youtube_videos(count: int = VIDEO_COUNT) -> list[dict]:
-    """Use self-hosted RSSHub /youtube/user/:handle (no API key required)."""
+    """Use self-hosted RSSHub first, then the public YouTube Atom feed."""
     try:
         raw = _http_get(RSSHUB_YOUTUBE_URL)
         videos = _parse_rss_items(raw, count)
-        print(f"[youtube] fetched {len(videos)} videos via RSSHub")
+        if videos:
+            print(f"[youtube] fetched {len(videos)} videos via RSSHub")
+            return videos
+        print("[youtube] RSSHub returned 0 items, trying Atom feed …")
+    except Exception as exc:
+        print(f"[youtube] RSSHub failed ({exc}), trying Atom feed …", file=sys.stderr)
+
+    try:
+        videos = _youtube_via_atom(count)
+        print(f"[youtube] fetched {len(videos)} videos via Atom feed")
         return videos
     except Exception as exc:
         print(f"[youtube] fetch failed: {exc}", file=sys.stderr)
         return []
+
+
+def _youtube_channel_id() -> str:
+    raw = _http_get(f"https://www.youtube.com/{YOUTUBE_HANDLE}")
+    text = raw.decode("utf-8", errors="ignore")
+    m = re.search(r'"channelId":"(UC[0-9A-Za-z_-]+)"', text)
+    if m:
+        return m.group(1)
+    m = re.search(r"youtube\.com/channel/(UC[0-9A-Za-z_-]+)", text)
+    if m:
+        return m.group(1)
+    raise RuntimeError("youtube channel id not found")
+
+
+def _youtube_via_atom(count: int) -> list[dict]:
+    channel_id = _youtube_channel_id()
+    raw = _http_get(f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}")
+    root = ET.fromstring(raw.decode("utf-8", errors="ignore"))
+    ns = {
+        "atom": "http://www.w3.org/2005/Atom",
+        "media": "http://search.yahoo.com/mrss/",
+        "yt": "http://www.youtube.com/xml/schemas/2015",
+    }
+    videos = []
+    for entry in root.findall("atom:entry", ns)[:count]:
+        title = (entry.findtext("atom:title", default="", namespaces=ns) or "").strip()
+        link_el = entry.find("atom:link", ns)
+        link = link_el.attrib.get("href", "") if link_el is not None else ""
+        thumb = ""
+        mt = entry.find("media:group/media:thumbnail", ns)
+        if mt is not None:
+            thumb = mt.attrib.get("url", "")
+        if not thumb:
+            vid = entry.findtext("yt:videoId", default="", namespaces=ns)
+            if vid:
+                thumb = f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg"
+        if title and link:
+            videos.append({"title": title, "url": link, "thumb": thumb})
+    return videos
 
 
 # ─── Main ─────────────────────────────────────────────────────────────────────
@@ -248,25 +300,28 @@ def main() -> None:
         print("Usage: python src/updateVideos.py <readme_path>")
         sys.exit(1)
 
+    from mediaCards import readme_picture
+
     readme_path = sys.argv[1]
-
-    # --- Bilibili ---
-    print("[bilibili] fetching videos …")
-    bili_videos = fetch_bilibili_videos()
-    if bili_videos:
-        update_readme_section(readme_path, "bilibili-videos", build_video_table(bili_videos))
-        print(f"[bilibili] README updated")
-    else:
-        print("[bilibili] no videos fetched, section left unchanged")
-
-    # --- YouTube ---
-    print("[youtube] fetching videos …")
-    yt_videos = fetch_youtube_videos()
-    if yt_videos:
-        update_readme_section(readme_path, "youtube-videos", build_video_table(yt_videos))
-        print(f"[youtube] README updated")
-    else:
-        print("[youtube] no videos fetched, section left unchanged")
+    update_readme_section(
+        readme_path,
+        "bilibili-videos",
+        readme_picture(
+            "bilibili.svg",
+            f"https://space.bilibili.com/{BILIBILI_UID}",
+            "哔哩哔哩最新视频",
+        ),
+    )
+    update_readme_section(
+        readme_path,
+        "youtube-videos",
+        readme_picture(
+            "youtube.svg",
+            f"https://www.youtube.com/{YOUTUBE_HANDLE}",
+            "YouTube 最新视频",
+        ),
+    )
+    print("[videos] README now points at /api/bilibili.svg and /api/youtube.svg")
 
 
 if __name__ == "__main__":
