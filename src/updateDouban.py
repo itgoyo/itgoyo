@@ -135,6 +135,16 @@ def fetch_douban(count: int | None = None) -> dict[str, list[dict[str, str]]]:
     }
 
 
+def _parse_rating(block: str) -> str:
+    m = re.search(r'class="rating([1-5])-t"', block)
+    return m.group(1) if m else ""
+
+
+def _parse_year(text: str) -> str:
+    m = re.search(r"(?:19|20)\d{2}", text or "")
+    return m.group(0) if m else ""
+
+
 def _parse_book_items(page: str, count: int) -> list[dict[str, str]]:
     blocks = re.findall(r'<li class="subject-item"[\s\S]*?</li>', page)
     result: list[dict[str, str]] = []
@@ -146,11 +156,16 @@ def _parse_book_items(page: str, count: int) -> list[dict[str, str]]:
         if not m:
             continue
         img, url, title = m.group(1), m.group(2), m.group(3)
+        sub = re.search(r'<span style="font-size:12px;">\s*:?\s*([^<]+)</span>', block)
+        pub = re.search(r'<div class="pub">([\s\S]*?)</div>', block)
         result.append(
             {
                 "title": html.unescape(title.strip()),
+                "subtitle": html.unescape(sub.group(1).strip()) if sub else "",
                 "url": html.unescape(url),
                 "image": _normalize_image(img),
+                "rating": _parse_rating(block),
+                "year": _parse_year(pub.group(1) if pub else ""),
             }
         )
         if len(result) >= count:
@@ -159,44 +174,52 @@ def _parse_book_items(page: str, count: int) -> list[dict[str, str]]:
 
 
 def _parse_movie_items(page: str, count: int) -> list[dict[str, str]]:
-    """Parse movie collect page (看过的影视)."""
-    matches = re.findall(
-        r'<a\s+title="([^"]+)"\s+href="([^"]+)"\s+class="nbg">\s*'
-        r'<img[^>]+src="([^"]+)"',
-        page,
-    )
+    chunks = re.split(r'<div class="item comment-item"', page)[1:]
     result: list[dict[str, str]] = []
-    for title, url, img in matches[:count]:
-        cn_title = title
+    for chunk in chunks:
         m = re.search(
-            rf'<a href="{re.escape(html.unescape(url))}">\s*<em>([^<]+)</em>',
-            page,
+            r'<a\s+title="([^"]+)"\s+href="([^"]+)"\s+class="nbg">\s*'
+            r'<img[^>]+src="([^"]+)"',
+            chunk,
         )
-        if m:
-            cn_title = m.group(1).split("/")[0].strip()
+        if not m:
+            continue
+        title, url, img = m.group(1), m.group(2), m.group(3)
+        em = re.search(r"<em>([^<]+)</em>", chunk)
+        cn_title = em.group(1).split("/")[0].strip() if em else title
+        intro = re.search(r'<li class="intro">([^<]+)</li>', chunk)
         result.append(
             {
                 "title": html.unescape(cn_title.strip()),
+                "subtitle": "",
                 "url": html.unescape(url),
                 "image": _normalize_image(img),
+                "rating": _parse_rating(chunk),
+                "year": _parse_year(intro.group(1) if intro else ""),
             }
         )
+        if len(result) >= count:
+            break
     return result
 
 
 def _parse_game_items(page: str, count: int) -> list[dict[str, str]]:
     matches = re.findall(
         r'<a href="(https://www\.douban\.com/game/[^"]+/)"><img src="([^"]+)"'
-        r'[^>]*></a>[\s\S]*?<div class="title">\s*<a href="[^"]+">([^<]+)</a>',
+        r'[^>]*></a>[\s\S]*?<div class="title">\s*<a href="[^"]+">([^<]+)</a>'
+        r'[\s\S]*?<div class="desc">([\s\S]*?)</div>',
         page,
     )
     result: list[dict[str, str]] = []
-    for url, img, title in matches[:count]:
+    for url, img, title, desc in matches[:count]:
         result.append(
             {
                 "title": html.unescape(title.strip()),
+                "subtitle": "",
                 "url": html.unescape(url),
                 "image": _normalize_image(img),
+                "rating": "",
+                "year": _parse_year(html.unescape(desc)),
             }
         )
     return result

@@ -327,10 +327,21 @@ def kv_line(x: int, y: int, key: str, value: str, theme: dict) -> str:
     )
 
 
-def build_svg(theme_name: str, avatar_uri: str, profile: dict, stats: dict, tracks: list[dict]) -> str:
+def stamp_text(fetched_at: float | None = None) -> str:
+    when = datetime.datetime.fromtimestamp(fetched_at, TZ) if fetched_at else datetime.datetime.now(TZ)
+    return when.strftime("%Y-%m-%d  %H:%M")
+
+
+def build_svg(
+    theme_name: str,
+    avatar_uri: str,
+    profile: dict,
+    stats: dict,
+    tracks: list[dict],
+    fetched_at: float | None = None,
+) -> str:
     theme = THEMES[theme_name]
-    now = datetime.datetime.now(TZ)
-    stamp = now.strftime("%Y-%m-%d  %H:%M")
+    stamp = stamp_text(fetched_at)
     login = profile["github"]
 
     info = [
@@ -472,18 +483,20 @@ def render_card(theme: str, github: dict, tracks: list[dict], fetched_at: float 
     live = apply_live_progress(tracks, fetched_at or time.time())
     if live:
         live[-1]["current"] = True
-    return build_svg(theme, github["avatar_uri"], github["profile"], github["stats"], live)
+    return build_svg(theme, github["avatar_uri"], github["profile"], github["stats"], live, fetched_at)
 
 
 def main() -> int:
     github = collect_github()
+    fetched_at = None
     try:
         tracks = fetch_spotify_tracks()
+        fetched_at = time.time()
     except Exception:
         tracks = []
     IMG_DIR.mkdir(parents=True, exist_ok=True)
-    DARK_SVG.write_text(render_card("dark", github, tracks), encoding="utf-8")
-    LIGHT_SVG.write_text(render_card("light", github, tracks), encoding="utf-8")
+    DARK_SVG.write_text(render_card("dark", github, tracks, fetched_at), encoding="utf-8")
+    LIGHT_SVG.write_text(render_card("light", github, tracks, fetched_at), encoding="utf-8")
     print(f"Wrote {DARK_SVG.relative_to(ROOT)} and {LIGHT_SVG.relative_to(ROOT)}")
     return 0
 

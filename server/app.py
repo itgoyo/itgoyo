@@ -73,8 +73,8 @@ def _refresh_github_spotify() -> None:
         try:
             tracks = fetch_spotify_tracks()
         except Exception:
-            with _lock:
-                tracks = list(_state["tracks"])
+            time.sleep(SPOTIFY_INTERVAL)
+            continue
         with _lock:
             _state["tracks"] = tracks
             _state["fetched_at"] = time.time()
@@ -147,13 +147,13 @@ def profile_svg(theme: str = Query("dark")):
     if fetched_at <= 0:
         try:
             tracks = fetch_spotify_tracks()
+            fetched_at = time.time()
+            with _lock:
+                _state["tracks"] = tracks
+                _state["fetched_at"] = fetched_at
         except Exception:
-            tracks = []
-        fetched_at = time.time()
-        with _lock:
-            _state["tracks"] = tracks
-            _state["fetched_at"] = fetched_at
-    return _svg(render_card(theme, github, tracks, fetched_at or time.time()))
+            fetched_at = None
+    return _svg(render_card(theme, github, tracks, fetched_at))
 
 
 @app.get("/api/bilibili.svg")

@@ -33,6 +33,9 @@ THEMES = {
         "text": "#eceff4",
         "muted": "#7b88a1",
         "placeholder": "#434c5e",
+        "item": "#434c5e",
+        "star": "#ebcb8b",
+        "star_empty": "#4c566a",
     },
     "light": {
         "bg": "#eceff4",
@@ -41,6 +44,9 @@ THEMES = {
         "text": "#2e3440",
         "muted": "#4c566a",
         "placeholder": "#d8dee9",
+        "item": "#d8dee9",
+        "star": "#d08770",
+        "star_empty": "#aeb6c4",
     },
 }
 
@@ -136,8 +142,11 @@ def _hydrate(items: list[dict], width: int, height: int, referer: str = "") -> l
         out.append(
             {
                 "title": item.get("title") or "",
+                "subtitle": item.get("subtitle") or "",
                 "url": item.get("url") or "#",
                 "image_uri": image_data_uri(src, width, height, ref),
+                "rating": int(item.get("rating") or 0),
+                "year": item.get("year") or "",
             }
         )
     return out
@@ -154,7 +163,7 @@ def collect_youtube() -> list[dict]:
 
 
 def collect_douban() -> dict[str, list[dict]]:
-    cover_w, cover_h = 256, 342
+    cover_w, cover_h = 104, 140
     data = fetch_douban()
     return {
         "books": _hydrate(data["books"], cover_w, cover_h),
@@ -187,7 +196,7 @@ def _header(cx: int, y: int, label: str, accent: str, muted: str) -> str:
     )
 
 
-def _title_block(cx: int, y: int, title: str, max_px: float, fill: str) -> str:
+def _title_block(cx: int, y: int, title: str, max_px: float, fill: str, anchor: str = "middle") -> str:
     lines = wrap_title(title, max_px)
     parts = []
     for i, line in enumerate(lines):
@@ -196,7 +205,7 @@ def _title_block(cx: int, y: int, title: str, max_px: float, fill: str) -> str:
             f'<tspan x="{cx}" dy="{dy}">{html.escape(line)}</tspan>'
         )
     return (
-        f'<text x="{cx}" y="{y}" text-anchor="middle" font-size="{TITLE_SIZE}" fill="{fill}">'
+        f'<text x="{cx}" y="{y}" text-anchor="{anchor}" font-size="{TITLE_SIZE}" fill="{fill}">'
         f"{''.join(parts)}</text>"
     )
 
@@ -265,47 +274,88 @@ def render_youtube(theme_key: str, items: list[dict]) -> str:
     return render_video_svg(theme_key, "YouTube", "#FF0000", items)
 
 
+def _stars(x: int, y: int, rating: int, theme: dict) -> str:
+    n = max(0, min(5, int(rating or 0)))
+    if n <= 0:
+        return ""
+    return (
+        f'<text x="{x}" y="{y}" font-size="11">'
+        f'<tspan fill="{theme["star"]}">{"★" * n}</tspan>'
+        f'<tspan fill="{theme["star_empty"]}">{"★" * (5 - n)}</tspan>'
+        f"</text>"
+    )
+
+
 def render_douban(theme_key: str, board: dict[str, list[dict]]) -> str:
     theme = THEMES[theme_name(theme_key)]
-    col_w = col_width()
-    cover_w, cover_h = 128, 170
-    label_h = 22
-    title_h = TITLE_LH * TITLE_LINES + 4
-    row_gap = 14
-    rows = [
-        ("读过", "#88c0d0", board.get("books") or []),
-        ("看过", "#d08770", board.get("movies") or []),
-        ("想玩", "#a3be8c", board.get("games") or []),
-    ]
-    row_h = label_h + 8 + cover_h + 8 + title_h
-    height = PAD_Y + HEADER_H + len(rows) * row_h + (len(rows) - 1) * row_gap + PAD_Y
+    cols_n = 3
+    outer = 18
+    gap = 14
+    inner_w = CARD_W - outer * 2
+    col_w = (inner_w - gap * (cols_n - 1)) // cols_n
+    used = col_w * cols_n + gap * (cols_n - 1)
+    origin_x = outer + (inner_w - used) // 2
+
+    cover_w, cover_h = 52, 70
+    item_h = 88
+    item_gap = 8
+    col_pad = 14
+    col_header = 34
+    max_items = 4
+    col_h = col_pad + col_header + max_items * item_h + (max_items - 1) * item_gap + col_pad
+    header_h = 62
+    height = outer + header_h + col_h + outer
     cx = CARD_W // 2
+    columns = [
+        ("读过", "#a3be8c", board.get("books") or []),
+        ("看过", "#d08770", board.get("movies") or []),
+        ("想玩", "#b48ead", board.get("games") or []),
+    ]
+
     defs: list[str] = []
-    parts = [_header(cx, PAD_Y + 22, "Douban", "#2e963d", theme["muted"])]
-    y = PAD_Y + HEADER_H
-    for r, (label, accent, items) in enumerate(rows):
+    parts = [
+        f'<text x="{cx}" y="{outer + 24}" text-anchor="middle" font-size="18" fill="{theme["text"]}">Douban · 我的清单</text>',
+        f'<text x="{cx}" y="{outer + 46}" text-anchor="middle" font-size="12" fill="{theme["muted"]}">阅读 | 观影 | 游戏</text>',
+    ]
+    col_y = outer + header_h
+    for c, (label, accent, items) in enumerate(columns):
+        x = origin_x + c * (col_w + gap)
         parts.append(
-            f'<text x="{PAD_X}" y="{y + 16}" font-size="13" fill="{accent}">{html.escape(label)}</text>'
-            f'<line x1="{PAD_X + 42}" y1="{y + 12}" x2="{CARD_W - PAD_X}" y2="{y + 12}" '
-            f'stroke="{theme["muted"]}" stroke-width="1" stroke-dasharray="4 4" stroke-linecap="round"/>'
+            f'<rect x="{x}" y="{col_y}" width="{col_w}" height="{col_h}" rx="16" '
+            f'fill="{theme["panel"]}" stroke="{accent}" stroke-width="1.6"/>'
+            f'<circle cx="{x + col_pad + 5}" cy="{col_y + col_pad + 10}" r="4" fill="{accent}"/>'
+            f'<text x="{x + col_pad + 16}" y="{col_y + col_pad + 15}" font-size="14" fill="{theme["text"]}">{html.escape(label)}</text>'
         )
-        cover_y = y + label_h + 8
-        shown = items[:COLS]
+        shown = items[:max_items]
+        text_w = col_w - col_pad * 2 - cover_w - 10
         for i, item in enumerate(shown):
-            x = PAD_X + i * (col_w + COL_GAP) + (col_w - cover_w) // 2
-            clip, body = _thumb(x, cover_y, cover_w, cover_h, item, f"d{r}{i}", theme)
+            iy = col_y + col_pad + col_header + i * (item_h + item_gap)
+            ix = x + col_pad
+            clip, body = _thumb(ix, iy, cover_w, cover_h, item, f"d{c}{i}", theme)
             defs.append(clip)
-            parts.append(body)
+            href = html.escape(item.get("url") or "#", quote=True)
+            tx = ix + cover_w + 10
+            title_svg = _title_block(tx, iy + 18, item.get("title") or "", text_w, theme["text"], "start")
+            rating = int(item.get("rating") or 0)
+            year = item.get("year") or ""
+            meta = ""
+            meta_y = iy + 52
+            if rating:
+                meta += _stars(tx, meta_y, rating, theme)
+                meta_y += 16
+            if year:
+                meta += (
+                    f'<text x="{tx}" y="{meta_y}" font-size="11" fill="{theme["muted"]}">{html.escape(year)}</text>'
+                )
             parts.append(
-                f'<a href="{html.escape(item["url"], quote=True)}">'
-                + _title_block(x + cover_w // 2, cover_y + cover_h + 18, item["title"], cover_w + 8, theme["text"])
-                + "</a>"
+                f'<rect x="{ix - 2}" y="{iy - 4}" width="{col_w - col_pad * 2 + 4}" height="{item_h - 2}" '
+                f'rx="10" fill="{theme["item"]}"/>'
+                f'{body}'
+                f'<a href="{href}">{title_svg}{meta}</a>'
             )
-        y += row_h + row_gap
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{CARD_W}" height="{height}" viewBox="0 0 {CARD_W} {height}" font-family="{FONT}">
   <rect width="{CARD_W}" height="{height}" rx="18" fill="{theme["bg"]}"/>
-  <rect x="16" y="12" width="{CARD_W - 32}" height="{height - 24}" rx="14" fill="{theme["panel"]}" stroke="{theme["border"]}" stroke-width="2"/>
   <defs>{''.join(defs)}</defs>
   {''.join(parts)}
 </svg>
