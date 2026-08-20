@@ -16,10 +16,10 @@
 <!--END_SECTION:now-building-->
 
 <p align="center">
-  <a href="https://github.com/itgoyo">
+  <a href="https://open.spotify.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="img/github_stats_dark.svg">
-      <img alt="itgoyo's GitHub Stats" src="img/github_stats_light.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://231590.xyz/api/profile.svg?theme=dark">
+      <img alt="itgoyo profile card" src="https://231590.xyz/api/profile.svg?theme=light">
     </picture>
   </a>
 </p>

@@ -2,13 +2,6 @@ name: Update GitHub Stats SVG
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '*/30 * * * *'
-  push:
-    paths:
-      - 'src/updateGithubStats.py'
-      - 'cache/requirements.txt'
-      - '.github/workflows/githubStats.yml'
 
 jobs:
   build:

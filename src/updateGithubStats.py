@@ -14,6 +14,7 @@ import datetime
 import html
 import os
 import sys
+import time
 from collections import Counter
 from io import BytesIO
 from pathlib import Path
@@ -46,8 +47,8 @@ THEMES = {
         "label": "#d08770",
         "text": "#eceff4",
         "muted": "#7b88a1",
-        "highlight": "#8fbcbb",
-        "progress": "#d08770",
+        "highlight": "#1DB954",
+        "progress": "#1DB954",
         "prompt_a": "#4c566a",
         "prompt_b": "#81a1c1",
         "prompt_c": "#d08770",
@@ -62,8 +63,8 @@ THEMES = {
         "label": "#bf616a",
         "text": "#2e3440",
         "muted": "#4c566a",
-        "highlight": "#5e81ac",
-        "progress": "#d08770",
+        "highlight": "#1DB954",
+        "progress": "#1DB954",
         "prompt_a": "#4c566a",
         "prompt_b": "#81a1c1",
         "prompt_c": "#d08770",
@@ -219,7 +220,10 @@ def ms_to_duration(ms: int) -> str:
     return f"{seconds // 60}:{seconds % 60:02d}"
 
 
-def parse_track(item: dict, is_current: bool = False, progress_ms: int | None = None) -> dict | None:
+_SPOTIFY_TOKEN = {"value": None, "exp": 0}
+
+
+def parse_track(item: dict, is_current: bool = False, progress_ms: int | None = None, is_playing: bool = False) -> dict | None:
     track = item.get("item") if "item" in item and is_current else item.get("track") or item
     if not track or track.get("type") not in (None, "track"):
         return None
@@ -233,12 +237,16 @@ def parse_track(item: dict, is_current: bool = False, progress_ms: int | None = 
         "duration_ms": duration_ms,
         "progress_ms": progress_ms,
         "current": is_current,
+        "is_playing": bool(is_playing and is_current),
     }
 
 
 def spotify_token() -> str | None:
     if not (SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET and SPOTIFY_REFRESH_TOKEN):
         return None
+    now = time.time()
+    if _SPOTIFY_TOKEN["value"] and now < _SPOTIFY_TOKEN["exp"] - 60:
+        return _SPOTIFY_TOKEN["value"]
     resp = requests.post(
         "https://accounts.spotify.com/api/token",
         data={"grant_type": "refresh_token", "refresh_token": SPOTIFY_REFRESH_TOKEN},
@@ -246,7 +254,11 @@ def spotify_token() -> str | None:
         timeout=20,
     )
     resp.raise_for_status()
-    return resp.json().get("access_token")
+    data = resp.json()
+    token = data.get("access_token")
+    _SPOTIFY_TOKEN["value"] = token
+    _SPOTIFY_TOKEN["exp"] = now + int(data.get("expires_in") or 3600)
+    return token
 
 
 def fetch_spotify_tracks() -> list[dict]:
@@ -264,7 +276,12 @@ def fetch_spotify_tracks() -> list[dict]:
         if now.status_code == 200 and now.content:
             payload = now.json()
             if payload.get("item"):
-                current = parse_track(payload, True, payload.get("progress_ms"))
+                current = parse_track(
+                    payload,
+                    True,
+                    payload.get("progress_ms"),
+                    payload.get("is_playing", False),
+                )
     except Exception:
         current = None
 
@@ -311,8 +328,7 @@ def kv_line(x: int, y: int, key: str, value: str, theme: dict) -> str:
 def build_svg(theme_name: str, avatar_uri: str, profile: dict, stats: dict, tracks: list[dict]) -> str:
     theme = THEMES[theme_name]
     now = datetime.datetime.now(TZ)
-    time_s = now.strftime("%H:%M")
-    date_s = now.strftime("%d.%m.%y")
+    stamp = now.strftime("%Y-%m-%d  %H:%M")
     login = profile["github"]
 
     info = [
@@ -343,13 +359,22 @@ def build_svg(theme_name: str, avatar_uri: str, profile: dict, stats: dict, trac
                 "progress_ms": 0,
             }
         ]
-    track_y0 = 192
-    track_lines = []
+    track_y0 = 204
+    track_lines = [
+        (
+            f'<text x="326" y="184" font-size="13">'
+            f'<tspan fill="#1DB954">Spotify</tspan>'
+            f'<tspan fill="{theme["muted"]}">  recently played</tspan>'
+            f"</text>"
+        )
+    ]
     if shown:
         for i, track in enumerate(shown):
             y = track_y0 + i * 22
-            color = theme["highlight"] if (track.get("current") or i == len(shown) - 1) else theme["text"]
-            label = truncate(track["label"], 50)
+            current_row = bool(track.get("current") or i == len(shown) - 1)
+            color = theme["highlight"] if current_row else theme["text"]
+            prefix = "▶ " if current_row else "  "
+            label = truncate(prefix + track["label"], 50)
             track_lines.append(
                 f'<text x="326" y="{y}" font-size="14" fill="{color}">{html.escape(label)}</text>'
                 f'<text x="940" y="{y}" font-size="14" fill="{color}" text-anchor="end">{html.escape(track["duration"])}</text>'
@@ -364,12 +389,12 @@ def build_svg(theme_name: str, avatar_uri: str, profile: dict, stats: dict, trac
     if current and current.get("duration_ms"):
         raw = current.get("progress_ms")
         progress = min(1.0, max(0.0, (raw if raw is not None else current["duration_ms"]) / current["duration_ms"]))
-    bar_x, bar_w, bar_y = 326, 614, 310
+    bar_x, bar_w, bar_y = 326, 614, 318
     knob_x = bar_x + int(bar_w * progress)
 
     palette = []
     for i, color in enumerate(theme["palette"]):
-        palette.append(f'<rect x="{326 + i * 22}" y="328" width="16" height="16" rx="2" fill="{color}"/>')
+        palette.append(f'<rect x="{326 + i * 22}" y="334" width="16" height="16" rx="2" fill="{color}"/>')
 
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="420" viewBox="0 0 980 420" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
@@ -395,31 +420,30 @@ def build_svg(theme_name: str, avatar_uri: str, profile: dict, stats: dict, trac
   <text x="164" y="394" font-size="13" fill="{theme["bg"]}">{html.escape(login)}</text>
   <text x="272" y="394" font-size="16" fill="{theme["text"]}">_</text>
   <rect x="668" y="376" width="296" height="28" rx="14" fill="{theme["capsule"]}"/>
-  <text x="816" y="395" text-anchor="middle" font-size="13" fill="{theme["capsule_text"]}">{time_s}   {date_s}</text>
+  <text x="816" y="395" text-anchor="middle" font-size="13" fill="{theme["capsule_text"]}">{stamp}</text>
 </svg>
 """
 
 
-def main() -> int:
+def apply_live_progress(tracks: list[dict], fetched_at: float) -> list[dict]:
+    out = [dict(track) for track in tracks]
+    if not out:
+        return out
+    current = out[-1]
+    if current.get("is_playing") and current.get("duration_ms"):
+        elapsed = int((time.time() - fetched_at) * 1000)
+        current["progress_ms"] = min(
+            int(current["duration_ms"]),
+            int(current.get("progress_ms") or 0) + max(0, elapsed),
+        )
+    return out
+
+
+def collect_github() -> dict:
     user = fetch_user()
     repos = fetch_repos()
-    owned = [r for r in repos if not r.get("fork")]
-    stars = sum(int(r.get("stargazers_count") or 0) for r in owned)
-    try:
-        contributed = fetch_contributed_count()
-    except Exception:
-        contributed = len(owned)
-    try:
-        commits = fetch_commit_count(user["created_at"])
-    except Exception:
-        commits = None
-    try:
-        tracks = fetch_spotify_tracks()
-    except Exception:
-        tracks = []
-    if tracks:
-        tracks[-1]["current"] = True
-
+    owned = [repo for repo in repos if not repo.get("fork")]
+    stars = sum(int(repo.get("stargazers_count") or 0) for repo in owned)
     profile = {
         "os": "macOS, Linux, Windows",
         "uptime": account_uptime(user["created_at"]),
@@ -429,16 +453,33 @@ def main() -> int:
     }
     stats = {
         "repos": user.get("public_repos") or len(owned),
-        "contributed": contributed if contributed is not None else len(owned),
         "stars": stars,
-        "commits": commits if commits is not None else "—",
         "followers": user.get("followers") or 0,
     }
     avatar_url = user.get("avatar_url") or f"https://github.com/{USER_NAME}.png"
-    avatar_uri = avatar_data_uri(avatar_url)
+    return {
+        "profile": profile,
+        "stats": stats,
+        "avatar_uri": avatar_data_uri(avatar_url),
+    }
+
+
+def render_card(theme: str, github: dict, tracks: list[dict], fetched_at: float | None = None) -> str:
+    live = apply_live_progress(tracks, fetched_at or time.time())
+    if live:
+        live[-1]["current"] = True
+    return build_svg(theme, github["avatar_uri"], github["profile"], github["stats"], live)
+
+
+def main() -> int:
+    github = collect_github()
+    try:
+        tracks = fetch_spotify_tracks()
+    except Exception:
+        tracks = []
     IMG_DIR.mkdir(parents=True, exist_ok=True)
-    DARK_SVG.write_text(build_svg("dark", avatar_uri, profile, stats, tracks), encoding="utf-8")
-    LIGHT_SVG.write_text(build_svg("light", avatar_uri, profile, stats, tracks), encoding="utf-8")
+    DARK_SVG.write_text(render_card("dark", github, tracks), encoding="utf-8")
+    LIGHT_SVG.write_text(render_card("light", github, tracks), encoding="utf-8")
     print(f"Wrote {DARK_SVG.relative_to(ROOT)} and {LIGHT_SVG.relative_to(ROOT)}")
     return 0
 
