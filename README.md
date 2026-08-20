@@ -55,7 +55,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.231590.xyz/api/videos.svg?theme=dark">
-    <img alt="最新视频" src="https://github.231590.xyz/api/videos.svg?theme=light">
+    <img alt="最新视频" src="https://github.231590.xyz/api/videos.svg">
   </picture>
 </p>
 <!--END_SECTION:latest-videos-->
