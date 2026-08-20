@@ -22,9 +22,11 @@ from zoneinfo import ZoneInfo
 
 import requests
 from dateutil import relativedelta
+from dotenv import load_dotenv
 from PIL import Image
 
 ROOT = Path(__file__).resolve().parents[1]
+load_dotenv(ROOT / ".env")
 IMG_DIR = ROOT / "img"
 DARK_SVG = IMG_DIR / "github_stats_dark.svg"
 LIGHT_SVG = IMG_DIR / "github_stats_light.svg"

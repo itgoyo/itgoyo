@@ -9,7 +9,8 @@ Env:
     PORT  default 8080
 
 Run:
-    uvicorn server.app:app --host 0.0.0.0 --port 8080
+    python -m uvicorn server.app:app --host 0.0.0.0 --port 8080
+    # 凭证写在仓库根目录 .env
 
 Nginx:
     location /api/profile.svg {
@@ -26,9 +27,11 @@ import threading
 import time
 from pathlib import Path
 
+from dotenv import load_dotenv
 from fastapi import FastAPI, Query, Response
 
 ROOT = Path(__file__).resolve().parents[1]
+load_dotenv(ROOT / ".env")
 sys.path.insert(0, str(ROOT / "src"))
 
 from updateGithubStats import collect_github, fetch_spotify_tracks, render_card  # noqa: E402

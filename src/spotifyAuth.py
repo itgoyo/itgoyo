@@ -13,8 +13,12 @@ import sys
 import urllib.parse
 import webbrowser
 from http.server import BaseHTTPRequestHandler, HTTPServer
+from pathlib import Path
 
 import requests
+from dotenv import load_dotenv
+
+load_dotenv(Path(__file__).resolve().parents[1] / ".env")
 
 REDIRECT_URI = "http://127.0.0.1:4180/callback"
 SCOPES = "user-read-currently-playing user-read-recently-played"

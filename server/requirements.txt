@@ -1,5 +1,6 @@
 fastapi
 uvicorn[standard]
 python-dateutil
+python-dotenv
 requests
 Pillow

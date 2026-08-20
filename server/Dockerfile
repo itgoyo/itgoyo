@@ -6,6 +6,7 @@ RUN pip install --no-cache-dir -r /app/server/requirements.txt
 
 COPY src /app/src
 COPY server /app/server
+COPY .env.example /app/.env.example
 
 ENV PYTHONUNBUFFERED=1
 ENV PORT=8080

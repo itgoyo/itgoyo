@@ -1,3 +1,4 @@
 python-dateutil
+python-dotenv
 requests
 Pillow

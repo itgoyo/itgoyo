@@ -10,5 +10,8 @@ build/
 .venv/
 venv/
 
+# secrets
+.env
+
 # macOS
 .DS_Store
