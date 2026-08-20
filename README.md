@@ -17,6 +17,15 @@
 
 <p align="center">
   <a href="https://github.com/itgoyo">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="img/github_stats_dark.svg">
+      <img alt="itgoyo's GitHub Stats" src="img/github_stats_light.svg">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/itgoyo">
     <img src="https://231590.xyz/api/githubfollower.svg">
   </a>
 </p>
