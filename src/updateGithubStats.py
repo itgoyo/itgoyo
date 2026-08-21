@@ -294,21 +294,34 @@ def fetch_recently_played() -> list[dict]:
     resp = _http.get(
         "https://api.spotify.com/v1/me/player/recently-played",
         headers={"Authorization": f"Bearer {token}"},
-        params={"limit": TRACK_LIMIT},
+        params={"limit": 50},
         timeout=8,
     )
     resp.raise_for_status()
-    rows = [parse_track(row, False) for row in (resp.json().get("items") or [])]
-    return [row for row in rows if row]
+    rows = []
+    seen = set()
+    for row in resp.json().get("items") or []:
+        track = parse_track(row, False)
+        if not track or track["id"] in seen:
+            continue
+        seen.add(track["id"])
+        rows.append(track)
+    rows.reverse()
+    return rows
 
 
 def merge_spotify_tracks(current: dict | None, previous: list[dict]) -> list[dict]:
     history = []
+    seen: set[str] = set()
     current_id = current["id"] if current else None
+    if current_id:
+        seen.add(current_id)
     for row in previous:
         item = dict(row)
-        if current_id and item.get("id") == current_id:
+        tid = item.get("id")
+        if not tid or tid in seen:
             continue
+        seen.add(tid)
         item["current"] = False
         item["is_playing"] = False
         history.append(item)
@@ -325,7 +338,7 @@ def fetch_spotify_tracks() -> list[dict]:
         current = None
     recent = []
     try:
-        recent = list(reversed(fetch_recently_played()))
+        recent = fetch_recently_played()
     except Exception:
         recent = []
     return merge_spotify_tracks(current, recent)

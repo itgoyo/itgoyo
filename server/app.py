@@ -55,6 +55,7 @@ _lock = threading.Lock()
 _state = {
     "github": None,
     "tracks": [],
+    "recent": [],
     "fetched_at": 0.0,
     "github_at": 0.0,
     "recent_at": 0.0,
@@ -63,6 +64,25 @@ _state = {
     "douban": {"books": [], "movies": [], "games": []},
     "media_at": 0.0,
 }
+
+
+def _spotify_recent() -> list[dict]:
+    with _lock:
+        recent = list(_state["recent"])
+        recent_at = _state["recent_at"]
+    now = time.time()
+    if recent and now - recent_at <= SPOTIFY_RECENT_INTERVAL:
+        return recent
+    try:
+        fetched = fetch_recently_played()
+    except Exception:
+        return recent
+    if fetched:
+        with _lock:
+            _state["recent"] = fetched
+            _state["recent_at"] = now
+        return fetched
+    return recent
 
 
 def _refresh_github_spotify() -> None:
@@ -84,25 +104,11 @@ def _refresh_github_spotify() -> None:
             current = fetch_currently_playing()
         except Exception:
             current = None
-        now = time.time()
-        with _lock:
-            prev = list(_state["tracks"])
-            recent_at = _state["recent_at"]
-        recent = prev
-        try:
-            if now - recent_at > SPOTIFY_RECENT_INTERVAL or len(prev) < TRACK_LIMIT:
-                fetched = list(reversed(fetch_recently_played()))
-                if fetched:
-                    recent = fetched
-                    recent_at = now
-        except Exception:
-            pass
-        tracks = merge_spotify_tracks(current, recent)
+        tracks = merge_spotify_tracks(current, _spotify_recent())
         if tracks:
             with _lock:
                 _state["tracks"] = tracks
                 _state["fetched_at"] = time.time()
-                _state["recent_at"] = recent_at
         time.sleep(SPOTIFY_INTERVAL)
 
 
@@ -165,17 +171,7 @@ def _live_spotify() -> tuple[list[dict], float | None]:
     with _lock:
         cached = list(_state["tracks"])
         cached_at = _state["fetched_at"]
-        recent_at = _state["recent_at"]
-    now = time.time()
-    recent = cached
-    if not recent or len(recent) < TRACK_LIMIT or now - recent_at > SPOTIFY_RECENT_INTERVAL:
-        try:
-            fetched = list(reversed(fetch_recently_played()))
-            if fetched:
-                recent = fetched
-                recent_at = now
-        except Exception:
-            pass
+    recent = _spotify_recent()
     try:
         current = fetch_currently_playing()
     except Exception:
@@ -187,7 +183,6 @@ def _live_spotify() -> tuple[list[dict], float | None]:
     with _lock:
         _state["tracks"] = tracks
         _state["fetched_at"] = fetched_at
-        _state["recent_at"] = recent_at
     return tracks, fetched_at
 
 
