@@ -378,7 +378,7 @@ def render_douban(theme_key: str, board: dict[str, list[dict]]) -> str:
         [
             ("读过", a["read"], board.get("books") or []),
             ("看过", a["watch"], board.get("movies") or []),
-            ("想玩", a["play"], board.get("games") or []),
+            ("玩过", a["play"], board.get("games") or []),
         ],
         cover_w=52,
         cover_h=70,

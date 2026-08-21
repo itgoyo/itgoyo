@@ -3,7 +3,7 @@
 Data source (public user pages):
     - Book  collect:  https://book.douban.com/people/:user/collect
     - Movie collect:  https://movie.douban.com/people/:user/collect
-    - Game  wish:     https://www.douban.com/people/:user/games?action=wish
+    - Game  collect:  https://www.douban.com/people/:user/games?action=collect
 
 Images are downloaded locally to img/douban/ to bypass hotlink protection.
 
@@ -32,7 +32,7 @@ ITEM_COUNT = int(os.environ.get("DOUBAN_ITEM_COUNT", "4"))
 
 BOOK_COLLECT_URL = f"https://book.douban.com/people/{DOUBAN_USER_ID}/collect"
 MOVIE_COLLECT_URL = f"https://movie.douban.com/people/{DOUBAN_USER_ID}/collect"
-GAME_WISH_URL = f"https://www.douban.com/people/{DOUBAN_USER_ID}/games?action=wish"
+GAME_COLLECT_URL = f"https://www.douban.com/people/{DOUBAN_USER_ID}/games?action=collect"
 
 IMAGE_DIR = "img/douban"
 
@@ -131,12 +131,12 @@ def fetch_douban(count: int | None = None) -> dict[str, list[dict[str, str]]]:
     return {
         "books": _fetch_items(BOOK_COLLECT_URL, "douban-book", _parse_book_items, n),
         "movies": _fetch_items(MOVIE_COLLECT_URL, "douban-movie", _parse_movie_items, n),
-        "games": _fetch_items(GAME_WISH_URL, "douban-game", _parse_game_items, n),
+        "games": _fetch_items(GAME_COLLECT_URL, "douban-game", _parse_game_items, n),
     }
 
 
 def _parse_rating(block: str) -> str:
-    m = re.search(r'class="rating([1-5])-t"', block)
+    m = re.search(r"allstar([1-5])0", block) or re.search(r'class="rating([1-5])-t"', block)
     return m.group(1) if m else ""
 
 
@@ -212,14 +212,15 @@ def _parse_game_items(page: str, count: int) -> list[dict[str, str]]:
     )
     result: list[dict[str, str]] = []
     for url, img, title, desc in matches[:count]:
+        raw_desc = html.unescape(desc)
         result.append(
             {
                 "title": html.unescape(title.strip()),
                 "subtitle": "",
                 "url": html.unescape(url),
                 "image": _normalize_image(img),
-                "rating": "",
-                "year": _parse_year(html.unescape(desc)),
+                "rating": _parse_rating(desc),
+                "year": _parse_year(raw_desc),
             }
         )
     return result
@@ -275,7 +276,7 @@ def _build_dashboard(
     parts = [
         _build_row("📚 读过", book_items, img_w=120, img_h=160),
         _build_row("🎬 看过", movie_items, img_w=120, img_h=160),
-        _build_row("🎮 想玩", game_items, img_w=120, img_h=160),
+        _build_row("🎮 玩过", game_items, img_w=120, img_h=160),
     ]
     return "\n\n".join(parts)
 
