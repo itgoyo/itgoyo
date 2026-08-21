@@ -12,6 +12,7 @@ Paths:
     /api/douban.svg
 
 Nginx: do not cache /api/profile.svg; pass through Cache-Control; proxy_cache off for that location.
+Cloudflare: Bypass cache for /api/profile.svg; Browser Cache TTL = Respect Existing Headers.
 """
 from __future__ import annotations
 
@@ -145,17 +146,15 @@ threading.Thread(target=_refresh_media, daemon=True).start()
 
 def _svg_headers(*, live: bool = False) -> dict[str, str]:
     headers = {
-        "Cache-Control": (
-            "public, max-age=0, s-maxage=5, must-revalidate"
-            if live
-            else "public, max-age=0, s-maxage=60, must-revalidate"
-        ),
+        "Cache-Control": "s-maxage=1" if live else "public, max-age=0, s-maxage=60, must-revalidate",
         "Pragma": "no-cache",
         "Expires": "0",
         "Access-Control-Allow-Origin": "*",
     }
     if live:
         headers["Refresh"] = "5"
+        headers["CDN-Cache-Control"] = "no-store"
+        headers["Cloudflare-CDN-Cache-Control"] = "no-store"
     return headers
 
 
