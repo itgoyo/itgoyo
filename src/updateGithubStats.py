@@ -392,7 +392,7 @@ def kv_line(x: int, y: int, key: str, value: str, theme: dict) -> str:
 
 
 def stamp_text(fetched_at: float | None = None) -> str:
-    return datetime.datetime.now(TZ).strftime("%Y-%m-%d  %H:%M:%S")
+    return datetime.datetime.now(TZ).strftime("%Y-%m-%d")
 
 
 def build_svg(
