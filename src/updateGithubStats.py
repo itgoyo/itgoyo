@@ -1,12 +1,4 @@
-"""Generate a terminal-style GitHub + Spotify SVG for the profile README.
-
-Spotify (optional, GitHub Actions secrets):
-    SPOTIFY_CLIENT_ID
-    SPOTIFY_CLIENT_SECRET
-    SPOTIFY_REFRESH_TOKEN
-Scopes: user-read-currently-playing user-read-recently-played
-Get a refresh token with: python src/spotifyAuth.py
-"""
+"""Generate a terminal-style GitHub SVG for the profile README."""
 from __future__ import annotations
 
 import base64
@@ -39,6 +31,7 @@ SPOTIFY_REFRESH_TOKEN = os.environ.get("SPOTIFY_REFRESH_TOKEN", "")
 TZ = ZoneInfo("Asia/Shanghai")
 TOP_LANGUAGES = 4
 TRACK_LIMIT = 5
+TOP_REPOS = 5
 LANG_ALIAS = {"JavaScript": "JS", "TypeScript": "TS", "Objective-C": "ObjC"}
 
 THEMES = {
@@ -400,7 +393,7 @@ def build_svg(
     avatar_uri: str,
     profile: dict,
     stats: dict,
-    tracks: list[dict],
+    top_repos: list[dict],
     fetched_at: float | None = None,
 ) -> str:
     theme = THEMES[theme_name]
@@ -421,63 +414,29 @@ def build_svg(
         ),
     ]
 
-    shown = tracks[-TRACK_LIMIT:]
-    if not shown:
-        shown = [
-            {"label": "—", "duration": "--:--", "current": False, "duration_ms": 0, "progress_ms": None}
-            for _ in range(TRACK_LIMIT - 1)
-        ] + [
-            {
-                "label": "Spotify offline",
-                "duration": "--:--",
-                "current": True,
-                "duration_ms": 0,
-                "progress_ms": 0,
-            }
-        ]
-    track_y0 = 204
+    shown = (top_repos or [])[:TOP_REPOS]
+    repo_y0 = 204
     dash = "-" * 16
-    track_lines = [
+    repo_lines = [
         (
             f'<text x="636" y="184" text-anchor="middle" font-size="13">'
             f'<tspan fill="{theme["muted"]}">{dash}  </tspan>'
-            f'<tspan fill="#1DB954">Spotify</tspan>'
-            f'<tspan fill="{theme["muted"]}"> recently played  {dash}</tspan>'
+            f'<tspan fill="{theme["label"]}">Top starred</tspan>'
+            f'<tspan fill="{theme["muted"]}"> repos  {dash}</tspan>'
             f"</text>"
         )
     ]
     if shown:
-        for i, track in enumerate(shown):
-            y = track_y0 + i * 22
-            current_row = bool(track.get("current") or i == len(shown) - 1)
-            color = theme["highlight"] if current_row else theme["text"]
-            if track.get("is_playing"):
-                track_lines.append(equalizer_svg(326, y, theme["highlight"]))
-                label = truncate(track["label"], 47)
-                title_x = 348
-            else:
-                prefix = "▶ " if current_row else "  "
-                label = truncate(prefix + track["label"], 50)
-                title_x = 326
-            track_lines.append(
-                f'<text x="{title_x}" y="{y}" font-size="14" fill="{color}">{html.escape(label)}</text>'
-                f'<text x="940" y="{y}" font-size="14" fill="{color}" text-anchor="end">{html.escape(track["duration"])}</text>'
+        for i, repo in enumerate(shown):
+            y = repo_y0 + i * 22
+            repo_lines.append(
+                f'<text x="326" y="{y}" font-size="14" fill="{theme["text"]}">{html.escape(truncate(repo["name"], 42))}</text>'
+                f'<text x="940" y="{y}" font-size="14" fill="{theme["text"]}" text-anchor="end">{comma(repo["stars"])}</text>'
             )
     else:
-        track_lines.append(
-            f'<text x="326" y="{track_y0}" font-size="14" fill="{theme["muted"]}">Spotify offline</text>'
+        repo_lines.append(
+            f'<text x="326" y="{repo_y0}" font-size="14" fill="{theme["muted"]}">No repositories</text>'
         )
-
-    current = next((t for t in shown if t.get("current")), shown[-1] if shown else None)
-    progress = 0.0
-    remain_s = 0.0
-    if current and current.get("duration_ms"):
-        raw = current.get("progress_ms")
-        duration_ms = current["duration_ms"]
-        progress_ms = raw if raw is not None else duration_ms
-        progress = min(1.0, max(0.0, progress_ms / duration_ms))
-        remain_s = max(0.0, (duration_ms - progress_ms) / 1000.0)
-    playing = bool(current and current.get("is_playing"))
 
     palette = []
     for i, color in enumerate(theme["palette"]):
@@ -494,8 +453,7 @@ def build_svg(
   <text x="636" y="44" text-anchor="middle" font-size="16" fill="{theme["text"]}">&lt; {html.escape(login)} &gt;</text>
   <text x="636" y="60" text-anchor="middle" font-size="12" fill="{theme["muted"]}">--------------------------------</text>
   {''.join(info)}
-  {''.join(track_lines)}
-  {progress_bar_svg(theme, progress, playing, remain_s)}
+  {''.join(repo_lines)}
   {''.join(palette)}
   <path d="M16 372 L78 372 L90 404 L16 404 Z" fill="{theme["prompt_a"]}"/>
   <path d="M70 372 L148 372 L160 404 L82 404 Z" fill="{theme["prompt_b"]}"/>
@@ -506,9 +464,6 @@ def build_svg(
   <text x="272" y="394" font-size="16" fill="{theme["text"]}">_</text>
   <rect x="668" y="376" width="296" height="28" rx="14" fill="{theme["capsule"]}"/>
   <text x="816" y="395" text-anchor="middle" font-size="13" fill="{theme["capsule_text"]}">{stamp}</text>
-<script type="text/javascript"><![CDATA[
-setTimeout(function () {{ try {{ location.reload(); }} catch (e) {{}} }}, 5000);
-]]></script>
 </svg>
 """
 
@@ -532,6 +487,12 @@ def collect_github() -> dict:
     repos = fetch_repos()
     owned = [repo for repo in repos if not repo.get("fork")]
     stars = sum(int(repo.get("stargazers_count") or 0) for repo in owned)
+    ranked = sorted(owned, key=lambda repo: int(repo.get("stargazers_count") or 0), reverse=True)
+    top_repos = [
+        {"name": repo.get("name") or "", "stars": int(repo.get("stargazers_count") or 0)}
+        for repo in ranked
+        if repo.get("name")
+    ][:TOP_REPOS]
     profile = {
         "os": "macOS, Linux, Windows",
         "uptime": account_uptime(user["created_at"]),
@@ -549,27 +510,26 @@ def collect_github() -> dict:
         "profile": profile,
         "stats": stats,
         "avatar_uri": avatar_data_uri(avatar_url),
+        "top_repos": top_repos,
     }
 
 
-def render_card(theme: str, github: dict, tracks: list[dict], fetched_at: float | None = None) -> str:
-    live = apply_live_progress(tracks, fetched_at or time.time())
-    if live:
-        live[-1]["current"] = True
-    return build_svg(theme, github["avatar_uri"], github["profile"], github["stats"], live, fetched_at)
+def render_card(theme: str, github: dict, fetched_at: float | None = None) -> str:
+    return build_svg(
+        theme,
+        github["avatar_uri"],
+        github["profile"],
+        github["stats"],
+        github.get("top_repos") or [],
+        fetched_at,
+    )
 
 
 def main() -> int:
     github = collect_github()
-    fetched_at = None
-    try:
-        tracks = fetch_spotify_tracks()
-        fetched_at = time.time()
-    except Exception:
-        tracks = []
     IMG_DIR.mkdir(parents=True, exist_ok=True)
-    DARK_SVG.write_text(render_card("dark", github, tracks, fetched_at), encoding="utf-8")
-    LIGHT_SVG.write_text(render_card("light", github, tracks, fetched_at), encoding="utf-8")
+    DARK_SVG.write_text(render_card("dark", github), encoding="utf-8")
+    LIGHT_SVG.write_text(render_card("light", github), encoding="utf-8")
     print(f"Wrote {DARK_SVG.relative_to(ROOT)} and {LIGHT_SVG.relative_to(ROOT)}")
     return 0
 

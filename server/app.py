@@ -37,29 +37,16 @@ from mediaCards import (  # noqa: E402
     render_videos,
     theme_name,
 )
-from updateGithubStats import (  # noqa: E402
-    TRACK_LIMIT,
-    collect_github,
-    fetch_currently_playing,
-    fetch_recently_played,
-    merge_spotify_tracks,
-    render_card,
-)
+from updateGithubStats import collect_github, render_card  # noqa: E402
 
-SPOTIFY_INTERVAL = 5
-SPOTIFY_RECENT_INTERVAL = 30
-GITHUB_INTERVAL = 1800
+GITHUB_INTERVAL = 3600
 MEDIA_INTERVAL = 1800
 PORT = int(os.environ.get("PORT", "8080"))
 
 _lock = threading.Lock()
 _state = {
     "github": None,
-    "tracks": [],
-    "recent": [],
-    "fetched_at": 0.0,
     "github_at": 0.0,
-    "recent_at": 0.0,
     "bilibili": [],
     "youtube": [],
     "douban": {"books": [], "movies": [], "games": []},
@@ -67,50 +54,16 @@ _state = {
 }
 
 
-def _spotify_recent() -> list[dict]:
-    with _lock:
-        recent = list(_state["recent"])
-        recent_at = _state["recent_at"]
-    now = time.time()
-    if recent and now - recent_at <= SPOTIFY_RECENT_INTERVAL:
-        return recent
-    try:
-        fetched = fetch_recently_played()
-    except Exception:
-        return recent
-    if fetched:
-        with _lock:
-            _state["recent"] = fetched
-            _state["recent_at"] = now
-        return fetched
-    return recent
-
-
-def _refresh_github_spotify() -> None:
+def _refresh_github() -> None:
     while True:
-        now = time.time()
-        with _lock:
-            github = _state["github"]
-            github_at = _state["github_at"]
-        if github is None or now - github_at > GITHUB_INTERVAL:
-            try:
-                github = collect_github()
-                with _lock:
-                    _state["github"] = github
-                    _state["github_at"] = time.time()
-            except Exception:
-                pass
-        current = None
         try:
-            current = fetch_currently_playing()
-        except Exception:
-            current = None
-        tracks = merge_spotify_tracks(current, _spotify_recent())
-        if tracks:
+            github = collect_github()
             with _lock:
-                _state["tracks"] = tracks
-                _state["fetched_at"] = time.time()
-        time.sleep(SPOTIFY_INTERVAL)
+                _state["github"] = github
+                _state["github_at"] = time.time()
+        except Exception:
+            pass
+        time.sleep(GITHUB_INTERVAL)
 
 
 def _refresh_media() -> None:
@@ -140,7 +93,7 @@ def _refresh_media() -> None:
 
 
 app = FastAPI()
-threading.Thread(target=_refresh_github_spotify, daemon=True).start()
+threading.Thread(target=_refresh_github, daemon=True).start()
 threading.Thread(target=_refresh_media, daemon=True).start()
 
 
@@ -166,25 +119,6 @@ def _svg(body: str, *, live: bool = False) -> Response:
     )
 
 
-def _live_spotify() -> tuple[list[dict], float | None]:
-    with _lock:
-        cached = list(_state["tracks"])
-        cached_at = _state["fetched_at"]
-    recent = _spotify_recent()
-    try:
-        current = fetch_currently_playing()
-    except Exception:
-        current = None
-    tracks = merge_spotify_tracks(current, recent) or recent[-TRACK_LIMIT:]
-    if not tracks:
-        return cached, cached_at or None
-    fetched_at = time.time()
-    with _lock:
-        _state["tracks"] = tracks
-        _state["fetched_at"] = fetched_at
-    return tracks, fetched_at
-
-
 @app.get("/health")
 def health():
     with _lock:
@@ -202,8 +136,7 @@ def profile_svg(theme: str = Query("dark")):
         with _lock:
             _state["github"] = github
             _state["github_at"] = time.time()
-    tracks, fetched_at = _live_spotify()
-    return _svg(render_card(theme, github, tracks, fetched_at), live=True)
+    return _svg(render_card(theme, github))
 
 
 def _videos_payload() -> tuple[list[dict], list[dict]]:
