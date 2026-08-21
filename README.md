@@ -9,10 +9,10 @@
 ## 🚀 Now Building
 
 <!--START_SECTION:now-building-->
-- Shipping updates, latest: [xShot · xShot 1.0.4](https://github.com/itgoyo/xShot/releases/tag/v1.0.4).
-- Maintaining active projects: [xShot](https://github.com/itgoyo/xShot), [TelegramGroup](https://github.com/itgoyo/TelegramGroup).
+- Shipping steady updates across open-source projects.
+- Maintaining active projects: [itgoyo](https://github.com/itgoyo/itgoyo), [ADManager](https://github.com/itgoyo/ADManager), [TelegramBot](https://github.com/itgoyo/TelegramBot).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-08-19 (UTC).
+- Updated automatically on 2026-08-21 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
