@@ -78,11 +78,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python         2 hrs 47 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
-Objective-C    2 hrs 35 mins         ██████░░░░░░░░░░░░░░░░░░░   24.00 %
-Markdown       1 hr 54 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
-Image (png)    59 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-TypeScript     31 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+Python        4 hrs 24 mins         ██████████▒░░░░░░░░░░░░░░   40.90 %
+Objective-C   2 hrs 6 mins          █████░░░░░░░░░░░░░░░░░░░░   19.60 %
+Markdown      1 hr 46 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
+TypeScript    38 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+Java          20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
