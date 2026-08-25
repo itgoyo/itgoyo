@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [itgoyo](https://github.com/itgoyo/itgoyo), [ADManager](https://github.com/itgoyo/ADManager), [TelegramBot](https://github.com/itgoyo/TelegramBot).
+- Maintaining active projects: [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [itgoyo.github.io](https://github.com/itgoyo/itgoyo.github.io), [itgoyo](https://github.com/itgoyo/itgoyo).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-08-24 (UTC).
+- Updated automatically on 2026-08-25 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
