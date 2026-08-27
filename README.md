@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [msg_delete_ban_bot](https://github.com/itgoyo/msg_delete_ban_bot), [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [itgoyo.github.io](https://github.com/itgoyo/itgoyo.github.io).
+- Maintaining active projects: [bilibili-transcript-skill](https://github.com/itgoyo/bilibili-transcript-skill), [itgoyo.github.io](https://github.com/itgoyo/itgoyo.github.io), [msg_delete_ban_bot](https://github.com/itgoyo/msg_delete_ban_bot).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-08-26 (UTC).
+- Updated automatically on 2026-08-27 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
