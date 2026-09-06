@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [quick-clash](https://github.com/itgoyo/quick-clash), [TelegramBot](https://github.com/itgoyo/TelegramBot), [TelegramGroup](https://github.com/itgoyo/TelegramGroup).
+- Maintaining active projects: [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [quick-clash](https://github.com/itgoyo/quick-clash), [TelegramBot](https://github.com/itgoyo/TelegramBot).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-09-05 (UTC).
+- Updated automatically on 2026-09-06 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
