@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [Awesome-VibeCoding](https://github.com/itgoyo/Awesome-VibeCoding), [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [quick-clash](https://github.com/itgoyo/quick-clash).
+- Maintaining active projects: [TelegramBot](https://github.com/itgoyo/TelegramBot), [Awesome-VibeCoding](https://github.com/itgoyo/Awesome-VibeCoding), [TelegramGroup](https://github.com/itgoyo/TelegramGroup).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-09-10 (UTC).
+- Updated automatically on 2026-09-11 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
