@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [telegram-wiki](https://github.com/itgoyo/telegram-wiki), [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [Awesome-VibeCoding](https://github.com/itgoyo/Awesome-VibeCoding).
+- Maintaining active projects: [itgoyo.github.io](https://github.com/itgoyo/itgoyo.github.io), [TelegramGroup](https://github.com/itgoyo/TelegramGroup), [500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-09-14 (UTC).
+- Updated automatically on 2026-09-15 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
