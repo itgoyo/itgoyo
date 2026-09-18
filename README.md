@@ -118,6 +118,12 @@ Text              34 mins               █░░░░░░░░░░░░�
     - MINISFORUM um480XT Pro 16G 512G SSD Linux Mint
     - i5-4790 16G 60G 1T Linux Mint
     - Dell R730XD(E5-2680*2 ESXi + 3Ubuntu)
+    
+- :keyboard: keyboard:
+    - HHKB
+    - HHKB+YDKB
+    - HHBK+YDKB
+    - iKBC Poker2 
 
 - :iphone: phone/iPhone:
     - iPhone12
