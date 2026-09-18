@@ -119,7 +119,7 @@ Text              34 mins               █░░░░░░░░░░░░�
     - i5-4790 16G 60G 1T Linux Mint
     - Dell R730XD(E5-2680*2 ESXi + 3Ubuntu)
     
-- :keyboard: keyboard:
+- :keyboard: Keyboard:
     - HHKB
     - HHKB+YDKB
     - HHBK+YDKB
