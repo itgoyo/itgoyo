@@ -122,6 +122,7 @@ Text              34 mins               █░░░░░░░░░░░░�
 - :iphone: phone/iPhone:
     - iPhone12
     - OnePlus6
+    - OnePlus8
     - OnePlus13
 
 - :camera: Camera:
