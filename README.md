@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [Telegram100-CN](https://github.com/itgoyo/Telegram100-CN), [itgoyo.github.io](https://github.com/itgoyo/itgoyo.github.io), [TelegramGroup](https://github.com/itgoyo/TelegramGroup).
+- Maintaining active projects: [img-design](https://github.com/itgoyo/img-design), [awesome-telegram](https://github.com/itgoyo/awesome-telegram), [Telegram100-CN](https://github.com/itgoyo/Telegram100-CN).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-09-17 (UTC).
+- Updated automatically on 2026-09-18 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
