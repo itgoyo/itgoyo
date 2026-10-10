@@ -131,6 +131,7 @@ No activity tracked
     - Sony A6000
     - Sony A6400
     - Sony A7M4
+    - Dji Pocket 4P
 
 - :microphone: Mic:
     - SM7B + ID14MKII
