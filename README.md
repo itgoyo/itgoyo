@@ -41,6 +41,14 @@
 ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
 
+## 🎧 Spotify Playing
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
+
 ## 最新视频
 
 <!--START_SECTION:latest-videos-->
@@ -134,4 +142,3 @@ Text           51 mins               ██░░░░░░░░░░░░�
     - MAONO PM320T + E2
 
 </details>
-
