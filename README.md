@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [itgoyo](https://github.com/itgoyo/itgoyo), [TelegramGroup](https://github.com/itgoyo/TelegramGroup).
+- Maintaining active projects: [itgoyo](https://github.com/itgoyo/itgoyo).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-10-15 (UTC).
+- Updated automatically on 2026-10-16 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
