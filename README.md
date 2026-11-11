@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [awesome-crypto](https://github.com/itgoyo/awesome-crypto), [Telegram100-CN](https://github.com/itgoyo/Telegram100-CN), [telegram-money-making](https://github.com/itgoyo/telegram-money-making).
+- Maintaining active projects: [gmail-registration-guide](https://github.com/itgoyo/gmail-registration-guide), [awesome-crypto](https://github.com/itgoyo/awesome-crypto), [Telegram100-CN](https://github.com/itgoyo/Telegram100-CN).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-11-10 (UTC).
+- Updated automatically on 2026-11-11 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
