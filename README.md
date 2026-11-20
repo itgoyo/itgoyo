@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [gmail-registration-guide](https://github.com/itgoyo/gmail-registration-guide), [awesome-crypto](https://github.com/itgoyo/awesome-crypto).
+- Maintaining active projects: [awesome-investing](https://github.com/itgoyo/awesome-investing), [gmail-registration-guide](https://github.com/itgoyo/gmail-registration-guide).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-11-19 (UTC).
+- Updated automatically on 2026-11-20 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
