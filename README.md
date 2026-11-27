@@ -10,9 +10,9 @@
 
 <!--START_SECTION:now-building-->
 - Shipping steady updates across open-source projects.
-- Maintaining active projects: [VPS-Black-Friday](https://github.com/itgoyo/VPS-Black-Friday), [awesome-investing](https://github.com/itgoyo/awesome-investing), [gmail-registration-guide](https://github.com/itgoyo/gmail-registration-guide).
+- Maintaining active projects: [Financial_Freedom](https://github.com/itgoyo/Financial_Freedom), [gmail-registration-guide](https://github.com/itgoyo/gmail-registration-guide), [VPS-Black-Friday](https://github.com/itgoyo/VPS-Black-Friday).
 - Writing and sharing practical notes on engineering, tools, and life.
-- Updated automatically on 2026-11-26 (UTC).
+- Updated automatically on 2026-11-27 (UTC).
 <!--END_SECTION:now-building-->
 
 <p align="center">
